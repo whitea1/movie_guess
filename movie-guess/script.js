@@ -63,7 +63,9 @@ function handleLetter(letter, btn) {
     target.split('').forEach((ch, i) => {
       if (ch === upper) {
         revealed[i] = upper;
-        wordContainer.children[i].textContent = upper;
+        const box = wordContainer.children[i];
+        box.textContent = upper;
+        box.classList.add('reveal');
       }
     });
     checkWin();
@@ -85,6 +87,8 @@ function updateHints() {
 function checkWin() {
   if (!revealed.includes('_')) {
     msg.textContent = `🎉 You guessed it! "${movie.title}"`;
+    msg.classList.remove('lose');
+    msg.classList.add('win');
     disableAllKeys();
   }
 }
@@ -92,6 +96,8 @@ function checkWin() {
 function checkLose() {
   if (wrongGuesses >= maxWrong) {
     msg.textContent = `😢 Out of tries! The movie was "${movie.title}"`;
+    msg.classList.remove('win');
+    msg.classList.add('lose');
     disableAllKeys();
   }
 }
