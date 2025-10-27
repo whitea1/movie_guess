@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Movie Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <header class="top-bar">
+      <h1>The Daily Movie Quiz</h1>
+      <p>Guess the daily movie title letter by letter!</p>
+
+      <div class="top-buttons">
+        <button id="open-stats" class = "top-btns">Stats</button>
+        <button id="hint-button" class = "top-btns">Hint 1</button>
+      </div>
+    </header>
+
+    <main id="game">
+      <div id="lives" class="lives-counter">
+        Lives Remaining: <span id="lives-count">6</span>
+      </div>
+
+      <div id="word-container"></div>
+      <div id="keyboard"></div>
+      <div id="message"></div>
+    </main>
+
+    <footer>
+      Built using TMDb API
+    </footer>
+  </div>
+
+  <!-- 🎬 Result Modal -->
+  <div id="result-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2 id="modal-title"></h2>
+      <p id="modal-message"></p>
+      <p id="streak-info"></p>
+      <button id="share-button">Share</button>
+      <button id="close-modal">Close</button>
+    </div>
+  </div>
+
+  <!-- 📊 Stats Modal -->
+  <div id="stats-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2>Your Stats</h2>
+      <div id="stats-body"></div>
+      <button id="close-stats" class="danger-btn">Close</button>
+      <button id="reset-stats" class="danger-btn">Reset Stats</button>
+    </div>
+  </div>
+
+  <!-- Hint Modal -->
+  <div id="hint-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2 id="hint-title">Hint</h2>
+      <p id="hint-text"></p>
+      <button id="close-hint">Close</button>
+    </div>
+  </div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
