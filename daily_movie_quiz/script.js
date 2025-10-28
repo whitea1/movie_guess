@@ -110,19 +110,31 @@ function updateLives() {
 function renderWord() {
   wordContainer.innerHTML = '';
   if (!movie) return;
-  movie.normalized.split('').forEach((ch, i) => {
-    const box = document.createElement('div');
-    box.classList.add('letter-box');
-    if (ch === ' ') {
-      box.classList.add('space');
-      box.textContent = '';
-    } else {
-      const display = revealed[i] === '_' || !revealed[i] ? '' : revealed[i];
-      box.textContent = display;
+
+  const words = movie.normalized.split(' ');
+  let index = 0;
+
+  words.forEach(word => {
+    const wordGroup = document.createElement('div');
+    wordGroup.classList.add('word-group');
+
+    for (let i = 0; i < word.length; i++) {
+      const box = document.createElement('div');
+      box.classList.add('letter-box');
+      const ch = revealed[index];
+      box.textContent = ch === '_' ? '' : ch;
+      wordGroup.appendChild(box);
+      index++;
     }
-    wordContainer.appendChild(box);
+
+    // Skip over the space in revealed array
+    index++;
+    wordContainer.appendChild(wordGroup);
   });
 }
+
+
+
 
 function renderKeyboard() {
   keyboardEl.innerHTML = '';

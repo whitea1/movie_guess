@@ -54,14 +54,21 @@
     font-weight: bold;
   }
   
-  
   #word-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 6px;
+    gap: 20px; /* spacing between words */
+    margin-bottom: 60px;
   }
   
+  .word-group {
+    display: flex;
+    gap: 4px; /* spacing between letters in a word */
+    white-space: nowrap; /* keeps word together */
+  }
+  
+
   .letter-box {
     width: 45px;
     height: 55px;
@@ -72,6 +79,7 @@
     justify-content: center;
     font-size: 1.5em;
     background: #222;
+    white-space: nowrap;
   }
   
   .space {
@@ -79,12 +87,16 @@
     border: none;
     background: none;
   }
+
+
+  
   
   #keyboard {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 8px;
+    margin-bottom: 50px;
   }
   
   .key-row {
