@@ -263,8 +263,8 @@ function showModal(won) {
     const pointsEarned = Math.max(maxWrong - wrongGuesses, 0);
     modalMessage.textContent = `You guessed "${movie.title}" and earned ${pointsEarned} points!`;
     streakInfo.innerHTML = `Total Points: <strong>${stats.totalPoints}</strong><br>
-                            Current streak: ${stats.currentStreak}<br>
-                            Best: ${stats.bestStreak}`;
+                            Current Streak: ${stats.currentStreak}<br>
+                            Best Streak: ${stats.bestStreak}`;
   
   
   } else {
