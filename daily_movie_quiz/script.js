@@ -308,7 +308,7 @@ function shareResult(won) {
     `${won ? `WON — ${pointsEarned} points earned` : 'LOST'}\n` +
     `${emojiGrid}\n` +
     `Total Points: ${stats.totalPoints}\n` +
-    `Come back tomorrow!`;
+    `Play at: https://www.thedmq.com`;
   
   
   
