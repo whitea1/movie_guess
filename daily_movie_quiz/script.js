@@ -304,7 +304,6 @@ function shareResult(won) {
   const stats = loadStats();
   const shareText =
     `🎬 Daily Movie Quiz ${todayKey()}\n` +
-    `Movie: ${movie.title}\n` +
     `${won ? `WON — ${pointsEarned} points earned` : 'LOST'}\n` +
     `${emojiGrid}\n` +
     `Total Points: ${stats.totalPoints}\n` +
