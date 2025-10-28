@@ -109,29 +109,34 @@ function updateLives() {
 
 function renderWord() {
   wordContainer.innerHTML = '';
-  if (!movie) return;
+  if (!movie || !revealed) return;
 
   const words = movie.normalized.split(' ');
-  let index = 0;
+  let letterIndex = 0;
 
-  words.forEach(word => {
+  words.forEach((word, wordIdx) => {
     const wordGroup = document.createElement('div');
     wordGroup.classList.add('word-group');
 
     for (let i = 0; i < word.length; i++) {
       const box = document.createElement('div');
       box.classList.add('letter-box');
-      const ch = revealed[index];
+
+      // reveal the correct letter from the revealed array
+      const ch = revealed[letterIndex];
       box.textContent = ch === '_' ? '' : ch;
+
       wordGroup.appendChild(box);
-      index++;
+      letterIndex++;
     }
 
-    // Skip over the space in revealed array
-    index++;
+    // skip the space in the revealed array *only if there’s another word after*
+    if (wordIdx < words.length - 1) letterIndex++;
+
     wordContainer.appendChild(wordGroup);
   });
 }
+
 
 
 
@@ -195,6 +200,7 @@ function handleLetter(letter, btn) {
       }
     });
     saveProgress();
+    renderWord();
     checkWin();
   } else {
     if (btn) btn.classList.add('wrong');
@@ -464,10 +470,12 @@ async function fetchMovie() {
       wrongGuesses = saved.wrongGuesses || 0;
       guessedLetters = new Set(saved.guessedLetters || []);
 
-    
-      renderWord();
-      renderKeyboard();
-      updateLives();
+      setTimeout (() => {
+        renderWord();
+        renderKeyboard();
+        updateLives();
+      }, 0)
+
       // ✅ Restore hint stage from saved progress
       hintStage = saved.hintStage || 0;
 
