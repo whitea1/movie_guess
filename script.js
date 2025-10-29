@@ -174,7 +174,11 @@ function updateHints() {
 }
 
 function disableAllKeys() {
-  document.querySelectorAll('.key').forEach(k => (k.disabled = true));
+  document.querySelectorAll('.key').forEach(k => {
+    k.disabled = true;
+    k.style.opacity = '0.5';
+    k.style.cursor = 'not-allowed';
+  } );
 }
 
 // ---------------- core gameplay ----------------
@@ -287,7 +291,7 @@ function showModal(won) {
   
   } else {
     modalTitle.textContent = 'Oh no! Better Luck Tomorrow';
-    streakInfo.textContent = `Current streak: ${stats.currentStreak}<br>
+    streakInfo.innerHTML = `Current streak: ${stats.currentStreak}<br>
                               Best: ${stats.bestStreak}`;
   }
 
@@ -495,6 +499,7 @@ async function fetchMovie() {
         msg.textContent = '✅ You already solved today’s movie!';
         msg.classList.add('win');
         disableAllKeys();
+        keyboardEl.style.display = 'none';
         showModal(true);
         return; // Stop here
       }
@@ -504,6 +509,7 @@ async function fetchMovie() {
         msg.textContent = '💀 You’ve used all your lives.';
         msg.classList.add('lose');
         disableAllKeys();
+        keyboardEl.style.display = 'none';
         showModal(false);
         return; // Stop here
       }
