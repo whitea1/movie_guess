@@ -1,0 +1,23 @@
+{
+  "name": "movie_guess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch-movies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitea1/movie_guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitea1/movie_guess/issues"
+  },
+  "homepage": "https://github.com/whitea1/movie_guess#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

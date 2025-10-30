@@ -522,50 +522,44 @@ async function fetchMovie() {
     
     
 
-    console.log('🌐 No saved state — fetching TMDB');
-    const res = await fetch(`${TMDB_BASE}/movie/popular?api_key=${API_KEY}&language=en-US&page=1`);
-    console.log('TMDB response status:', res.status);
-    if (!res.ok) {
-      const text = await res.text();
-      throw new Error(`TMDB fetch failed: ${res.status} ${text}`);
-    }
-    const data = await res.json();
-    const movies = data.results;
-    if (!movies || movies.length === 0) throw new Error('No movies returned from TMDB');
+    console.log('📁 No saved state — loading local movie list');
 
-    const seed = parseInt(todayKey().replace(/-/g,''), 10);
-    const index = seed % movies.length;
-    const m = movies[index];
-
-    const detailsRes = await fetch(`${TMDB_BASE}/movie/${m.id}?api_key=${API_KEY}&language=en-US`);
-    if (!detailsRes.ok) {
-      const text = await detailsRes.text();
-      throw new Error(`TMDB details fetch failed: ${detailsRes.status} ${text}`);
-    }
-    const details = await detailsRes.json();
-
+    const res = await fetch('movies.json');
+    if (!res.ok) throw new Error(`Failed to load movies.json`);
+    const movieList = await res.json();
+    
+    if (!Array.isArray(movieList) || movieList.length === 0)
+      throw new Error('movies.json is empty or invalid');
+    
+    // Use deterministic index based on today's date
+    const seed = parseInt(todayKey().replace(/-/g, ''), 10);
+    const index = seed % movieList.length;
+    const m = movieList[index];
+    
+    // Build movie object (same format as TMDB)
     movie = {
       title: m.title,
       normalized: normalize(m.title),
-      year: details.release_date?.slice(0,4),
-      genres: (details.genres || []).map(g => g.name),
-      poster: m.poster_path ? POSTER_BASE + m.poster_path : ''
+      year: m.year,
+      genres: m.genres || [],
+      poster: m.poster || ''
     };
-
+    
     // initialize game state
     revealed = movie.normalized.split('').map(ch => (ch === ' ' ? ' ' : '_'));
     wrongGuesses = 0;
     guessedLetters = new Set();
-
+    
     // init UI
     if (typeof poster !== 'undefined' && poster) {
       poster.src = movie.poster;
-    }    
+    }
+    
     renderWord();
     renderKeyboard();
     updateHints();
     updateLives();
-
+    
     // ✅ re-enable hint button for new day
     hintButton.disabled = false;
     hintButton.style.opacity = '1';
