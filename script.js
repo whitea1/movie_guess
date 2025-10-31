@@ -291,9 +291,10 @@ function showModal(won) {
   
   } else {
     modalTitle.textContent = 'Oh No! Better Luck Tomorrow';
-    modalMessage.textContent = `It was "${movie.title}".`;
-    streakInfo.innerHTML = `Current streak: ${stats.currentStreak}<br>
-                              Best: ${stats.bestStreak}`;
+    modalMessage.textContent = `It was "${movie.title}". No points awarded.`;
+    streakInfo.innerHTML = `Total Points: ${stats.totalPoints}<br>
+                            Current Streak: ${stats.currentStreak}<br>
+                            Best Streak: ${stats.bestStreak}`;
   }
 
   shareBtn.onclick = shareResult;
