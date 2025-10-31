@@ -92,9 +92,6 @@
     background: none;
   }
 
-
-  
-  
   #keyboard {
     display: flex;
     flex-direction: column;
@@ -219,10 +216,10 @@
 
 .modal-content {
   background: #1f1f1f;
-  padding: 30px;
+  padding: 20px;
   border-radius: 12px;
   text-align: center;
-  max-width: 400px;
+  max-width: 250px;
   width: 90%;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);
   animation: fadeIn 0.3s ease;
