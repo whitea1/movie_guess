@@ -327,9 +327,10 @@ function shareResult(won) {
   const stats = loadStats();
   const shareText =
     `🎬 Daily Movie Quiz ${todayKey()}\n` +
-    `${won ? `WON — ${pointsEarned} points earned` : 'LOST'}\n` +
+    `${pointsEarned} points earned!\n` +
     `${emojiGrid}\n` +
     `Total Points: ${stats.totalPoints}\n` +
+    `Current Streak: ${stats.currentStreak}\n` +
     `Play at: https://www.thedmq.com`;
   
   
