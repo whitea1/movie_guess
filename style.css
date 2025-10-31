@@ -29,6 +29,10 @@
     margin-bottom: 20px;
   }
 
+  #dmq {
+    font-size: 40px;
+  }
+
   
   #game {
     background: #1f1f1f;
@@ -376,6 +380,10 @@
 @media (max-width: 600px) {
   body {
     padding: 10px;
+  }
+
+  #dmq {
+    font-size: 40px;
   }
 
   #app {

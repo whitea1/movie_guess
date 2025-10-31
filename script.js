@@ -137,10 +137,6 @@ function renderWord() {
   });
 }
 
-
-
-
-
 function renderKeyboard() {
   keyboardEl.innerHTML = '';
   const rows = ['QWERTYUIOP', 'ASDFGHJKL', 'ZXCVBNM'];
@@ -283,15 +279,15 @@ function showModal(won) {
   if (won) {
     modalTitle.textContent = 'Well Done!';
     const pointsEarned = Math.max(maxWrong - wrongGuesses, 0);
-    modalMessage.textContent = `You guessed "${movie.title}" and earned ${pointsEarned} points!`;
+    modalMessage.innerHTML = `You guessed "${movie.title}".<br><br><strong>${pointsEarned} points awarded!</strong>`;
     streakInfo.innerHTML = `Total Points: <strong>${stats.totalPoints}</strong><br>
                             Current Streak: ${stats.currentStreak}<br>
                             Best Streak: ${stats.bestStreak}`;
   
   
   } else {
-    modalTitle.textContent = 'Oh No! Better Luck Tomorrow';
-    modalMessage.textContent = `It was "${movie.title}". No points awarded.`;
+    modalTitle.textContent = 'Oops! Better Luck Tomorrow';
+    modalMessage.innerHTML = `It was "${movie.title}".<br><br><strong>No points awarded.</strong>`;
     streakInfo.innerHTML = `Total Points: ${stats.totalPoints}<br>
                             Current Streak: ${stats.currentStreak}<br>
                             Best Streak: ${stats.bestStreak}`;
