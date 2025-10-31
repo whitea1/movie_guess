@@ -322,8 +322,10 @@ function shareResult(won) {
   const hintsUsed = Math.min(hintStage, 3); // 0–3 hints possible
   const pointsEarned = Math.max(maxWrong - wrongGuesses, 0);
   const stats = loadStats();
+  const [year, month, day] = todayKey().split("-");
+  const formattedDate = `${day}-${month}-${year}`;
   const shareText =
-    `🎬 Daily Movie Quiz ${todayKey()}\n` +
+    `🎬 Daily Movie Quiz ${formattedDate}\n` +
     `${pointsEarned} points earned!\n` +
     `${emojiGrid}\n` +
     `Total Points: ${stats.totalPoints}\n` +
@@ -505,7 +507,7 @@ async function fetchMovie() {
     
       // ✅ Already lost
       if (saved.livesRemaining !== undefined && saved.livesRemaining <= 0) {
-        msg.textContent = '💀 You’ve used all your lives.';
+        msg.textContent = '💀 You’re out of lives.';
         msg.classList.add('lose');
         disableAllKeys();
         keyboardEl.style.display = 'none';
