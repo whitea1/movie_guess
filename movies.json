@@ -1,302 +1,5 @@
 [
   {
-    "id": 1119878,
-    "title": "Ice Road: Vengeance",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg"
-  },
-  {
-    "id": 1429750,
-    "title": "Everybody Loves Me When I'm Dead",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Crime",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/p43EHgFFik8csqNlRDI9uVU1onx.jpg"
-  },
-  {
-    "id": 346698,
-    "title": "Barbie",
-    "year": "2023",
-    "genres": [
-      "Comedy",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
-  },
-  {
-    "id": 1337395,
-    "title": "Kiskisan",
-    "year": "2024",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xTKDqre2om0YHHkiQbkiFyMorE9.jpg"
-  },
-  {
-    "id": 1011985,
-    "title": "Kung Fu Panda 4",
-    "year": "2024",
-    "genres": [
-      "Animation",
-      "Family",
-      "Action",
-      "Comedy",
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
-  },
-  {
-    "id": 4247,
-    "title": "Scary Movie",
-    "year": "2000",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg"
-  },
-  {
-    "id": 637649,
-    "title": "Wrath of Man",
-    "year": "2021",
-    "genres": [
-      "Thriller",
-      "Crime",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3.jpg"
-  },
-  {
-    "id": 1230368,
-    "title": "Springsteen: Deliver Me from Nowhere",
-    "year": "2025",
-    "genres": [
-      "Drama",
-      "Music"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg"
-  },
-  {
-    "id": 948,
-    "title": "Halloween",
-    "year": "1978",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg"
-  },
-  {
-    "id": 13,
-    "title": "Forrest Gump",
-    "year": "1994",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
-  },
-  {
-    "id": 10439,
-    "title": "Hocus Pocus",
-    "year": "1993",
-    "genres": [
-      "Fantasy",
-      "Comedy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg"
-  },
-  {
-    "id": 210577,
-    "title": "Gone Girl",
-    "year": "2014",
-    "genres": [
-      "Mystery",
-      "Thriller",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg"
-  },
-  {
-    "id": 1498658,
-    "title": "Mantis",
-    "year": "2025",
-    "genres": [],
-    "poster": "https://image.tmdb.org/t/p/w500/AvoOuMkzckcd9eozRnoZlpfY12A.jpg"
-  },
-  {
-    "id": 109445,
-    "title": "Frozen",
-    "year": "2013",
-    "genres": [
-      "Animation",
-      "Family",
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg"
-  },
-  {
-    "id": 1184918,
-    "title": "The Wild Robot",
-    "year": "2024",
-    "genres": [
-      "Animation",
-      "Science Fiction",
-      "Family",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
-  },
-  {
-    "id": 1144107,
-    "title": "The Legend of Hei 2",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Fantasy",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/l1Q7YzanazjJescEkSfcRuIj1hR.jpg"
-  },
-  {
-    "id": 1377413,
-    "title": "St. Patrick's Day Massacre",
-    "year": "2025",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/mc83CBPbeHQceWwrb8wlvxCaL3k.jpg"
-  },
-  {
-    "id": 675,
-    "title": "Harry Potter and the Order of the Phoenix",
-    "year": "2007",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg"
-  },
-  {
-    "id": 11,
-    "title": "Star Wars",
-    "year": "1977",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
-  },
-  {
-    "id": 106,
-    "title": "Predator",
-    "year": "1987",
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg"
-  },
-  {
-    "id": 1051486,
-    "title": "Stockholm Bloodbath",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "History",
-      "Drama",
-      "Adventure",
-      "War"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/tzXOB8nxO70SfSbOhrYcY94x6MI.jpg"
-  },
-  {
-    "id": 814662,
-    "title": "Kakushigoto Theatrical Edition",
-    "year": "2021",
-    "genres": [
-      "Animation",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/gkq4iIx4ParsPJ5Wn3ETbx5p9OD.jpg"
-  },
-  {
-    "id": 1010600,
-    "title": "The Strangers: Chapter 1",
-    "year": "2024",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg"
-  },
-  {
-    "id": 156022,
-    "title": "The Equalizer",
-    "year": "2014",
-    "genres": [
-      "Thriller",
-      "Action",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg"
-  },
-  {
-    "id": 1285965,
-    "title": "Dangerous Animals",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/oQJ1PKLIE2gF5cr3xwjLCvv4jcU.jpg"
-  },
-  {
-    "id": 558449,
-    "title": "Gladiator II",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg"
-  },
-  {
-    "id": 769,
-    "title": "GoodFellas",
-    "year": "1990",
-    "genres": [
-      "Drama",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg"
-  },
-  {
-    "id": 438631,
-    "title": "Dune",
-    "year": "2021",
-    "genres": [
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
-  },
-  {
     "id": 1206988,
     "title": "A Tribe Called Judah",
     "year": "2023",
@@ -307,103 +10,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/9aMG2ftIFqFAN69FdjovKJY0hsd.jpg"
   },
   {
-    "id": 121,
-    "title": "The Lord of the Rings: The Two Towers",
-    "year": "2002",
+    "id": 270655,
+    "title": "People: A Musical Celebration",
+    "year": "1995",
     "genres": [
-      "Adventure",
+      "Animation"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lWcTir4r9bIAvp39aYzz0ZFhJef.jpg"
+  },
+  {
+    "id": 9479,
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "genres": [
       "Fantasy",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
-  },
-  {
-    "id": 8587,
-    "title": "The Lion King",
-    "year": "1994",
-    "genres": [
-      "Family",
       "Animation",
-      "Drama",
-      "Adventure"
+      "Family"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
-  },
-  {
-    "id": 324786,
-    "title": "Hacksaw Ridge",
-    "year": "2016",
-    "genres": [
-      "Drama",
-      "History",
-      "War"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg"
-  },
-  {
-    "id": 1376434,
-    "title": "Predator: Killer of Killers",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Action",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg"
-  },
-  {
-    "id": 1450529,
-    "title": "Gunman",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/eBw5Vso0K3r8Dzycxz0E0lgC40z.jpg"
-  },
-  {
-    "id": 1492108,
-    "title": "Kandungan",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/5F5yEFbsVIygB1ztyuFZbf9lKhm.jpg"
-  },
-  {
-    "id": 1062722,
-    "title": "Frankenstein",
-    "year": "2025",
-    "genres": [
-      "Drama",
-      "Horror",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/v9NLaLBbrkDwq44qG51v8T6sPuI.jpg"
-  },
-  {
-    "id": 155,
-    "title": "The Dark Knight",
-    "year": "2008",
-    "genres": [
-      "Drama",
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
-  },
-  {
-    "id": 694,
-    "title": "The Shining",
-    "year": "1980",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xazWoLealQwEgqZ89MLZklLZD3k.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
   },
   {
     "id": 585,
@@ -415,289 +39,6 @@
       "Family"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg"
-  },
-  {
-    "id": 385687,
-    "title": "Fast X",
-    "year": "2023",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller",
-      "Adventure",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg"
-  },
-  {
-    "id": 569094,
-    "title": "Spider-Man: Across the Spider-Verse",
-    "year": "2023",
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
-  },
-  {
-    "id": 829560,
-    "title": "The Next 365 Days",
-    "year": "2022",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/8AWm7iMcsCI3DdGz4YEJtiMDp8Z.jpg"
-  },
-  {
-    "id": 1027950,
-    "title": "Hotel Dunsmuir",
-    "year": "2022",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qtFnBCvCldbN0R9JFMF83Kv5uPY.jpg"
-  },
-  {
-    "id": 872585,
-    "title": "Oppenheimer",
-    "year": "2023",
-    "genres": [
-      "Drama",
-      "History"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
-  },
-  {
-    "id": 862,
-    "title": "Toy Story",
-    "year": "1995",
-    "genres": [
-      "Family",
-      "Comedy",
-      "Animation",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
-  },
-  {
-    "id": 1245993,
-    "title": "Caught Stealing",
-    "year": "2025",
-    "genres": [
-      "Crime",
-      "Thriller",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg"
-  },
-  {
-    "id": 617126,
-    "title": "The Fantastic 4: First Steps",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg"
-  },
-  {
-    "id": 9806,
-    "title": "The Incredibles",
-    "year": "2004",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Animation",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
-  },
-  {
-    "id": 1419406,
-    "title": "The Shadow's Edge",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg"
-  },
-  {
-    "id": 1042834,
-    "title": "Eden",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg"
-  },
-  {
-    "id": 354912,
-    "title": "Coco",
-    "year": "2017",
-    "genres": [
-      "Family",
-      "Animation",
-      "Music",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
-  },
-  {
-    "id": 507244,
-    "title": "Afterburn",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xR0IhVBjbNU34b8erhJCgRbjXo3.jpg"
-  },
-  {
-    "id": 238,
-    "title": "The Godfather",
-    "year": "1972",
-    "genres": [
-      "Drama",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
-  },
-  {
-    "id": 1289936,
-    "title": "Downton Abbey: The Grand Finale",
-    "year": "2025",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg"
-  },
-  {
-    "id": 793387,
-    "title": "Holy Night: Demon Hunters",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg"
-  },
-  {
-    "id": 1022787,
-    "title": "Elio",
-    "year": "2025",
-    "genres": [
-      "Family",
-      "Comedy",
-      "Adventure",
-      "Animation",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7z8jDiTZZco9moIKpTUImFtTy7o.jpg"
-  },
-  {
-    "id": 1419027,
-    "title": "Attack 13",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/o0xLAwiQzrVrizykDKWeaqMj38E.jpg"
-  },
-  {
-    "id": 1413602,
-    "title": "WWE Raw on Netflix Premier Post-Show",
-    "year": "2025",
-    "genres": [
-      "TV Movie"
-    ],
-    "poster": ""
-  },
-  {
-    "id": 927254,
-    "title": "The Twits",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg"
-  },
-  {
-    "id": 348,
-    "title": "Alien",
-    "year": "1979",
-    "genres": [
-      "Horror",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
-  },
-  {
-    "id": 1235746,
-    "title": "Dead of Winter",
-    "year": "2025",
-    "genres": [
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg"
-  },
-  {
-    "id": 105,
-    "title": "Back to the Future",
-    "year": "1985",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
-  },
-  {
-    "id": 1029281,
-    "title": "Strange Darling",
-    "year": "2024",
-    "genres": [
-      "Crime",
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg"
-  },
-  {
-    "id": 822119,
-    "title": "Captain America: Brave New World",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg"
-  },
-  {
-    "id": 425,
-    "title": "Ice Age",
-    "year": "2002",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg"
   },
   {
     "id": 552524,
@@ -712,519 +53,68 @@
     "poster": "https://image.tmdb.org/t/p/w500/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg"
   },
   {
-    "id": 845781,
-    "title": "Red One",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg"
-  },
-  {
-    "id": 1061474,
-    "title": "Superman",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Adventure",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wPLysNDLffQLOVebZQCbXJEv6E6.jpg"
-  },
-  {
-    "id": 803796,
-    "title": "KPop Demon Hunters",
-    "year": "2025",
-    "genres": [
-      "Fantasy",
-      "Music",
-      "Comedy",
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/AjlRXTpRLAIiuofNqKcqrpUfPCZ.jpg"
-  },
-  {
-    "id": 936108,
-    "title": "Smurfs",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/8o6lkhL32xQJeB52IIG1us5BVey.jpg"
-  },
-  {
-    "id": 792307,
-    "title": "Poor Things",
-    "year": "2023",
-    "genres": [
-      "Science Fiction",
-      "Romance",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
-  },
-  {
-    "id": 273477,
-    "title": "Scouts Guide to the Zombie Apocalypse",
-    "year": "2015",
-    "genres": [
-      "Comedy",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lUKvvSnjFlazrdh6wyHxHrdMknD.jpg"
-  },
-  {
-    "id": 1257009,
-    "title": "Primitive War",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Horror",
-      "War"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/nWBqU5YXmDVJWWEDJ4u3ZSseNVL.jpg"
-  },
-  {
-    "id": 1726,
-    "title": "Iron Man",
-    "year": "2008",
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
-  },
-  {
-    "id": 937941,
-    "title": "Shelby Oaks",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/i3omY4P6QUzFQlEeclWY92RuXCH.jpg"
-  },
-  {
-    "id": 146233,
-    "title": "Prisoners",
-    "year": "2013",
-    "genres": [
-      "Drama",
-      "Thriller",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg"
-  },
-  {
-    "id": 47971,
-    "title": "xXx: Return of Xander Cage",
-    "year": "2017",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg"
-  },
-  {
-    "id": 1078605,
-    "title": "Weapons",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg"
-  },
-  {
-    "id": 933260,
-    "title": "The Substance",
-    "year": "2024",
-    "genres": [
-      "Drama",
-      "Horror",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
-  },
-  {
-    "id": 950387,
-    "title": "A Minecraft Movie",
-    "year": "2025",
-    "genres": [
-      "Family",
-      "Fantasy",
-      "Comedy",
-      "Adventure",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg"
-  },
-  {
-    "id": 324857,
-    "title": "Spider-Man: Into the Spider-Verse",
-    "year": "2018",
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
-  },
-  {
-    "id": 693134,
-    "title": "Dune: Part Two",
-    "year": "2024",
-    "genres": [
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
-  },
-  {
-    "id": 755898,
-    "title": "War of the Worlds",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg"
-  },
-  {
-    "id": 157336,
-    "title": "Interstellar",
+    "id": 198663,
+    "title": "The Maze Runner",
     "year": "2014",
     "genres": [
-      "Adventure",
-      "Drama",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
-  },
-  {
-    "id": 1124620,
-    "title": "The Monkey",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg"
-  },
-  {
-    "id": 58008,
-    "title": "Night Nurse",
-    "year": "1979",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/tzhBAhN35YjobVG3Ubm3ERnzhBL.jpg"
-  },
-  {
-    "id": 1519168,
-    "title": "The Jester 2",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/giV7FS7HGyxRbwqxudXPvv1RgXD.jpg"
-  },
-  {
-    "id": 1236470,
-    "title": "The Lost Bus",
-    "year": "2025",
-    "genres": [
-      "Drama",
+      "Action",
       "Mystery",
+      "Science Fiction",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/zpygCOYY1DPBkeUsrrznLRN5js5.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg"
   },
   {
-    "id": 76600,
-    "title": "Avatar: The Way of Water",
-    "year": "2022",
+    "id": 49521,
+    "title": "Man of Steel",
+    "year": "2013",
     "genres": [
       "Action",
       "Adventure",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg"
   },
   {
-    "id": 1086910,
-    "title": "The Lost Princess",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg"
-  },
-  {
-    "id": 1246049,
-    "title": "Dracula: A Love Tale",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Fantasy",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/33SzuggkFlHAy3FE5qM9YmoMSOf.jpg"
-  },
-  {
-    "id": 14836,
-    "title": "Coraline",
-    "year": "2009",
-    "genres": [
-      "Animation",
-      "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg"
-  },
-  {
-    "id": 1267319,
-    "title": "Mantis",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/x6WLRwwddFKattMseWL3m7Geskd.jpg"
-  },
-  {
-    "id": 1232546,
-    "title": "Until Dawn",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg"
-  },
-  {
-    "id": 1100782,
-    "title": "Smile 2",
-    "year": "2024",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg"
-  },
-  {
-    "id": 1328803,
-    "title": "Prisoner of War",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "War",
-      "Thriller",
-      "History"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg"
-  },
-  {
-    "id": 559,
-    "title": "Spider-Man 3",
-    "year": "2007",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg"
-  },
-  {
-    "id": 1280450,
-    "title": "Stolen Girl",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Action",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fZlNXEHZsBp7unqw009MeBbMv87.jpg"
-  },
-  {
-    "id": 790462,
-    "title": "I.S.S.",
-    "year": "2024",
-    "genres": [
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg"
-  },
-  {
-    "id": 1244039,
-    "title": "Butchers Book Two: Raghorn",
-    "year": "2024",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/uSLYBuDTHpTAJI9vcm2brMu4J9H.jpg"
-  },
-  {
-    "id": 423108,
-    "title": "The Conjuring: The Devil Made Me Do It",
-    "year": "2021",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/rQfX2xx8TUoNvyk892yKWNikJaM.jpg"
-  },
-  {
-    "id": 980477,
-    "title": "Ne Zha 2",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Fantasy",
-      "Adventure",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg"
-  },
-  {
-    "id": 1241470,
-    "title": "Osiris",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/3YtZHtXPNG5AleisgEatEfZOT2w.jpg"
-  },
-  {
-    "id": 597,
-    "title": "Titanic",
-    "year": "1997",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
-  },
-  {
-    "id": 786892,
-    "title": "Furiosa: A Mad Max Saga",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
-  },
-  {
-    "id": 1185528,
-    "title": "Legends of the Condor Heroes: The Gallants",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fUCFEGFlMIFet9ja72JDAeG1he8.jpg"
-  },
-  {
-    "id": 1300116,
-    "title": "Fall for Me",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/mduZ3YRKele4rHhrse7b7B3d44b.jpg"
-  },
-  {
-    "id": 1011477,
-    "title": "Karate Kid: Legends",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/AEgggzRr1vZCLY86MAp93li43z.jpg"
-  },
-  {
-    "id": 1221415,
-    "title": "Brute 1976",
-    "year": "2024",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/jrbYuJNMRPzdQ5RZ2FGKfQbD1Qz.jpg"
-  },
-  {
-    "id": 9479,
-    "title": "The Nightmare Before Christmas",
-    "year": "1993",
-    "genres": [
-      "Fantasy",
-      "Animation",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
-  },
-  {
-    "id": 12201,
-    "title": "Edge of Darkness",
-    "year": "2010",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/pvHjp1vEFmp5FquSCPQ2O95tIZJ.jpg"
-  },
-  {
-    "id": 533533,
-    "title": "TRON: Ares",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Adventure",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg"
-  },
-  {
-    "id": 335984,
-    "title": "Blade Runner 2049",
+    "id": 346364,
+    "title": "It",
     "year": "2017",
     "genres": [
-      "Science Fiction",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
-  },
-  {
-    "id": 1275151,
-    "title": "She Walks in Darkness",
-    "year": "2025",
-    "genres": [
-      "Drama",
+      "Horror",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/lR7TH2IlUJWh92HuiYrlb8rNuCp.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg"
+  },
+  {
+    "id": 537915,
+    "title": "After",
+    "year": "2019",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg"
+  },
+  {
+    "id": 1362315,
+    "title": "The Hand That Rocks the Cradle",
+    "year": "2025",
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/hH953zlL3xdEDpizAquISRrSm1P.jpg"
+  },
+  {
+    "id": 285,
+    "title": "Pirates of the Caribbean: At World's End",
+    "year": "2007",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg"
   },
   {
     "id": 1328402,
@@ -1238,165 +128,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/3NyL99rcDr5S4qQ8FXDwWiLujEE.jpg"
   },
   {
-    "id": 1382406,
-    "title": "Striking Rescue",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/nML8rOI4GOiiEsXgknuhZeUF8M7.jpg"
-  },
-  {
-    "id": 1196364,
-    "title": "Thamma",
-    "year": "2025",
-    "genres": [
-      "Comedy",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/d1SbIg1r1eowrCWsxHO6BJqQQwN.jpg"
-  },
-  {
-    "id": 1175942,
-    "title": "The Bad Guys 2",
-    "year": "2025",
-    "genres": [
-      "Family",
-      "Comedy",
-      "Crime",
-      "Adventure",
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg"
-  },
-  {
-    "id": 1072699,
-    "title": "Inside Furioza",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/dbe1zKVKNBIczdmRcm7jxEphYLz.jpg"
-  },
-  {
-    "id": 272,
-    "title": "Batman Begins",
-    "year": "2005",
-    "genres": [
-      "Drama",
-      "Crime",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg"
-  },
-  {
-    "id": 615453,
-    "title": "Ne Zha",
-    "year": "2019",
-    "genres": [
-      "Animation",
-      "Fantasy",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg"
-  },
-  {
-    "id": 338969,
-    "title": "The Toxic Avenger Unrated",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/sIonGSpGNtH72OzbJllPOEMNjVU.jpg"
-  },
-  {
-    "id": 10092,
-    "title": "Cry_Wolf",
-    "year": "2005",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7OQ2McKYgnyfIHHkm0jBxQnu7ou.jpg"
-  },
-  {
-    "id": 122917,
-    "title": "The Hobbit: The Battle of the Five Armies",
-    "year": "2014",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg"
-  },
-  {
-    "id": 1118770,
-    "title": "Nineteen",
-    "year": "2025",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4rC6hYYVUG7F8bAi9BPzhp00W5G.jpg"
-  },
-  {
-    "id": 1252309,
-    "title": "Tell Me What You Want",
-    "year": "2024",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/k82T5L1utX1G2LhNWeza9nGUKPk.jpg"
-  },
-  {
-    "id": 1256208,
-    "title": "E poi si vede",
-    "year": "2025",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2F7BgMdsovQOuckShdK5i0WRjRe.jpg"
-  },
-  {
-    "id": 1251717,
-    "title": "Vicious",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/dYxrsyUEdFOOq7xzIuvEb1858Sg.jpg"
-  },
-  {
-    "id": 1195631,
-    "title": "William Tell",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "History"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/8SdaetXSTPyQVDb5pTEPRLBSx15.jpg"
-  },
-  {
-    "id": 1422096,
-    "title": "Good Boy",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg"
-  },
-  {
     "id": 1291661,
     "title": "Tide",
     "year": "2024",
@@ -1406,454 +137,25 @@
     "poster": "https://image.tmdb.org/t/p/w500/47sKhC5xyh9oUYz4icO4MB8ern8.jpg"
   },
   {
-    "id": 666950,
-    "title": "An Affair: Kind Daughters-in-law 3",
-    "year": "2019",
-    "genres": [
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vMkZ311wQLXsICzjcAqVQivqDKs.jpg"
-  },
-  {
-    "id": 1242011,
-    "title": "Together",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/m52XidzKx94bKlToZfEXUnL3pdy.jpg"
-  },
-  {
-    "id": 976573,
-    "title": "Elemental",
-    "year": "2023",
-    "genres": [
-      "Family",
-      "Fantasy",
-      "Comedy",
-      "Romance",
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
-  },
-  {
-    "id": 604079,
-    "title": "The Long Walk",
-    "year": "2025",
-    "genres": [
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg"
-  },
-  {
-    "id": 1426776,
-    "title": "STRAW",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Drama",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg"
-  },
-  {
-    "id": 1100988,
-    "title": "28 Years Later",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg"
-  },
-  {
-    "id": 1044736,
-    "title": "I Swear",
-    "year": "2025",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2vRX9FLH18tKXglKYX7N8vj85DW.jpg"
-  },
-  {
-    "id": 1535290,
-    "title": "Host",
-    "year": "2025",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/3AalQRe1NQkHmvHXrDePnB8JBtt.jpg"
-  },
-  {
-    "id": 519182,
-    "title": "Despicable Me 4",
-    "year": "2024",
-    "genres": [
-      "Family",
-      "Comedy",
-      "Animation",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg"
-  },
-  {
-    "id": 98566,
-    "title": "Teenage Mutant Ninja Turtles",
-    "year": "2014",
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg"
-  },
-  {
-    "id": 1499837,
-    "title": "Fantasmagoría",
-    "year": "",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/rJwBLXG4MXi3uPxb9pu0d0Dtlnt.jpg"
-  },
-  {
-    "id": 615457,
-    "title": "Nobody",
-    "year": "2021",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg"
-  },
-  {
-    "id": 1306525,
-    "title": "The Elixir",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wvWRCDR0wScmrJVAh2iipBSxkZw.jpg"
-  },
-  {
-    "id": 1362315,
-    "title": "The Hand That Rocks the Cradle",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/hH953zlL3xdEDpizAquISRrSm1P.jpg"
-  },
-  {
-    "id": 1053008,
-    "title": "Fight Another Day",
-    "year": "2024",
-    "genres": [
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fKnLt1xQV0RdpN6RViowEiD1dFW.jpg"
-  },
-  {
-    "id": 911430,
-    "title": "F1",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg"
-  },
-  {
-    "id": 945961,
-    "title": "Alien: Romulus",
-    "year": "2024",
-    "genres": [
-      "Horror",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg"
-  },
-  {
-    "id": 950396,
-    "title": "The Gorge",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg"
-  },
-  {
-    "id": 1477114,
-    "title": "Sorority",
-    "year": "2025",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/zibf9SwgiEW7Od5kwdRLSoQygRd.jpg"
-  },
-  {
-    "id": 290098,
-    "title": "The Handmaiden",
-    "year": "2016",
-    "genres": [
-      "Thriller",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/dLlH4aNHdnmf62umnInL8xPlPzw.jpg"
-  },
-  {
-    "id": 986097,
-    "title": "HIM",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg"
-  },
-  {
-    "id": 1233413,
-    "title": "Sinners",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg"
-  },
-  {
-    "id": 566263,
-    "title": "A Christmas Tree",
-    "year": "1972",
+    "id": 425,
+    "title": "Ice Age",
+    "year": "2002",
     "genres": [
       "Animation",
+      "Comedy",
       "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qtLhIxGz6QHiuDiFytn3KRkLUgt.jpg"
-  },
-  {
-    "id": 1267905,
-    "title": "The Roses",
-    "year": "2025",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg"
-  },
-  {
-    "id": 396535,
-    "title": "Train to Busan",
-    "year": "2016",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Action",
       "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg"
   },
   {
-    "id": 749170,
-    "title": "Heads of State",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg"
-  },
-  {
-    "id": 475557,
-    "title": "Joker",
-    "year": "2019",
-    "genres": [
-      "Crime",
-      "Thriller",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
-  },
-  {
-    "id": 259693,
-    "title": "The Conjuring 2",
-    "year": "2016",
+    "id": 1027950,
+    "title": "Hotel Dunsmuir",
+    "year": "2022",
     "genres": [
       "Horror"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg"
-  },
-  {
-    "id": 1352755,
-    "title": "Maintenance Required",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg"
-  },
-  {
-    "id": 949855,
-    "title": "Black Mold",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Drama",
-      "TV Movie"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/tEN12WSxepFqZmWEknBnrXoHDvL.jpg"
-  },
-  {
-    "id": 1109086,
-    "title": "War 2",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB.jpg"
-  },
-  {
-    "id": 934201,
-    "title": "The Prank",
-    "year": "2024",
-    "genres": [
-      "Comedy",
-      "Thriller",
-      "Crime",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/kLDglJRVvImOzZ3VdtxrcOnqEF9.jpg"
-  },
-  {
-    "id": 1045205,
-    "title": "Someday We'll Tell Each Other Everything",
-    "year": "2023",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2tcpYiiLFXsFqFWkEbINwzDAXKL.jpg"
-  },
-  {
-    "id": 20526,
-    "title": "TRON: Legacy",
-    "year": "2010",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg"
-  },
-  {
-    "id": 1038392,
-    "title": "The Conjuring: Last Rites",
-    "year": "2025",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg"
-  },
-  {
-    "id": 1087192,
-    "title": "How to Train Your Dragon",
-    "year": "2025",
-    "genres": [
-      "Fantasy",
-      "Family",
-      "Action",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg"
-  },
-  {
-    "id": 1186350,
-    "title": "Marco",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg"
-  },
-  {
-    "id": 1034541,
-    "title": "Terrifier 3",
-    "year": "2024",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ju10W5gl3PPK3b7TjEmVOZap51I.jpg"
-  },
-  {
-    "id": 1081196,
-    "title": "Four Mothers",
-    "year": "2025",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/bvpXFlOuSYN0AOo9KAd0XOEs8mX.jpg"
-  },
-  {
-    "id": 359410,
-    "title": "Road House",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg"
-  },
-  {
-    "id": 1083433,
-    "title": "I Know What You Did Last Summer",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6BfZLQYj97NO1yD5JkSAf5vWzGj.jpg"
-  },
-  {
-    "id": 346364,
-    "title": "It",
-    "year": "2017",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg"
-  },
-  {
-    "id": 24428,
-    "title": "The Avengers",
-    "year": "2012",
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/1Jl5WbAEd7jaBfQklsbTwbGqkc3.jpg"
   },
   {
     "id": 1197306,
@@ -1867,245 +169,89 @@
     "poster": "https://image.tmdb.org/t/p/w500/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg"
   },
   {
-    "id": 1502943,
-    "title": "Night of the Reaper",
+    "id": 1245993,
+    "title": "Caught Stealing",
     "year": "2025",
     "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/HVR8cNWzBVoqbEIIqVtLpDvVKn.jpg"
-  },
-  {
-    "id": 550,
-    "title": "Fight Club",
-    "year": "1999",
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
-  },
-  {
-    "id": 634649,
-    "title": "Spider-Man: No Way Home",
-    "year": "2021",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
-  },
-  {
-    "id": 1086548,
-    "title": "Vera and the Pleasure of Others",
-    "year": "2024",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xOBsY5TiiD9moHfEMiFt8WIMe8K.jpg"
-  },
-  {
-    "id": 1470086,
-    "title": "Ligaw",
-    "year": "2025",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/yc8V3KEnhvPrzXpdYTXdTvjpOb5.jpg"
-  },
-  {
-    "id": 502356,
-    "title": "The Super Mario Bros. Movie",
-    "year": "2023",
-    "genres": [
-      "Family",
-      "Comedy",
-      "Adventure",
-      "Animation",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
-  },
-  {
-    "id": 13494,
-    "title": "Red Sonja",
-    "year": "2025",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg"
-  },
-  {
-    "id": 18785,
-    "title": "The Hangover",
-    "year": "2009",
-    "genres": [
+      "Crime",
+      "Thriller",
       "Comedy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/A0uS9rHR56FeBtpjVki16M5xxSW.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg"
   },
   {
-    "id": 533535,
-    "title": "Deadpool & Wolverine",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
-  },
-  {
-    "id": 299534,
-    "title": "Avengers: Endgame",
-    "year": "2019",
-    "genres": [
-      "Adventure",
-      "Science Fiction",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
-  },
-  {
-    "id": 557,
-    "title": "Spider-Man",
-    "year": "2002",
-    "genres": [
-      "Action",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg"
-  },
-  {
-    "id": 1369679,
-    "title": "Get Fast",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/tDpTR7xhHu9cz1X4JAIRFwXyf6U.jpg"
-  },
-  {
-    "id": 1357633,
-    "title": "Solo Leveling -ReAwakening-",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/dblIFen0bNZAq8icJXHwrjfymDW.jpg"
-  },
-  {
-    "id": 809,
-    "title": "Shrek 2",
-    "year": "2004",
-    "genres": [
-      "Animation",
-      "Family",
-      "Comedy",
-      "Fantasy",
-      "Adventure",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg"
-  },
-  {
-    "id": 1565344,
-    "title": "Parking",
-    "year": "2025",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/oNxANEMPx3sbj6BY9VtZxrXCMDF.jpg"
-  },
-  {
-    "id": 1125257,
-    "title": "Freakier Friday",
-    "year": "2025",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg"
-  },
-  {
-    "id": 1202863,
-    "title": "From Darkness",
-    "year": "2024",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/mDuePf1neIsvsUfN9tlnNObwjZd.jpg"
-  },
-  {
-    "id": 866678,
-    "title": "Furioza",
+    "id": 637649,
+    "title": "Wrath of Man",
     "year": "2021",
     "genres": [
-      "Action",
+      "Thriller",
       "Crime",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/sSIo1vG0IILxzHkLKmtFEoTbVE9.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3.jpg"
   },
   {
-    "id": 1106289,
-    "title": "The Pickup",
-    "year": "2025",
+    "id": 107257,
+    "title": "A Perfect Ending",
+    "year": "2012",
     "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
+      "Drama",
+      "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/vFWvWhfAvij8UIngg2Vf6JV95Cr.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/mjwWEwE1xdbtFGCOgeXi5jvQnOU.jpg"
   },
   {
-    "id": 1364992,
-    "title": "Forgive Me Father",
-    "year": "2024",
-    "genres": [
-      "Thriller",
-      "Horror",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vaLFUD54PGHt83RtgrbrcSB9ZO0.jpg"
-  },
-  {
-    "id": 939243,
-    "title": "Sonic the Hedgehog 3",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Comedy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg"
-  },
-  {
-    "id": 299536,
-    "title": "Avengers: Infinity War",
-    "year": "2018",
+    "id": 710,
+    "title": "GoldenEye",
+    "year": "1995",
     "genres": [
       "Adventure",
       "Action",
-      "Science Fiction"
+      "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg"
+  },
+  {
+    "id": 58,
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": "2006",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg"
+  },
+  {
+    "id": 36557,
+    "title": "Casino Royale",
+    "year": "2006",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg"
+  },
+  {
+    "id": 1086910,
+    "title": "The Lost Princess",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg"
+  },
+  {
+    "id": 1386827,
+    "title": "Coyotes",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg"
   },
   {
     "id": 27205,
@@ -2119,220 +265,59 @@
     "poster": "https://image.tmdb.org/t/p/w500/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg"
   },
   {
-    "id": 411,
-    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-    "year": "2005",
+    "id": 38,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": "2004",
     "genres": [
-      "Adventure",
-      "Family",
-      "Fantasy"
+      "Science Fiction",
+      "Drama",
+      "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg"
   },
   {
-    "id": 605,
-    "title": "The Matrix Revolutions",
-    "year": "2003",
+    "id": 13494,
+    "title": "Red Sonja",
+    "year": "2025",
     "genres": [
       "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg"
+  },
+  {
+    "id": 822119,
+    "title": "Captain America: Brave New World",
+    "year": "2025",
+    "genres": [
       "Action",
       "Thriller",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/t1wm4PgOQ8e4z1C6tk1yDNrps4T.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg"
   },
   {
-    "id": 120,
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "year": "2001",
+    "id": 646,
+    "title": "Dr. No",
+    "year": "1962",
     "genres": [
       "Adventure",
-      "Fantasy",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
-  },
-  {
-    "id": 1278950,
-    "title": "The Ritual",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Drama",
+      "Action",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/uubL8yvtEBjz3V7DFQHjCuSQO8w.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/9zCOLJmLNst0sCPZlkW1IRoH65E.jpg"
   },
   {
-    "id": 1136867,
-    "title": "Materialists",
-    "year": "2025",
+    "id": 88,
+    "title": "Dirty Dancing",
+    "year": "1987",
     "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg"
-  },
-  {
-    "id": 762509,
-    "title": "Mufasa: The Lion King",
-    "year": "2024",
-    "genres": [
-      "Adventure",
-      "Family",
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lurEK87kukWNaHd0zYnsi3yzJrs.jpg"
-  },
-  {
-    "id": 1511789,
-    "title": "Captain Hook - The Cursed Tides",
-    "year": "2025",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg"
-  },
-  {
-    "id": 1327862,
-    "title": "Regretting You",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/z4gVnxTaks3anTycwKjDmvQSuWt.jpg"
-  },
-  {
-    "id": 46529,
-    "title": "I Am Number Four",
-    "year": "2011",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2NrP3h3GEsrPXX60bmjKuYWAvl9.jpg"
-  },
-  {
-    "id": 8966,
-    "title": "Twilight",
-    "year": "2008",
-    "genres": [
-      "Fantasy",
       "Drama",
+      "Music",
       "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg"
-  },
-  {
-    "id": 73861,
-    "title": "A Serbian Film",
-    "year": "2010",
-    "genres": [
-      "Crime",
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cToUzXZ9AcUylfIt8vnXhiy6Y9m.jpg"
-  },
-  {
-    "id": 1386827,
-    "title": "Coyotes",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg"
-  },
-  {
-    "id": 1312946,
-    "title": "The Map That Leads to You",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg"
-  },
-  {
-    "id": 986056,
-    "title": "Thunderbolts*",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
-  },
-  {
-    "id": 1330421,
-    "title": "Bone Lake",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/sGo5ti82LlydAZrvcsaj31iPuEI.jpg"
-  },
-  {
-    "id": 1151334,
-    "title": "Eenie Meanie",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Action",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/12Va3oO3oYUdOd75zM57Nx1976a.jpg"
-  },
-  {
-    "id": 1009640,
-    "title": "Valiant One",
-    "year": "2025",
-    "genres": [
-      "War",
-      "Thriller",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg"
-  },
-  {
-    "id": 1294203,
-    "title": "My Fault: London",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg"
-  },
-  {
-    "id": 1197137,
-    "title": "Black Phone 2",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/evbguUd1BwExQgXMjG9n9AHMQpN.jpg"
-  },
-  {
-    "id": 648878,
-    "title": "Eddington",
-    "year": "2025",
-    "genres": [
-      "Western",
-      "Comedy",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg"
   },
   {
     "id": 1186274,
@@ -2345,14 +330,120 @@
     "poster": "https://image.tmdb.org/t/p/w500/42C0Yq0TwqMUIWOBPNJ53mwWqyh.jpg"
   },
   {
-    "id": 1367575,
-    "title": "A Line of Fire",
+    "id": 1305717,
+    "title": "Hunting Grounds",
     "year": "2025",
     "genres": [
       "Action",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/jSG2mg1998DUAam6X9EA6SeJmqD.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg"
+  },
+  {
+    "id": 361743,
+    "title": "Top Gun: Maverick",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+  },
+  {
+    "id": 24428,
+    "title": "The Avengers",
+    "year": "2012",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
+  },
+  {
+    "id": 948,
+    "title": "Halloween",
+    "year": "1978",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg"
+  },
+  {
+    "id": 2062,
+    "title": "Ratatouille",
+    "year": "2007",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+  },
+  {
+    "id": 402431,
+    "title": "Wicked",
+    "year": "2024",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+  },
+  {
+    "id": 1235746,
+    "title": "Dead of Winter",
+    "year": "2025",
+    "genres": [
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg"
+  },
+  {
+    "id": 253,
+    "title": "Live and Let Die",
+    "year": "1973",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/39qkrjqMZs6utwNmihVImC3ghas.jpg"
+  },
+  {
+    "id": 694,
+    "title": "The Shining",
+    "year": "1980",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xazWoLealQwEgqZ89MLZklLZD3k.jpg"
+  },
+  {
+    "id": 558449,
+    "title": "Gladiator II",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg"
+  },
+  {
+    "id": 1035259,
+    "title": "The Naked Gun",
+    "year": "2025",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/hF4pG0CMDzC4GCiiUR9iNrzoW2p.jpg"
   },
   {
     "id": 870360,
@@ -2368,414 +459,36 @@
     "poster": "https://image.tmdb.org/t/p/w500/s2lB1kaYCdGSnZX5meQCiOR6HfX.jpg"
   },
   {
-    "id": 337167,
-    "title": "Fifty Shades Freed",
-    "year": "2018",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg"
-  },
-  {
-    "id": 1930,
-    "title": "The Amazing Spider-Man",
-    "year": "2012",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg"
-  },
-  {
-    "id": 1280282,
-    "title": "Gabby's Dollhouse: The Movie",
-    "year": "2025",
-    "genres": [
-      "Family",
-      "Comedy",
-      "Adventure",
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg"
-  },
-  {
-    "id": 1054867,
-    "title": "One Battle After Another",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg"
-  },
-  {
-    "id": 930094,
-    "title": "Red, White & Royal Blue",
-    "year": "2023",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ta3ReqbdEcLJM3mcHMzbYFZI8v7.jpg"
-  },
-  {
-    "id": 1256724,
-    "title": "The Summer of Our Love",
-    "year": "2024",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Music"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/mLexOoATn0WIR8rIAfjAGaUBLcL.jpg"
-  },
-  {
-    "id": 447273,
-    "title": "Snow White",
-    "year": "2025",
-    "genres": [
-      "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xWWg47tTfparvjK0WJNX4xL8lW2.jpg"
-  },
-  {
-    "id": 1084199,
-    "title": "Companion",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg"
-  },
-  {
-    "id": 361743,
-    "title": "Top Gun: Maverick",
-    "year": "2022",
-    "genres": [
-      "Action",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
-  },
-  {
-    "id": 671,
-    "title": "Harry Potter and the Philosopher's Stone",
-    "year": "2001",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
-  },
-  {
-    "id": 912649,
-    "title": "Venom: The Last Dance",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg"
-  },
-  {
-    "id": 1373445,
-    "title": "V/H/S/Halloween",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg"
-  },
-  {
-    "id": 1155281,
-    "title": "Creation of the Gods II: Demon Force",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "War"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/dfUCs5HNtGu4fofh83uiE2Qcy3v.jpg"
-  },
-  {
-    "id": 652,
-    "title": "Troy",
-    "year": "2004",
-    "genres": [
-      "War",
-      "Action",
-      "History"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg"
-  },
-  {
-    "id": 1327769,
-    "title": "27 Nights",
-    "year": "2025",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/kVMUTLFbfQvNYdFHiexTDnSHntV.jpg"
-  },
-  {
-    "id": 713364,
-    "title": "Clown in a Cornfield",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6ep6gw90TJ8bYvJC6hEDo8SxjoJ.jpg"
-  },
-  {
-    "id": 537915,
-    "title": "After",
-    "year": "2019",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg"
-  },
-  {
-    "id": 4935,
-    "title": "Howl's Moving Castle",
-    "year": "2004",
-    "genres": [
-      "Fantasy",
-      "Animation",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/TkTPELv4kC3u1lkloush8skOjE.jpg"
-  },
-  {
-    "id": 12445,
-    "title": "Harry Potter and the Deathly Hallows: Part 2",
-    "year": "2011",
-    "genres": [
-      "Fantasy",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg"
-  },
-  {
-    "id": 1107216,
-    "title": "Pets on a Train",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Adventure",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xSibLTRfsUQagQnbOQLjp5oGbcq.jpg"
-  },
-  {
-    "id": 496243,
-    "title": "Parasite",
-    "year": "2019",
-    "genres": [
-      "Comedy",
-      "Thriller",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
-  },
-  {
-    "id": 1022789,
-    "title": "Inside Out 2",
-    "year": "2024",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
-  },
-  {
-    "id": 603692,
-    "title": "John Wick: Chapter 4",
-    "year": "2023",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
-  },
-  {
-    "id": 1357886,
-    "title": "Django Undisputed",
-    "year": "2024",
-    "genres": [
-      "Western"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/porcUhC4jqFt72TaxbjOQo2lTzL.jpg"
-  },
-  {
-    "id": 49026,
-    "title": "The Dark Knight Rises",
-    "year": "2012",
+    "id": 180894,
+    "title": "Ninja: Shadow of a Tear",
+    "year": "2013",
     "genres": [
       "Action",
       "Crime",
-      "Drama",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/f4i1wzuyFXv6NHREAy4fPPGSH7E.jpg"
   },
   {
-    "id": 1086260,
-    "title": "The Astronaut",
+    "id": 1081196,
+    "title": "Four Mothers",
     "year": "2025",
     "genres": [
-      "Horror",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg"
-  },
-  {
-    "id": 447365,
-    "title": "Guardians of the Galaxy Vol. 3",
-    "year": "2023",
-    "genres": [
-      "Science Fiction",
-      "Adventure",
-      "Action",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
-  },
-  {
-    "id": 10138,
-    "title": "Iron Man 2",
-    "year": "2010",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg"
-  },
-  {
-    "id": 424,
-    "title": "Schindler's List",
-    "year": "1993",
-    "genres": [
-      "Drama",
-      "History",
-      "War"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg"
-  },
-  {
-    "id": 216015,
-    "title": "Fifty Shades of Grey",
-    "year": "2015",
-    "genres": [
-      "Drama",
-      "Romance",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg"
-  },
-  {
-    "id": 150540,
-    "title": "Inside Out",
-    "year": "2015",
-    "genres": [
-      "Animation",
-      "Family",
-      "Adventure",
-      "Drama",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
-  },
-  {
-    "id": 1156594,
-    "title": "Our Fault",
-    "year": "2025",
-    "genres": [
-      "Romance",
+      "Comedy",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/bvpXFlOuSYN0AOo9KAd0XOEs8mX.jpg"
   },
   {
-    "id": 3933,
-    "title": "Corpse Bride",
-    "year": "2005",
-    "genres": [
-      "Romance",
-      "Fantasy",
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/isb2Qow76GpqYmsSyfdMfsYAjts.jpg"
-  },
-  {
-    "id": 162,
-    "title": "Edward Scissorhands",
-    "year": "1990",
-    "genres": [
-      "Fantasy",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg"
-  },
-  {
-    "id": 107257,
-    "title": "A Perfect Ending",
-    "year": "2012",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/mjwWEwE1xdbtFGCOgeXi5jvQnOU.jpg"
-  },
-  {
-    "id": 387848,
-    "title": "Buddy's Mom",
-    "year": "2015",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/5JDVEZN0v3e9xMzZbZ92fC7HaQi.jpg"
-  },
-  {
-    "id": 941109,
-    "title": "Play Dirty",
+    "id": 533533,
+    "title": "TRON: Ares",
     "year": "2025",
     "genres": [
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg"
-  },
-  {
-    "id": 1084242,
-    "title": "Zootopia 2",
-    "year": "2025",
-    "genres": [
-      "Family",
-      "Comedy",
+      "Science Fiction",
       "Adventure",
-      "Animation",
-      "Mystery"
+      "Action"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg"
   },
   {
     "id": 854,
@@ -2790,166 +503,70 @@
     "poster": "https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg"
   },
   {
-    "id": 1440,
-    "title": "Little Children",
-    "year": "2006",
+    "id": 845781,
+    "title": "Red One",
+    "year": "2024",
     "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/l2wTSP0Ifo9vY03nJEfkFBbT2S9.jpg"
-  },
-  {
-    "id": 12153,
-    "title": "White Chicks",
-    "year": "2004",
-    "genres": [
+      "Action",
       "Comedy",
-      "Crime"
+      "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg"
   },
   {
-    "id": 269149,
-    "title": "Zootopia",
-    "year": "2016",
+    "id": 438631,
+    "title": "Dune",
+    "year": "2021",
     "genres": [
-      "Animation",
-      "Adventure",
-      "Family",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg"
-  },
-  {
-    "id": 1305717,
-    "title": "Hunting Grounds",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg"
-  },
-  {
-    "id": 1007734,
-    "title": "Nobody 2",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xGLoqM9peusKQeuwlSw2Qlhx740.jpg"
-  },
-  {
-    "id": 68721,
-    "title": "Iron Man 3",
-    "year": "2013",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg"
-  },
-  {
-    "id": 12155,
-    "title": "Alice in Wonderland",
-    "year": "2010",
-    "genres": [
-      "Family",
-      "Fantasy",
+      "Science Fiction",
       "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
   },
   {
-    "id": 1408208,
-    "title": "Exit 8",
-    "year": "2025",
+    "id": 30484,
+    "title": "Warrior Queen",
+    "year": "1987",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/nQXYTvm6AY4WmtcPskroqC7Skh.jpg"
-  },
-  {
-    "id": 12444,
-    "title": "Harry Potter and the Deathly Hallows: Part 1",
-    "year": "2010",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg"
-  },
-  {
-    "id": 1218925,
-    "title": "Chainsaw Man - The Movie: Reze Arc",
-    "year": "2025",
-    "genres": [
-      "Animation",
       "Action",
-      "Romance",
-      "Fantasy"
+      "History",
+      "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/P0j17mJRpSIZOglbtPkakHSD1S.jpg"
   },
   {
-    "id": 2062,
-    "title": "Ratatouille",
-    "year": "2007",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
-  },
-  {
-    "id": 1071585,
-    "title": "M3GAN 2.0",
+    "id": 986056,
+    "title": "Thunderbolts*",
     "year": "2025",
     "genres": [
       "Action",
       "Science Fiction",
-      "Thriller"
+      "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/4a63rQqIDTrYNdcnTXdPsQyxVLo.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
   },
   {
-    "id": 315635,
-    "title": "Spider-Man: Homecoming",
-    "year": "2017",
+    "id": 1051486,
+    "title": "Stockholm Bloodbath",
+    "year": "2024",
     "genres": [
       "Action",
+      "History",
+      "Drama",
       "Adventure",
-      "Science Fiction"
+      "War"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/tzXOB8nxO70SfSbOhrYcY94x6MI.jpg"
   },
   {
-    "id": 414906,
-    "title": "The Batman",
-    "year": "2022",
-    "genres": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
-  },
-  {
-    "id": 574475,
-    "title": "Final Destination Bloodlines",
-    "year": "2025",
+    "id": 10092,
+    "title": "Cry_Wolf",
+    "year": "2005",
     "genres": [
       "Horror",
-      "Mystery"
+      "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/7OQ2McKYgnyfIHHkm0jBxQnu7ou.jpg"
   },
   {
     "id": 1202479,
@@ -2963,25 +580,371 @@
     "poster": "https://image.tmdb.org/t/p/w500/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg"
   },
   {
-    "id": 1151031,
-    "title": "Bring Her Back",
+    "id": 1352755,
+    "title": "Maintenance Required",
+    "year": "2025",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg"
+  },
+  {
+    "id": 10545,
+    "title": "The Hunchback of Notre Dame",
+    "year": "1996",
+    "genres": [
+      "Drama",
+      "Animation",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/hImMgT9B27evYSRmfztqdDtX6qi.jpg"
+  },
+  {
+    "id": 238,
+    "title": "The Godfather",
+    "year": "1972",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+  },
+  {
+    "id": 338953,
+    "title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "year": "2022",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg"
+  },
+  {
+    "id": 1049942,
+    "title": "Bambi: The Reckoning",
     "year": "2025",
     "genres": [
       "Horror",
-      "Drama"
+      "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/cy76B7VCiIvqUibGLTgdYlK8kx8.jpg"
   },
   {
-    "id": 372058,
-    "title": "Your Name.",
-    "year": "2016",
+    "id": 1184918,
+    "title": "The Wild Robot",
+    "year": "2024",
     "genres": [
       "Animation",
-      "Romance",
+      "Science Fiction",
+      "Family",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+  },
+  {
+    "id": 1280282,
+    "title": "Gabby's Dollhouse: The Movie",
+    "year": "2025",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg"
+  },
+  {
+    "id": 862,
+    "title": "Toy Story",
+    "year": "1995",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+  },
+  {
+    "id": 299536,
+    "title": "Avengers: Infinity War",
+    "year": "2018",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+  },
+  {
+    "id": 1119878,
+    "title": "Ice Road: Vengeance",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg"
+  },
+  {
+    "id": 1062722,
+    "title": "Frankenstein",
+    "year": "2025",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5fqmZYw3o22VoJpXx9bjQuc7ZPV.jpg"
+  },
+  {
+    "id": 700,
+    "title": "Octopussy",
+    "year": "1983",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/yoosZitM9igSk3Sd0sBXIhKlAh1.jpg"
+  },
+  {
+    "id": 767,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "year": "2009",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg"
+  },
+  {
+    "id": 1064213,
+    "title": "Anora",
+    "year": "2024",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+  },
+  {
+    "id": 1549292,
+    "title": "LEGO Frozen: Operation Puffins",
+    "year": "2025",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/cmW3OY1W1wwjpYEWZu1jJlOcZ56.jpg"
+  },
+  {
+    "id": 411,
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": "2005",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg"
+  },
+  {
+    "id": 1233413,
+    "title": "Sinners",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg"
+  },
+  {
+    "id": 14160,
+    "title": "Up",
+    "year": "2009",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
+  },
+  {
+    "id": 1078605,
+    "title": "Weapons",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg"
+  },
+  {
+    "id": 1086260,
+    "title": "The Astronaut",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg"
+  },
+  {
+    "id": 738652,
+    "title": "Copshop",
+    "year": "2021",
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9LEWWWEhS7SZXFDuH1YYhs0VFct.jpg"
+  },
+  {
+    "id": 273477,
+    "title": "Scouts Guide to the Zombie Apocalypse",
+    "year": "2015",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lUKvvSnjFlazrdh6wyHxHrdMknD.jpg"
+  },
+  {
+    "id": 121,
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": "2002",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
+  },
+  {
+    "id": 1241436,
+    "title": "Warfare",
+    "year": "2025",
+    "genres": [
+      "War",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg"
+  },
+  {
+    "id": 1290159,
+    "title": "A House of Dynamite",
+    "year": "2025",
+    "genres": [
+      "Thriller",
+      "War"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg"
+  },
+  {
+    "id": 934201,
+    "title": "The Prank",
+    "year": "2024",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Crime",
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/kLDglJRVvImOzZ3VdtxrcOnqEF9.jpg"
+  },
+  {
+    "id": 297608,
+    "title": "The Taking of Deborah Logan",
+    "year": "2014",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg"
+  },
+  {
+    "id": 1242898,
+    "title": "Predator: Badlands",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/zxhavGoVhMW08rtOyJ0W5GmYtGG.jpg"
+  },
+  {
+    "id": 338969,
+    "title": "The Toxic Avenger Unrated",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/sIonGSpGNtH72OzbJllPOEMNjVU.jpg"
+  },
+  {
+    "id": 1009640,
+    "title": "Valiant One",
+    "year": "2025",
+    "genres": [
+      "War",
+      "Thriller",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg"
+  },
+  {
+    "id": 843527,
+    "title": "The Idea of You",
+    "year": "2024",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg"
+  },
+  {
+    "id": 668,
+    "title": "On Her Majesty's Secret Service",
+    "year": "1969",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg"
+  },
+  {
+    "id": 1330421,
+    "title": "Bone Lake",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/sGo5ti82LlydAZrvcsaj31iPuEI.jpg"
+  },
+  {
+    "id": 1087891,
+    "title": "The Amateur",
+    "year": "2025",
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg"
   },
   {
     "id": 425274,
@@ -2995,74 +958,430 @@
     "poster": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
   },
   {
-    "id": 1284120,
-    "title": "The Ugly Stepsister",
+    "id": 673,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": "2004",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg"
+  },
+  {
+    "id": 162,
+    "title": "Edward Scissorhands",
+    "year": "1990",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg"
+  },
+  {
+    "id": 1022787,
+    "title": "Elio",
+    "year": "2025",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7z8jDiTZZco9moIKpTUImFtTy7o.jpg"
+  },
+  {
+    "id": 81467,
+    "title": "Laura's Toys",
+    "year": "1975",
+    "genres": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rqzupBGrChmHG5Wl6wy5vI0V3Vz.jpg"
+  },
+  {
+    "id": 1151031,
+    "title": "Bring Her Back",
     "year": "2025",
     "genres": [
       "Horror",
-      "Comedy",
-      "Fantasy",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/crX9rSg9EohybhkEe8iTQUCe55y.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg"
   },
   {
-    "id": 823464,
-    "title": "Godzilla x Kong: The New Empire",
-    "year": "2024",
+    "id": 210577,
+    "title": "Gone Girl",
+    "year": "2014",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg"
+  },
+  {
+    "id": 1422096,
+    "title": "Good Boy",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg"
+  },
+  {
+    "id": 99861,
+    "title": "Avengers: Age of Ultron",
+    "year": "2015",
     "genres": [
       "Action",
       "Adventure",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"
   },
   {
-    "id": 680,
-    "title": "Pulp Fiction",
+    "id": 8467,
+    "title": "Dumb and Dumber",
     "year": "1994",
     "genres": [
-      "Thriller",
-      "Crime",
       "Comedy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg"
   },
   {
-    "id": 1242434,
-    "title": "Highest 2 Lowest",
+    "id": 1267905,
+    "title": "The Roses",
     "year": "2025",
     "genres": [
-      "Thriller",
-      "Crime",
-      "Drama"
+      "Comedy",
+      "Drama",
+      "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/RFQtinuiHhOnbmJaCn3uzegCYF.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg"
   },
   {
-    "id": 150689,
-    "title": "Cinderella",
-    "year": "2015",
+    "id": 937941,
+    "title": "Shelby Oaks",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/i3omY4P6QUzFQlEeclWY92RuXCH.jpg"
+  },
+  {
+    "id": 196259,
+    "title": "Beyond the Curtain",
+    "year": "1960",
+    "genres": [
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/o8Z0NGFxSmvXKuXYAQbvikC51M.jpg"
+  },
+  {
+    "id": 967941,
+    "title": "Wicked: For Good",
+    "year": "2025",
     "genres": [
       "Romance",
       "Fantasy",
-      "Family",
-      "Drama"
+      "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/j91LJmcWo16CArFOoapsz84bwxb.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg"
   },
   {
-    "id": 177572,
-    "title": "Big Hero 6",
-    "year": "2014",
+    "id": 1151334,
+    "title": "Eenie Meanie",
+    "year": "2025",
     "genres": [
-      "Adventure",
-      "Family",
-      "Animation",
+      "Thriller",
       "Action",
       "Comedy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/12Va3oO3oYUdOd75zM57Nx1976a.jpg"
+  },
+  {
+    "id": 950396,
+    "title": "The Gorge",
+    "year": "2025",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg"
+  },
+  {
+    "id": 1227003,
+    "title": "Shadow of God",
+    "year": "2025",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vi6LF8rTdU4DeYrXTtUBqG9gFnX.jpg"
+  },
+  {
+    "id": 155,
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "id": 1124620,
+    "title": "The Monkey",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg"
+  },
+  {
+    "id": 106646,
+    "title": "The Wolf of Wall Street",
+    "year": "2013",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
+  },
+  {
+    "id": 14836,
+    "title": "Coraline",
+    "year": "2009",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg"
+  },
+  {
+    "id": 8845,
+    "title": "Under Siege",
+    "year": "1992",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/myHxm9p8fhEsXyaLO6DawYJKolg.jpg"
+  },
+  {
+    "id": 11360,
+    "title": "Dumbo",
+    "year": "1941",
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg"
+  },
+  {
+    "id": 3933,
+    "title": "Corpse Bride",
+    "year": "2005",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Animation"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/isb2Qow76GpqYmsSyfdMfsYAjts.jpg"
+  },
+  {
+    "id": 1511789,
+    "title": "Captain Hook - The Cursed Tides",
+    "year": "2025",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg"
+  },
+  {
+    "id": 9806,
+    "title": "The Incredibles",
+    "year": "2004",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
+  },
+  {
+    "id": 674,
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": "2005",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg"
+  },
+  {
+    "id": 385687,
+    "title": "Fast X",
+    "year": "2023",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller",
+      "Adventure",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg"
+  },
+  {
+    "id": 870028,
+    "title": "The Accountant²",
+    "year": "2025",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg"
+  },
+  {
+    "id": 4232,
+    "title": "Scream",
+    "year": "1996",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg"
+  },
+  {
+    "id": 749170,
+    "title": "Heads of State",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg"
+  },
+  {
+    "id": 658,
+    "title": "Goldfinger",
+    "year": "1964",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/4CD9eftOlBcutoXak5C7L24X1Y2.jpg"
+  },
+  {
+    "id": 240,
+    "title": "The Godfather Part II",
+    "year": "1974",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg"
+  },
+  {
+    "id": 790462,
+    "title": "I.S.S.",
+    "year": "2024",
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg"
+  },
+  {
+    "id": 1011477,
+    "title": "Karate Kid: Legends",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/AEgggzRr1vZCLY86MAp93li43z.jpg"
+  },
+  {
+    "id": 569094,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": "2023",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+  },
+  {
+    "id": 1061474,
+    "title": "Superman",
+    "year": "2025",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wPLysNDLffQLOVebZQCbXJEv6E6.jpg"
+  },
+  {
+    "id": 603,
+    "title": "The Matrix",
+    "year": "1999",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg"
+  },
+  {
+    "id": 1242011,
+    "title": "Together",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/m52XidzKx94bKlToZfEXUnL3pdy.jpg"
+  },
+  {
+    "id": 1230368,
+    "title": "Springsteen: Deliver Me from Nowhere",
+    "year": "2025",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg"
+  },
+  {
+    "id": 1083433,
+    "title": "I Know What You Did Last Summer",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6BfZLQYj97NO1yD5JkSAf5vWzGj.jpg"
   },
   {
     "id": 808,
@@ -3078,511 +1397,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/o04jZs5SXhbvhqO4981W7KJXOWZ.jpg"
   },
   {
-    "id": 30484,
-    "title": "Warrior Queen",
-    "year": "1987",
+    "id": 1280450,
+    "title": "Stolen Girl",
+    "year": "2025",
     "genres": [
+      "Thriller",
       "Action",
-      "History",
       "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/P0j17mJRpSIZOglbtPkakHSD1S.jpg"
-  },
-  {
-    "id": 1064213,
-    "title": "Anora",
-    "year": "2024",
-    "genres": [
-      "Drama",
-      "Comedy",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
-  },
-  {
-    "id": 756999,
-    "title": "The Black Phone",
-    "year": "2022",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg"
-  },
-  {
-    "id": 1049942,
-    "title": "Bambi: The Reckoning",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cy76B7VCiIvqUibGLTgdYlK8kx8.jpg"
-  },
-  {
-    "id": 270303,
-    "title": "It Follows",
-    "year": "2015",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg"
-  },
-  {
-    "id": 534490,
-    "title": "Avengement",
-    "year": "2019",
-    "genres": [
-      "Crime",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/rXPxSAYf3FdQktnOtQnvhUPMhFp.jpg"
-  },
-  {
-    "id": 297762,
-    "title": "Wonder Woman",
-    "year": "2017",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg"
-  },
-  {
-    "id": 1073079,
-    "title": "Kill Her Goats",
-    "year": "2023",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/mFzyMEQvKwf2rXxB1GsSocJfL11.jpg"
-  },
-  {
-    "id": 947512,
-    "title": "Living Large",
-    "year": "2024",
-    "genres": [
-      "Animation",
-      "Family",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vezwk5UoGlAz3DT4TBrXwqVRhg1.jpg"
-  },
-  {
-    "id": 573435,
-    "title": "Bad Boys: Ride or Die",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime",
-      "Thriller",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/oGythE98MYleE6mZlGs5oBGkux1.jpg"
-  },
-  {
-    "id": 497,
-    "title": "The Green Mile",
-    "year": "1999",
-    "genres": [
-      "Fantasy",
-      "Drama",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/o0lO84GI7qrG6XFvtsPOSV7CTNa.jpg"
-  },
-  {
-    "id": 987400,
-    "title": "Aztec Batman: Clash of Empires",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/s0Mlo5w4INp3bUdsJo3RaSSMXWz.jpg"
-  },
-  {
-    "id": 7451,
-    "title": "xXx",
-    "year": "2002",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg"
-  },
-  {
-    "id": 1265344,
-    "title": "Swiped",
-    "year": "2025",
-    "genres": [
-      "History",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/mEeFRU5ADkyP7JtOFFV8tYMm3zD.jpg"
-  },
-  {
-    "id": 1241982,
-    "title": "Moana 2",
-    "year": "2024",
-    "genres": [
-      "Family",
-      "Comedy",
-      "Adventure",
-      "Animation",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg"
-  },
-  {
-    "id": 1241436,
-    "title": "Warfare",
-    "year": "2025",
-    "genres": [
-      "War",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg"
-  },
-  {
-    "id": 866398,
-    "title": "The Beekeeper",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg"
-  },
-  {
-    "id": 1028248,
-    "title": "As Good as Dead",
-    "year": "2022",
-    "genres": [
-      "Action",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qqQPxxRQqfLrq0ubfDQCwhJHZ91.jpg"
-  },
-  {
-    "id": 1422211,
-    "title": "The Pursuit of Lust",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/affsHDxbgTpCHQbC5GVyZCbuukO.jpg"
-  },
-  {
-    "id": 1012201,
-    "title": "HAIKYU!! The Dumpster Battle",
-    "year": "2024",
-    "genres": [
-      "Animation",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ntRU0OA4etGGiMMmH1Yw0bnaMdW.jpg"
-  },
-  {
-    "id": 672,
-    "title": "Harry Potter and the Chamber of Secrets",
-    "year": "2002",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg"
-  },
-  {
-    "id": 402431,
-    "title": "Wicked",
-    "year": "2024",
-    "genres": [
-      "Drama",
-      "Romance",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
-  },
-  {
-    "id": 1130044,
-    "title": "Un paseo por el Borne",
-    "year": "2024",
-    "genres": [
-      "Drama",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/1joRjD8XxNoDVaefhSQbbTzmiCU.jpg"
-  },
-  {
-    "id": 539972,
-    "title": "Kraven the Hunter",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/i47IUSsN126K11JUzqQIOi1Mg1M.jpg"
-  },
-  {
-    "id": 541671,
-    "title": "Ballerina",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4sbqReLivBN4e7OOwG6PkSGcKHt.jpg"
-  },
-  {
-    "id": 1319965,
-    "title": "All of You",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/U2KFjtXN9NL9eCENB28w42Jakp.jpg"
-  },
-  {
-    "id": 603,
-    "title": "The Matrix",
-    "year": "1999",
-    "genres": [
-      "Action",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg"
-  },
-  {
-    "id": 767,
-    "title": "Harry Potter and the Half-Blood Prince",
-    "year": "2009",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg"
-  },
-  {
-    "id": 1326106,
-    "title": "Kaiju No. 8: Mission Recon",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Action",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2mU8qUbYKlHBdmDDbCmKLuqXd1m.jpg"
-  },
-  {
-    "id": 81467,
-    "title": "Laura's Toys",
-    "year": "1975",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/rqzupBGrChmHG5Wl6wy5vI0V3Vz.jpg"
-  },
-  {
-    "id": 260513,
-    "title": "Incredibles 2",
-    "year": "2018",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Animation",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg"
-  },
-  {
-    "id": 1252428,
-    "title": "Anaconda",
-    "year": "2024",
-    "genres": [
-      "Adventure",
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/pPfsEXzfk2URkQ1OxhUShAXdxMr.jpg"
-  },
-  {
-    "id": 650498,
-    "title": "Twittering Birds Never Fly: The Clouds Gather",
-    "year": "2020",
-    "genres": [
-      "Animation",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/rFfA75af7x1IVZq25IWVqvDhgN8.jpg"
-  },
-  {
-    "id": 16869,
-    "title": "Inglourious Basterds",
-    "year": "2009",
-    "genres": [
-      "Drama",
-      "Thriller",
-      "War"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg"
-  },
-  {
-    "id": 38757,
-    "title": "Tangled",
-    "year": "2010",
-    "genres": [
-      "Animation",
-      "Family",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg"
-  },
-  {
-    "id": 1552819,
-    "title": "Assassin",
-    "year": "2025",
-    "genres": [
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fLRCNUz3MsnC0MdhaWpw3hp4Eye.jpg"
-  },
-  {
-    "id": 1087891,
-    "title": "The Amateur",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg"
-  },
-  {
-    "id": 1865,
-    "title": "Pirates of the Caribbean: On Stranger Tides",
-    "year": "2011",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg"
-  },
-  {
-    "id": 939335,
-    "title": "Muzzle",
-    "year": "2023",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cDRtayyKphw2HHW3KBRwPIEhY44.jpg"
-  },
-  {
-    "id": 244786,
-    "title": "Whiplash",
-    "year": "2014",
-    "genres": [
-      "Drama",
-      "Music"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
-  },
-  {
-    "id": 474350,
-    "title": "It Chapter Two",
-    "year": "2019",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg"
-  },
-  {
-    "id": 673,
-    "title": "Harry Potter and the Prisoner of Azkaban",
-    "year": "2004",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg"
-  },
-  {
-    "id": 1296404,
-    "title": "Good News",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Comedy",
-      "History"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/uA3o8q7JTym6lUM8pnITwQDfvhO.jpg"
-  },
-  {
-    "id": 674,
-    "title": "Harry Potter and the Goblet of Fire",
-    "year": "2005",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg"
-  },
-  {
-    "id": 823219,
-    "title": "Flow",
-    "year": "2024",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Fantasy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg"
-  },
-  {
-    "id": 37165,
-    "title": "The Truman Show",
-    "year": "1998",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
-  },
-  {
-    "id": 144069,
-    "title": "The Corruption",
-    "year": "1986",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/s9pXocmKhkvLazafoL0oUGIn3Me.jpg"
-  },
-  {
-    "id": 807,
-    "title": "Se7en",
-    "year": "1995",
-    "genres": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/fZlNXEHZsBp7unqw009MeBbMv87.jpg"
   },
   {
     "id": 22,
@@ -3596,27 +1419,256 @@
     "poster": "https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg"
   },
   {
-    "id": 1290879,
-    "title": "The Woman in Cabin 10",
+    "id": 215,
+    "title": "Saw II",
+    "year": "2005",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg"
+  },
+  {
+    "id": 550,
+    "title": "Fight Club",
+    "year": "1999",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+  },
+  {
+    "id": 1029575,
+    "title": "The Family Plan",
+    "year": "2023",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg"
+  },
+  {
+    "id": 12208,
+    "title": "Casino Royale",
+    "year": "1967",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9wdw5H018bgIM8bK2HuDvh8BwOh.jpg"
+  },
+  {
+    "id": 541671,
+    "title": "Ballerina",
     "year": "2025",
     "genres": [
-      "Mystery",
+      "Action",
       "Thriller",
       "Crime"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/4sbqReLivBN4e7OOwG6PkSGcKHt.jpg"
   },
   {
-    "id": 508947,
-    "title": "Turning Red",
-    "year": "2022",
+    "id": 246741,
+    "title": "What We Do in the Shadows",
+    "year": "2014",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg"
+  },
+  {
+    "id": 315635,
+    "title": "Spider-Man: Homecoming",
+    "year": "2017",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg"
+  },
+  {
+    "id": 866398,
+    "title": "The Beekeeper",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg"
+  },
+  {
+    "id": 671,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "year": "2001",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+  },
+  {
+    "id": 652,
+    "title": "Troy",
+    "year": "2004",
+    "genres": [
+      "War",
+      "Action",
+      "History"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg"
+  },
+  {
+    "id": 359410,
+    "title": "Road House",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg"
+  },
+  {
+    "id": 4247,
+    "title": "Scary Movie",
+    "year": "2000",
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg"
+  },
+  {
+    "id": 864,
+    "title": "Cool Runnings",
+    "year": "1993",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg"
+  },
+  {
+    "id": 109445,
+    "title": "Frozen",
+    "year": "2013",
     "genres": [
       "Animation",
       "Family",
-      "Comedy",
+      "Adventure",
       "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg"
+  },
+  {
+    "id": 228150,
+    "title": "Fury",
+    "year": "2014",
+    "genres": [
+      "War",
+      "Drama",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg"
+  },
+  {
+    "id": 1053008,
+    "title": "Fight Another Day",
+    "year": "2024",
+    "genres": [
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/fKnLt1xQV0RdpN6RViowEiD1dFW.jpg"
+  },
+  {
+    "id": 1087192,
+    "title": "How to Train Your Dragon",
+    "year": "2025",
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Action",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg"
+  },
+  {
+    "id": 957119,
+    "title": "Sidelined: The QB and Me",
+    "year": "2025",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg"
+  },
+  {
+    "id": 634649,
+    "title": "Spider-Man: No Way Home",
+    "year": "2021",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+  },
+  {
+    "id": 20526,
+    "title": "TRON: Legacy",
+    "year": "2010",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg"
+  },
+  {
+    "id": 1125257,
+    "title": "Freakier Friday",
+    "year": "2025",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg"
+  },
+  {
+    "id": 138843,
+    "title": "The Conjuring",
+    "year": "2013",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg"
+  },
+  {
+    "id": 1377413,
+    "title": "St. Patrick's Day Massacre",
+    "year": "2025",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/mc83CBPbeHQceWwrb8wlvxCaL3k.jpg"
+  },
+  {
+    "id": 1383557,
+    "title": "Revival",
+    "year": "2024",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1XiRapIjZwJBOVj2ZH3kx74jyVb.jpg"
   },
   {
     "id": 278,
@@ -3629,15 +1681,37 @@
     "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
   },
   {
-    "id": 1035259,
-    "title": "The Naked Gun",
+    "id": 150689,
+    "title": "Cinderella",
+    "year": "2015",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Family",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/j91LJmcWo16CArFOoapsz84bwxb.jpg"
+  },
+  {
+    "id": 8966,
+    "title": "Twilight",
+    "year": "2008",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg"
+  },
+  {
+    "id": 574475,
+    "title": "Final Destination Bloodlines",
     "year": "2025",
     "genres": [
-      "Comedy",
-      "Action",
-      "Crime"
+      "Horror",
+      "Mystery"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/hF4pG0CMDzC4GCiiUR9iNrzoW2p.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg"
   },
   {
     "id": 1241921,
@@ -3651,71 +1725,122 @@
     "poster": "https://image.tmdb.org/t/p/w500/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg"
   },
   {
-    "id": 4248,
-    "title": "Scary Movie 2",
-    "year": "2001",
+    "id": 216015,
+    "title": "Fifty Shades of Grey",
+    "year": "2015",
     "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg"
-  },
-  {
-    "id": 506763,
-    "title": "Detective Dee: The Four Heavenly Kings",
-    "year": "2018",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Adventure",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/nZ3XTA5ZlGOj92jRBSYglW8r9QY.jpg"
-  },
-  {
-    "id": 742070,
-    "title": "Little Nina & The Piano Thieves",
-    "year": "2023",
-    "genres": [
-      "Music",
-      "Fantasy",
-      "Adventure",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/llIZc9lJrVlrtQkKtI1X8FuuvrZ.jpg"
-  },
-  {
-    "id": 1311031,
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Action",
-      "Fantasy",
+      "Drama",
+      "Romance",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg"
   },
   {
-    "id": 106646,
-    "title": "The Wolf of Wall Street",
-    "year": "2013",
+    "id": 10761,
+    "title": "Made of Honor",
+    "year": "2008",
     "genres": [
-      "Crime",
-      "Drama",
-      "Comedy"
+      "Comedy",
+      "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/pDg8D0jNqmz7RbCBgblWvmPswHE.jpg"
   },
   {
-    "id": 4232,
-    "title": "Scream",
-    "year": "1996",
+    "id": 933260,
+    "title": "The Substance",
+    "year": "2024",
     "genres": [
-      "Crime",
+      "Drama",
       "Horror",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
+  },
+  {
+    "id": 1136867,
+    "title": "Materialists",
+    "year": "2025",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg"
+  },
+  {
+    "id": 974453,
+    "title": "Absolution",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller",
       "Mystery"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg"
+  },
+  {
+    "id": 100042,
+    "title": "Dumb and Dumber To",
+    "year": "2014",
+    "genres": [
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/cvEi0xV7TUkabJGuzulhvbMjrHi.jpg"
+  },
+  {
+    "id": 872585,
+    "title": "Oppenheimer",
+    "year": "2023",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+  },
+  {
+    "id": 1084199,
+    "title": "Companion",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg"
+  },
+  {
+    "id": 1054867,
+    "title": "One Battle After Another",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg"
+  },
+  {
+    "id": 354912,
+    "title": "Coco",
+    "year": "2017",
+    "genres": [
+      "Family",
+      "Animation",
+      "Music",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
+  },
+  {
+    "id": 206647,
+    "title": "Spectre",
+    "year": "2015",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg"
   },
   {
     "id": 1364608,
@@ -3727,25 +1852,250 @@
     "poster": "https://image.tmdb.org/t/p/w500/kXFHVJqZkWtkSRlLpv2clN8KP6E.jpg"
   },
   {
-    "id": 967941,
-    "title": "Wicked: For Good",
-    "year": "2025",
+    "id": 912649,
+    "title": "Venom: The Last Dance",
+    "year": "2024",
     "genres": [
-      "Romance",
-      "Fantasy",
+      "Action",
+      "Science Fiction",
       "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg"
   },
   {
-    "id": 1010756,
-    "title": "The Strangers: Chapter 2",
+    "id": 949855,
+    "title": "Black Mold",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Drama",
+      "TV Movie"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/tEN12WSxepFqZmWEknBnrXoHDvL.jpg"
+  },
+  {
+    "id": 1400782,
+    "title": "The Perfect Neighbor",
+    "year": "2025",
+    "genres": [
+      "Documentary",
+      "Thriller",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg"
+  },
+  {
+    "id": 474350,
+    "title": "It Chapter Two",
+    "year": "2019",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg"
+  },
+  {
+    "id": 337167,
+    "title": "Fifty Shades Freed",
+    "year": "2018",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Star Wars",
+    "year": "1977",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
+  },
+  {
+    "id": 507244,
+    "title": "Afterburn",
+    "year": "2025",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xR0IhVBjbNU34b8erhJCgRbjXo3.jpg"
+  },
+  {
+    "id": 672,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": "2002",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg"
+  },
+  {
+    "id": 1028248,
+    "title": "As Good as Dead",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/qqQPxxRQqfLrq0ubfDQCwhJHZ91.jpg"
+  },
+  {
+    "id": 675,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "year": "2007",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg"
+  },
+  {
+    "id": 381284,
+    "title": "Hidden Figures",
+    "year": "2016",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg"
+  },
+  {
+    "id": 348,
+    "title": "Alien",
+    "year": "1979",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
+  },
+  {
+    "id": 1241470,
+    "title": "Osiris",
+    "year": "2025",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/3YtZHtXPNG5AleisgEatEfZOT2w.jpg"
+  },
+  {
+    "id": 693134,
+    "title": "Dune: Part Two",
+    "year": "2024",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+  },
+  {
+    "id": 166428,
+    "title": "How to Train Your Dragon: The Hidden World",
+    "year": "2019",
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+  },
+  {
+    "id": 16869,
+    "title": "Inglourious Basterds",
+    "year": "2009",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg"
+  },
+  {
+    "id": 1502943,
+    "title": "Night of the Reaper",
     "year": "2025",
     "genres": [
       "Horror",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/aEk9jLbiKTVssdATbrF879NvyyJ.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/HVR8cNWzBVoqbEIIqVtLpDvVKn.jpg"
+  },
+  {
+    "id": 1327862,
+    "title": "Regretting You",
+    "year": "2025",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/z4gVnxTaks3anTycwKjDmvQSuWt.jpg"
+  },
+  {
+    "id": 680,
+    "title": "Pulp Fiction",
+    "year": "1994",
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+  },
+  {
+    "id": 1376434,
+    "title": "Predator: Killer of Killers",
+    "year": "2025",
+    "genres": [
+      "Animation",
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg"
+  },
+  {
+    "id": 10555,
+    "title": "Shark Tale",
+    "year": "2004",
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg"
+  },
+  {
+    "id": 1369679,
+    "title": "Get Fast",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/tDpTR7xhHu9cz1X4JAIRFwXyf6U.jpg"
+  },
+  {
+    "id": 539972,
+    "title": "Kraven the Hunter",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/i47IUSsN126K11JUzqQIOi1Mg1M.jpg"
   },
   {
     "id": 19995,
@@ -3760,90 +2110,58 @@
     "poster": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg"
   },
   {
-    "id": 1010581,
-    "title": "My Fault",
-    "year": "2023",
+    "id": 105,
+    "title": "Back to the Future",
+    "year": "1985",
     "genres": [
-      "Drama",
-      "Romance",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/w46Vw536HwNnEzOa7J24YH9DPRS.jpg"
-  },
-  {
-    "id": 1403735,
-    "title": "Laila",
-    "year": "2025",
-    "genres": [
+      "Adventure",
       "Comedy",
-      "Romance"
+      "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/aFogllaRGlAhk1nqvVGFpZpl4qU.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
   },
   {
-    "id": 1029575,
-    "title": "The Family Plan",
-    "year": "2023",
+    "id": 37724,
+    "title": "Skyfall",
+    "year": "2012",
     "genres": [
       "Action",
-      "Comedy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg"
-  },
-  {
-    "id": 14160,
-    "title": "Up",
-    "year": "2009",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
-  },
-  {
-    "id": 100042,
-    "title": "Dumb and Dumber To",
-    "year": "2014",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cvEi0xV7TUkabJGuzulhvbMjrHi.jpg"
-  },
-  {
-    "id": 663712,
-    "title": "Terrifier 2",
-    "year": "2022",
-    "genres": [
-      "Horror",
+      "Adventure",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg"
   },
   {
-    "id": 285,
-    "title": "Pirates of the Caribbean: At World's End",
-    "year": "2007",
+    "id": 757725,
+    "title": "Shadow Force",
+    "year": "2025",
     "genres": [
-      "Adventure",
-      "Fantasy",
-      "Action"
+      "Action",
+      "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg"
   },
   {
-    "id": 953,
-    "title": "Madagascar",
-    "year": "2005",
+    "id": 370172,
+    "title": "No Time to Die",
+    "year": "2021",
     "genres": [
-      "Family",
-      "Animation",
-      "Adventure",
-      "Comedy"
+      "Action",
+      "Thriller",
+      "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
+  },
+  {
+    "id": 157336,
+    "title": "Interstellar",
+    "year": "2014",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
   },
   {
     "id": 1169210,
@@ -3858,6 +2176,99 @@
     "poster": "https://image.tmdb.org/t/p/w500/oFTpB1gzS02LtrsenTWxOKbsMpM.jpg"
   },
   {
+    "id": 1251717,
+    "title": "Vicious",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/dYxrsyUEdFOOq7xzIuvEb1858Sg.jpg"
+  },
+  {
+    "id": 945961,
+    "title": "Alien: Romulus",
+    "year": "2024",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg"
+  },
+  {
+    "id": 1244039,
+    "title": "Butchers Book Two: Raghorn",
+    "year": "2024",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/uSLYBuDTHpTAJI9vcm2brMu4J9H.jpg"
+  },
+  {
+    "id": 575265,
+    "title": "Mission: Impossible - The Final Reckoning",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg"
+  },
+  {
+    "id": 346698,
+    "title": "Barbie",
+    "year": "2023",
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+  },
+  {
+    "id": 62213,
+    "title": "Dark Shadows",
+    "year": "2012",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/fd9Ck4cxVlmtXsbeGtQW7WFuUFI.jpg"
+  },
+  {
+    "id": 1585,
+    "title": "It's a Wonderful Life",
+    "year": "1946",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg"
+  },
+  {
+    "id": 83533,
+    "title": "Avatar: Fire and Ash",
+    "year": "2025",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
+  },
+  {
+    "id": 329996,
+    "title": "Dumbo",
+    "year": "2019",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/qgibOIN9RDHiPdimw7Gc7YcY960.jpg"
+  },
+  {
     "id": 997113,
     "title": "Hedda",
     "year": "2025",
@@ -3869,56 +2280,690 @@
     "poster": "https://image.tmdb.org/t/p/w500/ecflk7AZf0ij205yDswjlvdxlCO.jpg"
   },
   {
-    "id": 1549457,
-    "title": "Gypsy Moon",
-    "year": "2024",
+    "id": 414906,
+    "title": "The Batman",
+    "year": "2022",
     "genres": [
-      "Fantasy",
+      "Crime",
+      "Mystery",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/70rgRAKWQTmdI5jWGPkAXKJtha0.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
   },
   {
-    "id": 1383557,
-    "title": "Revival",
-    "year": "2024",
+    "id": 1294203,
+    "title": "My Fault: London",
+    "year": "2025",
     "genres": [
-      "Horror",
-      "Thriller",
-      "Science Fiction"
+      "Romance",
+      "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/1XiRapIjZwJBOVj2ZH3kx74jyVb.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg"
   },
   {
-    "id": 240,
-    "title": "The Godfather Part II",
-    "year": "1974",
+    "id": 36669,
+    "title": "Die Another Day",
+    "year": "2002",
     "genres": [
-      "Drama",
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/bZmGqOhMhaLn8AoFMvFDct4tbrL.jpg"
+  },
+  {
+    "id": 1234821,
+    "title": "Jurassic World Rebirth",
+    "year": "2025",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg"
+  },
+  {
+    "id": 156022,
+    "title": "The Equalizer",
+    "year": "2014",
+    "genres": [
+      "Thriller",
+      "Action",
       "Crime"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg"
   },
   {
-    "id": 90980,
-    "title": "On Our Merry Way",
-    "year": "1948",
+    "id": 597,
+    "title": "Titanic",
+    "year": "1997",
     "genres": [
-      "Comedy",
-      "Music",
+      "Drama",
       "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/r7F4aCepd6bF25XbY0UX8xCTEEc.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  {
+    "id": 269149,
+    "title": "Zootopia",
+    "year": "2016",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg"
+  },
+  {
+    "id": 533535,
+    "title": "Deadpool & Wolverine",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
+  },
+  {
+    "id": 936108,
+    "title": "Smurfs",
+    "year": "2025",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/8o6lkhL32xQJeB52IIG1us5BVey.jpg"
+  },
+  {
+    "id": 120,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+  },
+  {
+    "id": 193756,
+    "title": "Lone Survivor",
+    "year": "2013",
+    "genres": [
+      "War",
+      "Action",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg"
+  },
+  {
+    "id": 76600,
+    "title": "Avatar: The Way of Water",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Forrest Gump",
+    "year": "1994",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+  },
+  {
+    "id": 1865,
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "year": "2011",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg"
+  },
+  {
+    "id": 667,
+    "title": "You Only Live Twice",
+    "year": "1967",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/fdRbvRcEXcf2rC4ghLFZzCWPSmB.jpg"
+  },
+  {
+    "id": 1373445,
+    "title": "V/H/S/Halloween",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg"
+  },
+  {
+    "id": 1029281,
+    "title": "Strange Darling",
+    "year": "2024",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg"
+  },
+  {
+    "id": 950387,
+    "title": "A Minecraft Movie",
+    "year": "2025",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg"
+  },
+  {
+    "id": 103,
+    "title": "Taxi Driver",
+    "year": "1976",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
+  },
+  {
+    "id": 1236470,
+    "title": "The Lost Bus",
+    "year": "2025",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/zpygCOYY1DPBkeUsrrznLRN5js5.jpg"
+  },
+  {
+    "id": 1042834,
+    "title": "Eden",
+    "year": "2025",
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg"
+  },
+  {
+    "id": 447273,
+    "title": "Snow White",
+    "year": "2025",
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xWWg47tTfparvjK0WJNX4xL8lW2.jpg"
+  },
+  {
+    "id": 1073079,
+    "title": "Kill Her Goats",
+    "year": "2023",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/mFzyMEQvKwf2rXxB1GsSocJfL11.jpg"
+  },
+  {
+    "id": 98,
+    "title": "Gladiator",
+    "year": "2000",
+    "genres": [
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+  },
+  {
+    "id": 122,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": "2003",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
   },
   {
     "id": 701387,
     "title": "Bugonia",
     "year": "2025",
     "genres": [
-      "Comedy",
       "Science Fiction",
-      "Crime"
+      "Thriller"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg"
+  },
+  {
+    "id": 1244953,
+    "title": "Trust",
+    "year": "2025",
+    "genres": [
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/n9GS1mUAVMiC3gBn9rb8jrDoK4D.jpg"
+  },
+  {
+    "id": 72976,
+    "title": "Lincoln",
+    "year": "2012",
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5KeUqW6DpVtf8G9VMuI2l0XIPCo.jpg"
+  },
+  {
+    "id": 756999,
+    "title": "The Black Phone",
+    "year": "2022",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg"
+  },
+  {
+    "id": 426063,
+    "title": "Nosferatu",
+    "year": "2024",
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
+  },
+  {
+    "id": 660,
+    "title": "Thunderball",
+    "year": "1965",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg"
+  },
+  {
+    "id": 927254,
+    "title": "The Twits",
+    "year": "2025",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg"
+  },
+  {
+    "id": 1106289,
+    "title": "The Pickup",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vFWvWhfAvij8UIngg2Vf6JV95Cr.jpg"
+  },
+  {
+    "id": 648878,
+    "title": "Eddington",
+    "year": "2025",
+    "genres": [
+      "Western",
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg"
+  },
+  {
+    "id": 7451,
+    "title": "xXx",
+    "year": "2002",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg"
+  },
+  {
+    "id": 1319895,
+    "title": "Hostile Takeover",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vntwlS3CAKfoLTs90GaoK6lymBC.jpg"
+  },
+  {
+    "id": 755898,
+    "title": "War of the Worlds",
+    "year": "2025",
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg"
+  },
+  {
+    "id": 986097,
+    "title": "HIM",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg"
+  },
+  {
+    "id": 497,
+    "title": "The Green Mile",
+    "year": "1999",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/o0lO84GI7qrG6XFvtsPOSV7CTNa.jpg"
+  },
+  {
+    "id": 823464,
+    "title": "Godzilla x Kong: The New Empire",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
+  },
+  {
+    "id": 4169,
+    "title": "Breach",
+    "year": "2007",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime",
+      "History"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/m2iVkJPxDrrink7NiE412nFBMQj.jpg"
+  },
+  {
+    "id": 1272166,
+    "title": "Ballad of a Small Player",
+    "year": "2025",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg"
+  },
+  {
+    "id": 941109,
+    "title": "Play Dirty",
+    "year": "2025",
+    "genres": [
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg"
+  },
+  {
+    "id": 10764,
+    "title": "Quantum of Solace",
+    "year": "2008",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg"
+  },
+  {
+    "id": 154400,
+    "title": "The Drop",
+    "year": "2014",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/olQInYvVCW2wycMSU1ogo9Jshml.jpg"
+  },
+  {
+    "id": 9902,
+    "title": "Wrong Turn",
+    "year": "2003",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7lyxwOg7SdGff79yKCQmJ3AKWSf.jpg"
+  },
+  {
+    "id": 9836,
+    "title": "Happy Feet",
+    "year": "2006",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/za41IHkj6LnkilfTzv5B2qmthKD.jpg"
+  },
+  {
+    "id": 604079,
+    "title": "The Long Walk",
+    "year": "2025",
+    "genres": [
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg"
+  },
+  {
+    "id": 441694,
+    "title": "West Side Stories: The Making of a Classic",
+    "year": "2016",
+    "genres": [
+      "Documentary"
+    ],
+    "poster": ""
+  },
+  {
+    "id": 1312946,
+    "title": "The Map That Leads to You",
+    "year": "2025",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg"
+  },
+  {
+    "id": 803796,
+    "title": "KPop Demon Hunters",
+    "year": "2025",
+    "genres": [
+      "Fantasy",
+      "Music",
+      "Comedy",
+      "Animation"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/AjlRXTpRLAIiuofNqKcqrpUfPCZ.jpg"
+  },
+  {
+    "id": 8271,
+    "title": "Disturbia",
+    "year": "2007",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/je3sZZpcfPeiR4eIqBKbxomOw6d.jpg"
+  },
+  {
+    "id": 423108,
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "year": "2021",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rQfX2xx8TUoNvyk892yKWNikJaM.jpg"
+  },
+  {
+    "id": 8337,
+    "title": "They Live",
+    "year": "1988",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg"
+  },
+  {
+    "id": 557,
+    "title": "Spider-Man",
+    "year": "2002",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg"
+  },
+  {
+    "id": 762509,
+    "title": "Mufasa: The Lion King",
+    "year": "2024",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Animation"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lurEK87kukWNaHd0zYnsi3yzJrs.jpg"
+  },
+  {
+    "id": 1328803,
+    "title": "Prisoner of War",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "War",
+      "Thriller",
+      "History"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg"
+  },
+  {
+    "id": 713364,
+    "title": "Clown in a Cornfield",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/6ep6gw90TJ8bYvJC6hEDo8SxjoJ.jpg"
+  },
+  {
+    "id": 324857,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+  },
+  {
+    "id": 1426776,
+    "title": "STRAW",
+    "year": "2025",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg"
+  },
+  {
+    "id": 1038392,
+    "title": "The Conjuring: Last Rites",
+    "year": "2025",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg"
+  },
+  {
+    "id": 106,
+    "title": "Predator",
+    "year": "1987",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg"
+  },
+  {
+    "id": 10439,
+    "title": "Hocus Pocus",
+    "year": "1993",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg"
+  },
+  {
+    "id": 615457,
+    "title": "Nobody",
+    "year": "2021",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg"
   }
 ]
