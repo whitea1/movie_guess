@@ -64,7 +64,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px; /* spacing between words */
+    gap: 25px; /* spacing between words */
     margin-bottom: 60px;
   }
   
@@ -447,6 +447,7 @@
 
   #word-container {
     margin-bottom: 60px;
+    gap: 15px;
   }
 
   #keyboard {
