@@ -239,7 +239,7 @@
   color: #ccc;
 }
 
-#share-button {
+#share-button{
   background: #22c55e;
   color: white;
   border: none;
@@ -268,7 +268,7 @@
   color: #1b9c4a;
 } */
 
-#share-button:hover {
+#share-button{
   background: #1b9c4a;
   border: 2px, white;
 }
@@ -377,7 +377,7 @@
 
 .bar {
   height: 16px;
-  background: linear-gradient(90deg, #e50914, #ff3b3b);
+  background: linear-gradient(90deg, #22c55e, #a1f0be);
   border-radius: 4px;
   width: 0%;
   transition: width 0.8s ease;
@@ -391,18 +391,19 @@
 }
 
 .danger-btn {
-  margin-top: 10px;
-  background: #b3261e;
+  font-family: "Ubuntu", sans-serif;
+  margin-top: 20px;
+  background: #22c55e;
   color: white;
   border: none;
   border-radius: 30px;
-  padding: 8px 40px;
+  padding: 8px 80px;
   cursor: pointer;
   transition: background 0.2s ease;
 }
 
 .danger-btn:hover {
-  background: #e50914;
+  background: #12823b;
 }
 
 #reset-stats {
@@ -445,7 +446,7 @@
 
 
   #word-container {
-    margin-bottom: 6px;
+    margin-bottom: 60px;
   }
 
   #keyboard {
@@ -464,7 +465,7 @@
   }
   /* Reduce space between words in the movie title */
   .letter-box.space {
-    width: 10px; /* smaller gap for mobile */
+    width: 6px; /* smaller gap for mobile */
   }
   
 
