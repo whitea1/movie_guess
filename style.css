@@ -260,7 +260,7 @@
   font-weight: bold;
   color: #fff;
   cursor: pointer;
-  transition: color 0.2s ease;
+  transition: color 0.5s ease;
   z-index: 10;
 }
 
@@ -268,8 +268,8 @@
   color: #1b9c4a;
 } */
 
-#share-button{
-  background: #1b9c4a;
+#share-button:hover{
+  background: #12823b;
   border: 2px, white;
 }
 
