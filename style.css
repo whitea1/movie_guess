@@ -440,7 +440,7 @@
   #game {
     padding: 12px;
     gap: 16px;
-    min-height: 60vh; /* slightly shorter so footer fits */
+    min-height: 55vh; /* slightly shorter so footer fits */
   }
 
 
@@ -465,7 +465,7 @@
   }
   /* Reduce space between words in the movie title */
   .letter-box.space {
-    width: 6px; /* smaller gap for mobile */
+    width: 5px; /* smaller gap for mobile */
   }
   
 
