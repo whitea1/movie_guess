@@ -378,7 +378,7 @@
 
 .bar {
   height: 16px;
-  background: linear-gradient(90deg, #22c55e, #a1f0be);
+  background: linear-gradient(90deg, #43fc87, #22c55e);
   border-radius: 4px;
   width: 0%;
   transition: width 0.8s ease;
