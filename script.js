@@ -6,7 +6,7 @@ const POSTER_BASE = 'https://image.tmdb.org/t/p/w500';
 
 const landing = document.getElementById('landing-page')
 const game = document.getElementById('game-page')
-game.style.display = 'none';
+game.style.display = 'hidden';
 
 
 // DOM refs
@@ -536,7 +536,7 @@ async function fetchMovie() {
 
     console.log('📁 No saved state — loading local movie list');
 
-    const res = await fetch('movies.json');
+    const res = await fetch('/movies.json');
     if (!res.ok) throw new Error(`Failed to load movies.json`);
     const movieList = await res.json();
     
