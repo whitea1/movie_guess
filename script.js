@@ -4,6 +4,11 @@ const API_KEY = 'ac2186479d3af56f901e4687edb7ba94';
 const TMDB_BASE = 'https://api.themoviedb.org/3';
 const POSTER_BASE = 'https://image.tmdb.org/t/p/w500';
 
+const landing = document.getElementById('landing-page')
+const game = document.getElementById('game-page')
+game.style.display = 'none';
+
+
 // DOM refs
 const wordContainer = document.getElementById('word-container');
 const keyboardEl = document.getElementById('keyboard');
@@ -21,6 +26,7 @@ const closeBtn = document.getElementById('close-modal');
 const streakInfo = document.getElementById('streak-info');
 
 const openStatsBtn = document.getElementById('open-stats');
+const viewStatsBtn = document.getElementById('landing-stats');
 const statsModal = document.getElementById('stats-modal');
 const statsBody = document.getElementById('stats-body');
 const closeStatsBtn = document.getElementById('close-stats');
@@ -42,6 +48,11 @@ let guessedLetters = new Set();
 const maxWrong = 10;
 
 // ---------------- helpers ----------------
+function playGame() {
+  landing.style.display = 'none';
+  game.style.display = 'block';
+}
+
 function normalize(str) {
   return (str || '').replace(/[^A-Z0-9 ]/gi, '').toUpperCase();
 }
@@ -341,8 +352,7 @@ if (shareBtn) shareBtn.onclick = () => shareResult(won);
 
 
 // ---------------- stats modal controls ----------------
-if (openStatsBtn) {
-  openStatsBtn.onclick = (event) => {
+function openStatsModal() {
     const stats = loadStats();
     const totalGames = stats.totalWins + stats.totalLosses;
     const winPct = totalGames ? ((stats.totalWins / totalGames) * 100).toFixed(1) : 0;
@@ -378,8 +388,8 @@ if (openStatsBtn) {
         bar.style.width = `${target}%`;
       });
     }, 200);
-  };
-}
+};
+
 if (closeStatsBtn) closeStatsBtn.onclick = () => statsModal.classList.add('hidden');
 if (msg.classList.contains('win') || msg.classList.contains('lose')) {
   disableAllKeys();
@@ -393,6 +403,7 @@ if (resetStatsBtn) {
     }
   };
 }
+
 
 hintButton.onclick = () => {
   if (!movie) return;

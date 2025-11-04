@@ -14,31 +14,63 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div id="app">
-    <header class="top-bar">
-      <h1 id = "dmq">The Daily Movie Quiz</h1>
-      <p>Guess the daily movie title letter by letter!</p>
 
-      <div class="top-buttons">
-        <button id="open-stats" class = "top-btns"><i class="fa-solid fa-chart-simple"></i></button>
-      </div>
-    </header>
+  <section id="landing-page">
+    <h1>The Daily Movie Quiz</h1>
+    <p>Guess today’s movie in as few tries as possible!</p>
+  
+    <div>
+      <button id="play-game" class="landing-btn" onclick="playGame()"><i class="fa-solid fa-play"></i></button>
+      <button id="landing-stats"  class="secondary" onclick="openStatsModal()"><i class="fa-solid fa-chart-simple"></i></button>
+    </div>
+  
+    <div class="ad-container">
+      <!-- Example AdSense slot -->
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-XXXXXXX"
+           data-ad-slot="YYYYYYY"
+           data-ad-format="auto"
+           data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+  
+    <footer>© 2025 The Daily Movie Quiz</footer>
+  
 
-    <main id="game">
-      <button id="hint-button" class = "top-btns">Hint 1</button>
-      <div id="lives" class="lives-counter">
-        Lives Remaining: <span id="lives-count">6</span>
-      </div>
 
-      <div id="word-container"></div>
-      <div id="keyboard"></div>
-      <div id="message"></div>
-    </main>
+  </section>
 
-    <footer>
-      Built using TMDb API
-    </footer>
-  </div>
+  <section id="game-page">
+
+    <div id="app">
+      <header class="top-bar">
+        <h1 id = "dmq">The Daily Movie Quiz</h1>
+        <!-- <p>Guess today’s movie in as few tries as possible!</p> -->
+  
+        <div class="top-buttons">
+          <button id="open-stats" class = "top-btns" onclick="openStatsModal()"><i class="fa-solid fa-chart-simple"></i></button>
+
+        </div>
+      </header>
+  
+      <main id="game">
+        <button id="hint-button" class = "top-btns">Hint 1</button>
+        <div id="lives" class="lives-counter">
+          Lives Remaining: <span id="lives-count">6</span>
+        </div>
+  
+        <div id="word-container"></div>
+        <div id="keyboard"></div>
+        <div id="message"></div>
+      </main>
+  
+
+    </div>
+
+  </section>
+  
 
   <!-- 🎬 Result Modal -->
   <div id="result-modal" class="modal hidden">
@@ -72,5 +104,6 @@
 
 
   <script src="script.js"></script>
+
 </body>
 </html>

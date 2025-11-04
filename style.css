@@ -11,6 +11,80 @@
     padding: 20px 10px 40px;
   }
 
+  #landing-page {
+    font-family: "Ubuntu", sans-serif;;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    opacity: 0.8;
+    margin-bottom: 2rem;
+  }
+
+  .ad-container {
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+  }
+
+  .landing-btn {
+    background: #22c55e;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 0.8rem 5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .landing-btn:hover {
+    background: #22c55e8f;
+    cursor: pointer;
+  }
+
+  .secondary {
+    background: transparent;
+    border: 1px solid #22c55e;
+    color: #fff;
+    border-radius: 10px;
+    padding: 0.8rem 5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .secondary:hover {
+    background: #22c55e45;
+  }
+
+  @media (max-width: 600px) {
+    h1 { font-size: 2.5rem; }
+
+    .landing-btn {
+      width: 80%;
+    }
+
+    .secondary {
+      width: 80%;
+    }
+
+  }
+
 
   .key.pressed {
     transform: scale(0.9);
@@ -149,10 +223,11 @@
   }
   
   footer {
-    text-align: center;
-    margin-top: 30px;
-    color: #aaa;
-    font-size: 0.8em;
+    position: absolute;
+    bottom: 10px;
+    font-size: 0.8rem;
+    opacity: 0.6;
+    
   }
 
   /* === Animations === */
@@ -240,16 +315,18 @@
 }
 
 #share-button{
+  font-family: "Ubuntu", sans-serif;
   background: #22c55e;
-  color: white;
   border: none;
-  padding: 7px 115px;
-  margin-top: 25px;
-  margin-bottom: 10px;
+  color: white;
   border-radius: 10px;
+  padding: 0.5rem 7.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
   cursor: pointer;
-  font-size: 1.2em;
-  transition: background 0.2s;
+  transition: all 0.2s ease;
 }
 
 .close-button {
@@ -269,8 +346,8 @@
 } */
 
 #share-button:hover{
-  background: #12823b;
-  border: 2px, white;
+  background: #1b9448;
+
 
 }
 
@@ -395,8 +472,9 @@
   font-family: "Ubuntu", sans-serif;
   margin-top: 20px;
   background: #22c55e;
+  background: transparent;
+  border: 1px solid white;
   color: white;
-  border: none;
   border-radius: 10px;
   padding: 8px 100px;
   cursor: pointer;
@@ -404,7 +482,8 @@
 }
 
 .danger-btn:hover {
-  background: #12823b;
+  background: #22c55e8f;
+
 }
 
 #reset-stats {
@@ -437,6 +516,8 @@
   .top-bar p {
     font-size: 0.9em;
   }
+
+
 
   #game {
     padding: 12px;
