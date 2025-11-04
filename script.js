@@ -6,7 +6,7 @@ const POSTER_BASE = 'https://image.tmdb.org/t/p/w500';
 
 const landing = document.getElementById('landing-page')
 const game = document.getElementById('game-page')
-game.style.display = 'hidden';
+game.style.display = 'none';
 
 
 // DOM refs
