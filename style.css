@@ -322,7 +322,7 @@
 #share-button{
   font-family: "Ubuntu", sans-serif;
   background: #22c55e;
-  border: none;
+  border: 1px solid #22c55e;
   color: white;
   border-radius: 10px;
   padding: 0.5rem 7.5rem;
@@ -351,9 +351,7 @@
 } */
 
 #share-button:hover{
-  background: #1b9448;
-
-
+  background: #22c55eb8;
 }
 
 #streak-info {
@@ -477,9 +475,8 @@
   font-family: "Ubuntu", sans-serif;
   margin-top: 10px;
   margin-bottom: 10px;
-  background: #22c55e;
   background: transparent;
-  border: 1px solid white;
+  border: 1px solid #22c55e;
   color: white;
   border-radius: 10px;
   padding: 8px 106px;
@@ -488,7 +485,7 @@
 }
 
 .btn:hover {
-  background: #22c55e8f;
+  background: #22c55e;
 
 }
 
