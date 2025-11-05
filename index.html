@@ -80,6 +80,8 @@
       <p id="modal-message"></p>
       <p id="streak-info"></p>
       <button id="share-button"><i class="fa-solid fa-share-nodes"></i></button>
+      <button id="poster-btn" class="btn">Poster</button>
+      <!-- <button id="trailer-btn" class="btn">Trailer</button> -->
     </div>
   </div>
 
@@ -88,8 +90,8 @@
     <div class="modal-content">
       <h2>Your Stats</h2>
       <div id="stats-body"></div>
-      <button id="close-stats" class="danger-btn">Return</button>
-      <button id="reset-stats" class="danger-btn">Reset Stats</button>
+      <button id="close-stats" class="btn">Return</button>
+      <button id="reset-stats" class="btn">Reset Stats</button>
     </div>
   </div>
 
@@ -98,9 +100,19 @@
     <div class="modal-content">
       <h2 id="hint-title">Hint</h2>
       <p id="hint-text"></p>
-      <button id="close-hint" class = "danger-btn">Return</button>
+      <button id="close-hint" class = "btn">Return</button>
     </div>
   </div>
+
+  <!-- Poster Modal -->
+   <div id="poster-modal" class="modal hidden">
+    <div class="modal-content" style="max-width: 90%; text-align: center;">
+      <span id="close-poster" class="close-btn">&times;</span>
+      <h2 id="poster-name"></h2>
+      <div id="poster-full"></div>
+    </div>
+   </div>
+
 
 
   <script src="script.js" defer></script>

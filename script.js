@@ -39,6 +39,15 @@ const hintText = document.getElementById('hint-text');
 const hintTitle = document.getElementById('hint-title');
 const closeHint = document.getElementById('close-hint');
 
+// Poster Modal DOM
+const posterBtn = document.getElementById('poster-btn');
+const posterModal = document.getElementById('poster-modal');
+const posterFull = document.getElementById('poster-full');
+const closePoster = document.getElementById('close-poster');
+const posterName = document.getElementById('poster-name');
+
+const trailerBtn = document.getElementById('trailer-btn');
+
 
 // Game state
 let movie = null;
@@ -441,7 +450,7 @@ hintButton.onclick = () => {
     hintStage = 3;
     hintButton.disabled = true; // no more hints
     hintTitle.textContent = 'Poster Hint';
-    hintText.innerHTML = `<img src="${movie.poster}" alt="Movie Poster" style="max-width:100%;border-radius:12px;">`;
+    hintText.innerHTML = `<img src="${movie.poster}" alt="Movie Poster" style="max-width:100%;border-radius:12px; filter: blur(5px); transition: filter 0.3s ease;">`;
     showHintModal();
   }
 
@@ -455,6 +464,41 @@ function showHintModal() {
 closeHint.onclick = () => {
   hintModal.classList.add('hidden');
 };
+
+
+// ---------------- Poster Modal Logic ----------------
+if (posterBtn) {
+  posterBtn.addEventListener('click', () => {
+    if (movie && movie.poster) {
+      posterName.innerHTML = `${movie.title}`
+      posterFull.innerHTML = `<img src="${movie.poster}" alt="Full Movie Poster">`;
+      posterModal.classList.remove('hidden');
+    }
+  })
+}
+
+if (closePoster) {
+  closePoster.addEventListener('click', () => {
+    posterModal.classList.add('hidden');
+  })
+}
+
+// Close when clicking outside modal content
+window.addEventListener('click', (e) => {
+  if (e.target === posterModal) {
+    posterModal.classList.add('hidden');
+  }
+
+});
+
+if (trailerBtn) {
+  trailerBtn.onclick = () => {
+    if (!movie || !movie.title) return;
+    const query = encodeURIComponent(`${movie.title} ${movie.year} trailer`);
+    window.open(`https://www.youtube.com/results?search_query=${query}`, '_blank');
+  };
+}
+
 
 
 // ---------------- keyboard support ----------------

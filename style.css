@@ -217,6 +217,11 @@
     filter: blur(20px);
     transition: filter 0.5s ease;
   }
+
+  #poster-container img.blurred {
+    filter: blur(6px);
+    transition: filter 0.5s ease;
+  }
   
   .hint {
     margin-top: 8px;
@@ -468,20 +473,21 @@
   margin-top: 10px;
 }
 
-.danger-btn {
+.btn {
   font-family: "Ubuntu", sans-serif;
-  margin-top: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   background: #22c55e;
   background: transparent;
   border: 1px solid white;
   color: white;
   border-radius: 10px;
-  padding: 8px 100px;
+  padding: 8px 106px;
   cursor: pointer;
   transition: background 0.2s ease;
 }
 
-.danger-btn:hover {
+.btn:hover {
   background: #22c55e8f;
 
 }
@@ -489,6 +495,76 @@
 #reset-stats {
   display: none;
 }
+
+/* Fullscreen dark overlay */
+#poster-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+/* When active */
+#poster-modal:not(.hidden) {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.poster-modal-content {
+  position: relative;
+  background: none;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+
+  /* Keep portrait shape and responsive sizing */
+  width: auto;
+  height: auto;
+  max-height: 90vh;
+  max-width: calc(90vh * 2 / 3); /* maintain 2:3 ratio dynamically */
+}
+
+
+/* Poster image fills modal */
+#poster-full img {
+  width: 100%;
+  height: auto;
+  max-height: 90vh;
+  border-radius: 12px;
+  object-fit: contain;
+}
+
+
+/* Close button (top-right corner) */
+#close-poster {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  font-size: 2em;
+  font-weight: bold;
+  cursor: pointer;
+  color: #fff;
+  text-shadow: 0 0 8px rgba(0,0,0,0.8);
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+
+
+
+
+
+
 
 /* === Mobile Optimization === */
 @media (max-width: 600px) {
@@ -590,5 +666,10 @@
 
   #poster-container img {
     width: 150px;
+  }
+
+  .btn {
+    padding: 8px 98px;
+
   }
 }
