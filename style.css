@@ -550,7 +550,7 @@
 /* Close button (top-right corner) */
 #close-poster {
   position: absolute;
-  top: 15px;
+  top: 20px;
   right: 20px;
   font-size: 2em;
   font-weight: bold;
