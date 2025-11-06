@@ -541,7 +541,7 @@
 #poster-full img {
   width: 100%;
   height: auto;
-  max-height: 90vh;
+  max-height: 70vh;
   border-radius: 12px;
   object-fit: contain;
 }
@@ -656,8 +656,10 @@
   }
 
   .share-btn {
-    padding: 8px 115px;
+    padding: 0.5rem 1.5rem;
     font-size: 1em;
+    text-align: center;
+    align-content: center;
   }
 
   .close-button {

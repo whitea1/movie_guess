@@ -45,6 +45,7 @@ const posterModal = document.getElementById('poster-modal');
 const posterFull = document.getElementById('poster-full');
 const closePoster = document.getElementById('close-poster');
 const posterName = document.getElementById('poster-name');
+const posterMessage = document.getElementById('poster-message')
 
 const trailerBtn = document.getElementById('trailer-btn');
 
@@ -471,6 +472,7 @@ if (posterBtn) {
   posterBtn.addEventListener('click', () => {
     if (movie && movie.poster) {
       posterName.innerHTML = `${movie.title}`
+      posterMessage.innerHTML = `Released: ${movie.year}.<br>Genre: ${movie.genres}`
       posterFull.innerHTML = `<img src="${movie.poster}" alt="Full Movie Poster">`;
       posterModal.classList.remove('hidden');
     }
