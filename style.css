@@ -550,8 +550,8 @@
 /* Close button (top-right corner) */
 #close-poster {
   position: absolute;
-  top: 5px;
-  right: 16px;
+  top: 10px;
+  right: 20px;
   font-size: 2em;
   font-weight: bold;
   cursor: pointer;
