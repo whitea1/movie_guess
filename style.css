@@ -337,7 +337,7 @@
 
 .close-button {
   position: absolute;
-  top: 10px;
+  top: 4px;
   right: 15px;
   font-size: 2em;
   font-weight: bold;
@@ -550,7 +550,7 @@
 /* Close button (top-right corner) */
 #close-poster {
   position: absolute;
-  top: 12px;
+  top: 5px;
   right: 16px;
   font-size: 2em;
   font-weight: bold;
@@ -663,7 +663,7 @@
   }
 
   .close-button {
-    top: 6px;
+    top: 4px;
     right: 15px;
     font-size: 2em;
 
