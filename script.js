@@ -472,7 +472,7 @@ if (posterBtn) {
   posterBtn.addEventListener('click', () => {
     if (movie && movie.poster) {
       posterName.innerHTML = `${movie.title}`
-      posterMessage.innerHTML = `Released: ${movie.year}.<br>Genre: ${movie.genres}`
+      posterMessage.innerHTML = `Released: ${movie.year}<br><br>${movie.genres}`
       posterFull.innerHTML = `<img src="${movie.poster}" alt="Full Movie Poster">`;
       posterModal.classList.remove('hidden');
     }
