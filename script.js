@@ -49,6 +49,10 @@ const posterMessage = document.getElementById('poster-message')
 
 const trailerBtn = document.getElementById('trailer-btn');
 
+const statsPage = document.getElementById('stats-page');
+const homeBtn = document.getElementById('home-btn');
+const statsContent = document.getElementById('stats-content');
+
 
 // Game state
 let movie = null;
@@ -413,6 +417,8 @@ if (resetStatsBtn) {
     }
   };
 }
+
+
 
 
 hintButton.onclick = () => {
