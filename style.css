@@ -632,9 +632,9 @@
   }
 
   .letter-box {
-    width: 26px;
-    height: 34px;
-    font-size: 1em;
+    width: 31px;
+    height: 39px;
+    font-size: 1.2em;
   }
   /* Reduce space between words in the movie title */
   .letter-box.space {
