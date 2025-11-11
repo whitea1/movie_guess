@@ -390,7 +390,7 @@ function openStatsModal() {
     }).join('') || '<p class="empty-stats">No data yet — start guessing!</p>';
 
     statsBody.innerHTML = `
-      <p style="text-align:center; font-size:1.2em; color:#ffcc00; margin:0.5em 0;"><strong>${stats.totalPoints}</strong></p>
+      <p style="text-align:center; font-size:1.5em; color:#ffffff; margin:0.5em;"><strong><strong>${stats.totalPoints}</strong></strong></p>
       <p>Current Streak: <strong>${stats.currentStreak}</strong></p>
       <p>Best Streak: <strong>${stats.bestStreak}</strong></p>
       <p>Total Wins: <strong>${stats.totalWins}</strong></p>
