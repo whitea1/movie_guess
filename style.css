@@ -21,6 +21,16 @@
     text-align: center;
   }
 
+  #stats-page {
+    font-family: "Ubuntu", sans-serif;;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+
   h1 {
     font-size: 3rem;
     margin-bottom: 0.5rem;
@@ -109,7 +119,7 @@
 
   
   #game {
-    background: #1f1f1f;
+    background: #141414;
     padding: 20px;
     border-radius: 16px;
     display: flex;

@@ -8,6 +8,11 @@ const landing = document.getElementById('landing-page')
 const game = document.getElementById('game-page')
 game.style.display = 'none';
 
+const statsPage = document.getElementById('stats-page');
+const homeBtn = document.getElementById('home-button');
+const statsContent = document.getElementById('stats-content');
+statsPage.style.display = 'none';
+
 
 // DOM refs
 const wordContainer = document.getElementById('word-container');
@@ -49,9 +54,8 @@ const posterMessage = document.getElementById('poster-message')
 
 const trailerBtn = document.getElementById('trailer-btn');
 
-const statsPage = document.getElementById('stats-page');
-const homeBtn = document.getElementById('home-btn');
-const statsContent = document.getElementById('stats-content');
+
+
 
 
 // Game state
@@ -66,6 +70,8 @@ function playGame() {
   landing.style.display = 'none';
   game.style.display = 'block';
 }
+
+
 
 function normalize(str) {
   return (str || '').replace(/[^A-Z0-9 ]/gi, '').toUpperCase();
