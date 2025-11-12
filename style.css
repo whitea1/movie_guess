@@ -210,10 +210,13 @@
   
   .key.correct {
     background: #22c55e;
+
+
   }
   
   .key.wrong {
     background: #e50914;
+
   }
   
   #hints {
@@ -351,7 +354,9 @@
   font-weight: bold;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
-  width: 25em;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 10em;
   cursor: pointer;
   /* transition: all 0.2s ease; */
 }

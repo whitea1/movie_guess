@@ -24,6 +24,7 @@ const genresEl = document.getElementById('genres');
 
 // modal / stats DOM (may be null if HTML missing)
 const modal = document.getElementById('result-modal');
+const modalImage = document.getElementById('modal-image')
 const modalTitle = document.getElementById('modal-title');
 const modalMessage = document.getElementById('modal-message');
 const shareBtn = document.getElementById('share-button');
@@ -308,6 +309,7 @@ function showModal(won) {
   const livesRemaining = Math.max(maxWrong - wrongGuesses, 0);
 
   if (won) {
+    modalImage.innerHTML = `<i class="fa-solid fa-circle-check" style="color:#0aeb5c; font-size:2em;"></i>`
     modalTitle.textContent = 'Congratulations!';
     const pointsEarned = Math.max(maxWrong - wrongGuesses, 0);
     modalMessage.innerHTML = `You guessed "${movie.title}".<br><br><strong>${pointsEarned} points awarded!</strong>`;
@@ -317,6 +319,7 @@ function showModal(won) {
   
   
   } else {
+    modalImage.innerHTML = `<i class="fa-solid fa-circle-xmark" style="font-size:2em; color:#ff000d;"></i>`
     modalTitle.textContent = 'Oops! Better Luck Tomorrow';
     modalMessage.innerHTML = `It was "${movie.title}".<br><br><strong>No points awarded.</strong>`;
     streakInfo.innerHTML = `Total Points: ${stats.totalPoints}<br>
