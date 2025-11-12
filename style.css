@@ -696,6 +696,10 @@
     width: 150px;
   }
 
+  #poser-name {
+    margin-top: 10px;
+  }
+
   .btn {
     padding: 8px 98px;
 
