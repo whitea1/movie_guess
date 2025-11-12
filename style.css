@@ -358,9 +358,9 @@
 
 .close-button {
   position: absolute;
-  top: 4px;
-  right: 15px;
-  font-size: 2em;
+  top: 2px;
+  right: 10px;
+  font-size: 2.5em;
   font-weight: bold;
   color: #fff;
   cursor: pointer;
