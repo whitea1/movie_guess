@@ -364,7 +364,7 @@
 .close-button {
   position: absolute;
   top: 2px;
-  right: 10px;
+  right: 2px;
   font-size: 2.5em;
   font-weight: bold;
   color: #fff;
@@ -565,7 +565,7 @@
   width: 100%;
   height: auto;
   max-height: 70vh;
-  border-radius: 12px;
+  border-radius: 2px;
   object-fit: contain;
 }
 
@@ -573,7 +573,7 @@
 /* Close button (top-right corner) */
 #close-poster {
   position: absolute;
-  right: 10px;
+  right: 2px;
   font-size: 2em;
   font-weight: bold;
   cursor: pointer;
@@ -690,7 +690,7 @@
 
   .close-button {
     top: 1px;
-    right: 10px;
+    right: 2px;
     font-size: 2.5em;
 
   }
@@ -698,7 +698,7 @@
 
 
   #poster-name {
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 2px;
   }
 
