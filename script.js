@@ -364,9 +364,10 @@ function shareResult(won) {
   const stats = loadStats();
   const [year, month, day] = todayKey().split("-");
   const formattedDate = `${day}-${month}-${year}`;
+  const pointsLabel = pointsEarned === 1 ? "point" : "points";
   const shareText =
     `🎬 Daily Movie Quiz ${formattedDate}\n` +
-    `${pointsEarned} points earned!\n` +
+    `${pointsEarned} ${pointsLabel} earned!\n` +
     `${emojiGrid}\n` +
     `Total Points: ${stats.totalPoints}\n` +
     `Current Streak: ${stats.currentStreak}\n` +
