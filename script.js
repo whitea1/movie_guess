@@ -367,7 +367,7 @@ function shareResult(won) {
   const pointsLabel = pointsEarned === 1 ? "point" : "points";
   const shareText =
     `🎬 Daily Movie Quiz ${formattedDate}\n` +
-    `${pointsEarned} ${pointsLabel} earned!\n` +
+    `${pointsEarned} ${pointsLabel} awarded!\n` +
     `${emojiGrid}\n` +
     `Total Points: ${stats.totalPoints}\n` +
     `Current Streak: ${stats.currentStreak}\n` +
