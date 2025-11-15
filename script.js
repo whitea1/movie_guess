@@ -313,10 +313,10 @@ function showModal(won) {
     modalTitle.textContent = 'Congratulations!';
     const pointsEarned = Math.max(maxWrong - wrongGuesses, 0);
     if (pointsEarned  === 1) {
-      modalMessage.innerHTML = `You guessed "${movie.title}".<br><br><strong>${pointsEarned} point awarded!</strong>`;
+      modalMessage.innerHTML = `You guessed "${movie.title}".<br><br><strong>+${pointsEarned} point!</strong>`;
     }
     else {
-      modalMessage.innerHTML = `You guessed "${movie.title}".<br><br><strong>${pointsEarned} points awarded!</strong>`;
+      modalMessage.innerHTML = `You guessed "${movie.title}".<br><br><strong>+${pointsEarned} points!</strong>`;
     }
 
     streakInfo.innerHTML = `Total Points: <strong>${stats.totalPoints}</strong><br>
@@ -327,7 +327,7 @@ function showModal(won) {
   } else {
     modalImage.innerHTML = `<i class="fa-solid fa-circle-xmark" style="font-size:2em; color:#ff000d;"></i>`
     modalTitle.textContent = 'Oops! Better Luck Tomorrow';
-    modalMessage.innerHTML = `It was "${movie.title}".<br><br><strong>0 points awarded.</strong>`;
+    modalMessage.innerHTML = `It was "${movie.title}".<br><br><strong>0 points!</strong>`;
     streakInfo.innerHTML = `Total Points: ${stats.totalPoints}<br>
                             Current Streak: ${stats.currentStreak}<br>
                             Best Streak: ${stats.bestStreak}`;
