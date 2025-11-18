@@ -72,14 +72,23 @@ function playGame() {
   game.style.display = 'block';
 }
 
-
-
 function normalize(str) {
   return (str || '').replace(/[^A-Z0-9 ]/gi, '').toUpperCase();
 }
 function todayKey() {
   return new Date().toISOString().slice(0, 10);
 }
+
+// Fix mobile browser viewport height issues
+function updateVH() {
+  document.documentElement.style.setProperty(
+    '--vh',
+    `${window.innerHeight * 0.01}px`
+  );
+}
+updateVH();
+window.addEventListener('resize', updateVH);
+
 
 // ---------------- persistence ----------------
 function saveProgress() {

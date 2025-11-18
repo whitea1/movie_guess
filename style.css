@@ -182,14 +182,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 8px;
+    gap: 5px;
     margin-bottom: 50px;
   }
   
   .key-row {
     display: flex;
     justify-content: center;
-    gap: 6px;
+    gap: 5px;
   }
   
   .key {
@@ -587,10 +587,19 @@
 
 
 
+@media (max-height: 700px) {
+  .keyboard { transform: scale(0.85); }
+  .game-area { padding-bottom: 0.5rem; }
+}
 
 
+@media (max-height: 640px) {
+  .keyboard { transform: scale(0.75); }
+}
 
-
+:root {
+  --vh: 1vh;
+}
 
 
 /* === Mobile Optimization === */
@@ -656,8 +665,8 @@
   
 
   .key {
-    width: 40px;
-    height: 44px;
+    width: 37px;
+    height: 40px;
     font-size: 0.9em;
   }
 
@@ -705,5 +714,23 @@
   .btn {
     padding: 8px 98px;
 
+  }
+}
+
+@media (max-width: 360px) {
+  /* Ultra-small phones */
+  .keyboard { transform: scale(0.9); }
+  /* reduce padding/margins in the game area */
+}
+
+
+
+.full-height {
+  height: calc(var(--vh, 1vh) * 100);
+}
+
+@supports(padding: max(0px)) {
+  body {
+    padding-bottom: max(env(safe-area-inset-bottom), 10px);
   }
 }
