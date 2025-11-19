@@ -317,7 +317,7 @@
   justify-content: center;
   align-items: center;
   /* max-width: 250px; */
-  width: auto;
+  width: 60%;
   height: auto;
 
   /* box-shadow: 0 2px 10px rgba(0, 0, 0, 0.64); */
@@ -362,7 +362,7 @@
   margin-bottom: 0.5rem;
   margin-left: 10px;
   margin-right: 10px;
-  width: 10em;
+  width: 14em;
   cursor: pointer;
   /* transition: all 0.2s ease; */
 }
