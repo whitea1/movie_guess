@@ -51,20 +51,17 @@
 
     <div id="app">
       <header class="top-bar">
-        <h1 id = "dmq">The Daily Movie Quiz</h1>
+        <!-- <h1 id = "dmq">The Daily Movie Quiz</h1> -->
         <!-- <p>Guess today’s movie in as few tries as possible!</p> -->
   
-        <div class="top-buttons">
-          <button id="open-stats" class = "top-btns" onclick="openStatsModal()"><i class="fa-solid fa-chart-simple"></i></button>
-
-        </div>
       </header>
   
       <main id="game" class="full-height">
-        <button id="hint-button" class = "top-btns">Hint 1</button>
         <div id="lives" class="lives-counter">
           Lives Remaining: <span id="lives-count">6</span>
         </div>
+        <button id="hint-button" class = "top-btns">Hint 1</button>
+       
   
         <div id="word-container"></div>
         <div id="keyboard"></div>
@@ -97,8 +94,9 @@
       <p id="modal-message"></p>
       <p id="streak-info"></p>
       <div id="button-house">
-        <button id="poster-btn" class="share-btn">Poster</button>
         <button id="share-button" class="share-btn"><i class="fa-solid fa-share-nodes"></i></button>
+        <button id="poster-btn" class="share-btn">Poster</button>
+        <button id="open-stats" class = "share-btn" onclick="openStatsModal()"><i class="fa-solid fa-chart-simple"></i></button>
         <!-- <button id="trailer-btn" class="btn">Trailer</button> -->
       </div>
 
