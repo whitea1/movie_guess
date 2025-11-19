@@ -17,6 +17,10 @@
 </head>
 <body>
 
+  <section id="menu-bar" class="menu-bar">
+  <button id="loginBtn" class="login-button"><i class="fa-solid fa-user"></i></button>
+  </section>
+
   <section id="landing-page">
     <h1>The Daily Movie Quiz</h1>
     <p>Guess today’s movie in as few tries as possible!</p>
@@ -133,6 +137,21 @@
       <button id="close-poster" class="share-btn">Return</buttonclose-poster>
     </div>
    </div>
+
+   <!-- Login Modal -->
+    <div id="login-modal" class="modal hidden">
+      <div class="modal-content">
+        <button id="sign-in">Sign In</button>
+        <button id="sign-up">Sign Up</button>
+        <div id="window-content">
+          <input type="text" id="usernameInput" placeholder="Username">
+          <input type="password" id="passwordInput" placeholder="Password">
+          <button id="submitBtn">Submit</button>
+          <button id="close-signin">Close</button>
+        </div>
+      </div>
+    </div>
+
 
 
 
