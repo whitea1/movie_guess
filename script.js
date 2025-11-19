@@ -205,8 +205,7 @@ function renderKeyboard() {
 
 function updateHints() {
   if (!movie) return;
-  if (wrongGuesses >= 3 && yearEl) yearEl.textContent = movie.year || 'Unknown';
-  if (wrongGuesses >= 4 && genresEl) genresEl.textContent = movie.genres ? movie.genres.join(', ') : 'Unknown';
+
   if (poster) poster.style.filter = `blur(${Math.max(20 - wrongGuesses * 4, 0)}px)`;
 }
 
@@ -373,11 +372,12 @@ function shareResult(won) {
   const stats = loadStats();
   const [year, month, day] = todayKey().split("-");
   const formattedDate = `${day}-${month}-${year}`;
-  const pointsLabel = pointsEarned === 1 ? "point" : "points";
+  const pointsLabel = pointsEarned === 1 ? "Point" : "Points";
   const shareText =
     `🎬 Daily Movie Quiz ${formattedDate}\n` +
-    `${pointsEarned} ${pointsLabel} awarded!\n` +
+    `${pointsEarned} ${pointsLabel} Awarded!\n` +
     `${emojiGrid}\n` +
+    `Hints Used: ${hintsUsed}\n` +
     `Total Points: ${stats.totalPoints}\n` +
     `Current Streak: ${stats.currentStreak}\n` +
     `Play at: https://www.thedmq.com`;
@@ -452,24 +452,29 @@ hintButton.onclick = () => {
   // Stage 0 → show year
   if (hintStage === 0) {
     if (wrongGuesses >= maxWrong - 1) return alert("You don't have enough lives!");
-    wrongGuesses+=2;
+    wrongGuesses++;
     updateLives();
+
     hintStage = 1;
     hintButton.textContent = 'Hint 2';
     hintTitle.textContent = 'Hint 1';
-    hintText.textContent = `Released in ${movie.year}`;
+    hintText.textContent = `Genres: ${movie.genres.join(', ')}`;
     showHintModal();
   }
 
   // Stage 1 → show genres
   else if (hintStage === 1) {
     if (wrongGuesses >= maxWrong - 1) return alert("You don't have enough lives!");
-    wrongGuesses+=3;
+    wrongGuesses++;
     updateLives();
+
     hintStage = 2;
     hintButton.textContent = 'Poster';
     hintTitle.textContent = 'Hint 2';
-    hintText.textContent = `Genres: ${movie.genres.join(', ')}`;
+    const castList = movie.cast?.length
+    ? movie.cast.slice(0, 3).join(", ") : "Unknown";
+
+    hintText.textContent = `Cast: ${castList}`;
     showHintModal();
   }
 
@@ -482,7 +487,7 @@ hintButton.onclick = () => {
     hintStage = 3;
     hintButton.disabled = true; // no more hints
     hintTitle.textContent = 'Poster Hint';
-    hintText.innerHTML = `<img src="${movie.poster}" alt="Movie Poster" style="max-width:100%;border-radius:12px; filter: blur(5px); transition: filter 0.3s ease;">`;
+    hintText.innerHTML = `<img src="${movie.poster}" alt="Movie Poster" style="border-radius:12px; filter: blur(5px); transition: filter 0.3s ease;">`;
     showHintModal();
   }
 
@@ -502,8 +507,10 @@ closeHint.onclick = () => {
 if (posterBtn) {
   posterBtn.addEventListener('click', () => {
     if (movie && movie.poster) {
+      const castList = movie.cast?.length
+      ? movie.cast.slice(0, 3).join(", ") : "Unknown";
       // posterName.innerHTML = `${movie.title}`
-      posterMessage.innerHTML = `Released: ${movie.year}<br><br>${movie.genres}`
+      posterMessage.innerHTML = `<strong>${movie.year}</strong><br><br>Starring:<br>${castList}`
       posterFull.innerHTML = `<img src="${movie.poster}" alt="Full Movie Poster">`;
       posterModal.classList.remove('hidden');
     }
@@ -631,6 +638,7 @@ async function fetchMovie() {
       normalized: normalize(m.title),
       year: m.year,
       genres: m.genres || [],
+      cast: m.cast || [],
       poster: m.poster || ''
     };
     

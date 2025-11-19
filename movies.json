@@ -1,312 +1,149 @@
 [
   {
-    "id": 1206988,
-    "title": "A Tribe Called Judah",
-    "year": "2023",
+    "id": 47145,
+    "title": "Augustine: The Decline of the Roman Empire",
+    "year": "2010",
     "genres": [
-      "Comedy",
-      "Crime"
+      "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/9aMG2ftIFqFAN69FdjovKJY0hsd.jpg"
+    "cast": [
+      "Alessandro Preziosi",
+      "Monica Guerritore",
+      "Franco Nero"
+    ],
+    "director": "Christian Duguay",
+    "poster": "https://image.tmdb.org/t/p/w500/fexq7cUOGcQMpbNB9GoxX0AD0S3.jpg"
   },
   {
-    "id": 270655,
-    "title": "People: A Musical Celebration",
-    "year": "1995",
-    "genres": [
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lWcTir4r9bIAvp39aYzz0ZFhJef.jpg"
-  },
-  {
-    "id": 9479,
-    "title": "The Nightmare Before Christmas",
-    "year": "1993",
-    "genres": [
-      "Fantasy",
-      "Animation",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
-  },
-  {
-    "id": 585,
-    "title": "Monsters, Inc.",
-    "year": "2001",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg"
-  },
-  {
-    "id": 552524,
-    "title": "Lilo & Stitch",
+    "id": 1124620,
+    "title": "The Monkey",
     "year": "2025",
     "genres": [
-      "Family",
-      "Science Fiction",
+      "Horror",
+      "Comedy"
+    ],
+    "cast": [
+      "Theo James",
+      "Tatiana Maslany",
+      "Christian Convery"
+    ],
+    "director": "Osgood Perkins",
+    "poster": "https://image.tmdb.org/t/p/w500/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg"
+  },
+  {
+    "id": 8292,
+    "title": "Four Brothers",
+    "year": "2005",
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "cast": [
+      "Mark Wahlberg",
+      "Tyrese Gibson",
+      "André 3000"
+    ],
+    "director": "John Singleton",
+    "poster": "https://image.tmdb.org/t/p/w500/8cO39cnWSZQi2ncPG5TxL3YRzKc.jpg"
+  },
+  {
+    "id": 436969,
+    "title": "The Suicide Squad",
+    "year": "2021",
+    "genres": [
+      "Action",
       "Comedy",
       "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg"
+    "cast": [
+      "Margot Robbie",
+      "Idris Elba",
+      "John Cena"
+    ],
+    "director": "James Gunn",
+    "poster": "https://image.tmdb.org/t/p/w500/q61qEyssk2ku3okWICKArlAdhBn.jpg"
   },
   {
-    "id": 198663,
-    "title": "The Maze Runner",
-    "year": "2014",
+    "id": 615457,
+    "title": "Nobody",
+    "year": "2021",
     "genres": [
       "Action",
-      "Mystery",
-      "Science Fiction",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg"
-  },
-  {
-    "id": 49521,
-    "title": "Man of Steel",
-    "year": "2013",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
+    "cast": [
+      "Bob Odenkirk",
+      "Aleksey Serebryakov",
+      "Connie Nielsen"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg"
+    "director": "Ilya Naishuller",
+    "poster": "https://image.tmdb.org/t/p/w500/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg"
   },
   {
-    "id": 346364,
-    "title": "It",
-    "year": "2017",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg"
-  },
-  {
-    "id": 537915,
-    "title": "After",
-    "year": "2019",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg"
-  },
-  {
-    "id": 1362315,
-    "title": "The Hand That Rocks the Cradle",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/hH953zlL3xdEDpizAquISRrSm1P.jpg"
-  },
-  {
-    "id": 285,
-    "title": "Pirates of the Caribbean: At World's End",
-    "year": "2007",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg"
-  },
-  {
-    "id": 1328402,
-    "title": "The People In The Walls",
+    "id": 539972,
+    "title": "Kraven the Hunter",
     "year": "2024",
     "genres": [
-      "Horror",
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "cast": [
+      "Aaron Taylor-Johnson",
+      "Ariana DeBose",
+      "Fred Hechinger"
+    ],
+    "director": "J.C. Chandor",
+    "poster": "https://image.tmdb.org/t/p/w500/i47IUSsN126K11JUzqQIOi1Mg1M.jpg"
+  },
+  {
+    "id": 1293286,
+    "title": "Gunslingers",
+    "year": "2025",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "cast": [
+      "Stephen Dorff",
+      "Heather Graham",
+      "Nicolas Cage"
+    ],
+    "director": "Brian Skiba",
+    "poster": "https://image.tmdb.org/t/p/w500/O7REXWPANWXvX2jhQydHjAq2DV.jpg"
+  },
+  {
+    "id": 11324,
+    "title": "Shutter Island",
+    "year": "2010",
+    "genres": [
+      "Drama",
       "Thriller",
       "Mystery"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/3NyL99rcDr5S4qQ8FXDwWiLujEE.jpg"
-  },
-  {
-    "id": 1291661,
-    "title": "Tide",
-    "year": "2024",
-    "genres": [
-      "Horror"
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/47sKhC5xyh9oUYz4icO4MB8ern8.jpg"
+    "director": "Martin Scorsese",
+    "poster": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg"
   },
   {
-    "id": 425,
-    "title": "Ice Age",
-    "year": "2002",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg"
-  },
-  {
-    "id": 1027950,
-    "title": "Hotel Dunsmuir",
-    "year": "2022",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/1Jl5WbAEd7jaBfQklsbTwbGqkc3.jpg"
-  },
-  {
-    "id": 1197306,
-    "title": "A Working Man",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg"
-  },
-  {
-    "id": 1245993,
-    "title": "Caught Stealing",
-    "year": "2025",
-    "genres": [
-      "Crime",
-      "Thriller",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg"
-  },
-  {
-    "id": 637649,
-    "title": "Wrath of Man",
-    "year": "2021",
-    "genres": [
-      "Thriller",
-      "Crime",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3.jpg"
-  },
-  {
-    "id": 107257,
-    "title": "A Perfect Ending",
+    "id": 68718,
+    "title": "Django Unchained",
     "year": "2012",
     "genres": [
       "Drama",
-      "Romance"
+      "Western"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/mjwWEwE1xdbtFGCOgeXi5jvQnOU.jpg"
-  },
-  {
-    "id": 710,
-    "title": "GoldenEye",
-    "year": "1995",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Thriller"
+    "cast": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg"
-  },
-  {
-    "id": 58,
-    "title": "Pirates of the Caribbean: Dead Man's Chest",
-    "year": "2006",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg"
-  },
-  {
-    "id": 36557,
-    "title": "Casino Royale",
-    "year": "2006",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg"
-  },
-  {
-    "id": 1086910,
-    "title": "The Lost Princess",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg"
-  },
-  {
-    "id": 1386827,
-    "title": "Coyotes",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg"
-  },
-  {
-    "id": 27205,
-    "title": "Inception",
-    "year": "2010",
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg"
-  },
-  {
-    "id": 38,
-    "title": "Eternal Sunshine of the Spotless Mind",
-    "year": "2004",
-    "genres": [
-      "Science Fiction",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg"
-  },
-  {
-    "id": 13494,
-    "title": "Red Sonja",
-    "year": "2025",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg"
-  },
-  {
-    "id": 822119,
-    "title": "Captain America: Brave New World",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg"
-  },
-  {
-    "id": 646,
-    "title": "Dr. No",
-    "year": "1962",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9zCOLJmLNst0sCPZlkW1IRoH65E.jpg"
+    "director": "Quentin Tarantino",
+    "poster": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg"
   },
   {
     "id": 88,
@@ -317,37 +154,381 @@
       "Music",
       "Romance"
     ],
+    "cast": [
+      "Jennifer Grey",
+      "Patrick Swayze",
+      "Cynthia Rhodes"
+    ],
+    "director": "Emile Ardolino",
     "poster": "https://image.tmdb.org/t/p/w500/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg"
   },
   {
-    "id": 1186274,
-    "title": "Goldilocks and the Three Bears: Death & Porridge",
-    "year": "2024",
+    "id": 949855,
+    "title": "Black Mold",
+    "year": "2025",
     "genres": [
       "Horror",
-      "Thriller"
+      "Thriller",
+      "Drama",
+      "TV Movie"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/42C0Yq0TwqMUIWOBPNJ53mwWqyh.jpg"
+    "cast": [
+      "Agnes Albright",
+      "Jeremy Holm",
+      "Maisie Merlock"
+    ],
+    "director": "John Pata",
+    "poster": "https://image.tmdb.org/t/p/w500/tEN12WSxepFqZmWEknBnrXoHDvL.jpg"
   },
   {
-    "id": 1305717,
-    "title": "Hunting Grounds",
+    "id": 375580,
+    "title": "Dead Body",
+    "year": "2017",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "cast": [
+      "Cooper Hopkins",
+      "Leah Pfenning",
+      "Rachel Brun"
+    ],
+    "director": "Bobbin Ramsey",
+    "poster": "https://image.tmdb.org/t/p/w500/hI4sNhgBIaqYEkHs19S0NwONcHP.jpg"
+  },
+  {
+    "id": 8457,
+    "title": "Drillbit Taylor",
+    "year": "2008",
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Owen Wilson",
+      "Leslie Mann",
+      "Nate Hartley"
+    ],
+    "director": "Steven Brill",
+    "poster": "https://image.tmdb.org/t/p/w500/shqO696kFnM8Z4ODa3JglcjP97u.jpg"
+  },
+  {
+    "id": 681457,
+    "title": "The Carnivores",
+    "year": "2020",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Comedy",
+      "Mystery",
+      "Thriller",
+      "Romance"
+    ],
+    "cast": [
+      "Tallie Medel",
+      "Lindsay Burdge",
+      "Frank Mosley"
+    ],
+    "director": "Caleb Michael Johnson",
+    "poster": "https://image.tmdb.org/t/p/w500/5FuOpf6FMA1YVkHxFsIVIV2381Y.jpg"
+  },
+  {
+    "id": 42531,
+    "title": "Wild Rovers",
+    "year": "1971",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "cast": [
+      "William Holden",
+      "Ryan O'Neal",
+      "Karl Malden"
+    ],
+    "director": "Blake Edwards",
+    "poster": "https://image.tmdb.org/t/p/w500/xi86WQgEfPEADexlsyCxyEhyonC.jpg"
+  },
+  {
+    "id": 597,
+    "title": "Titanic",
+    "year": "1997",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "director": "James Cameron",
+    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  {
+    "id": 1016121,
+    "title": "Beautiful Disaster",
+    "year": "2023",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "cast": [
+      "Dylan Sprouse",
+      "Virginia Gardner",
+      "Austin North"
+    ],
+    "director": "Roger Kumble",
+    "poster": "https://image.tmdb.org/t/p/w500/bwdLflvCcOCRPqb1x13KPuYIzVx.jpg"
+  },
+  {
+    "id": 533533,
+    "title": "TRON: Ares",
+    "year": "2025",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "cast": [
+      "Jared Leto",
+      "Greta Lee",
+      "Evan Peters"
+    ],
+    "director": "Joachim Rønning",
+    "poster": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg"
+  },
+  {
+    "id": 99861,
+    "title": "Avengers: Age of Ultron",
+    "year": "2015",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "director": "Joss Whedon",
+    "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"
+  },
+  {
+    "id": 18389,
+    "title": "The Lighthorsemen",
+    "year": "1987",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "cast": [
+      "Peter Phelps",
+      "Nick Waters",
+      "John Larking"
+    ],
+    "director": "Simon Wincer",
+    "poster": "https://image.tmdb.org/t/p/w500/h0U0l94ILsSb2Wbq8hLvLR92mQA.jpg"
+  },
+  {
+    "id": 1511789,
+    "title": "Captain Hook: The Cursed Tides",
+    "year": "2025",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Horror"
+    ],
+    "cast": [
+      "Sean Cronin",
+      "Ewen Weatherburn",
+      "Cameron Ashplant"
+    ],
+    "director": "Lars Janssen",
+    "poster": "https://image.tmdb.org/t/p/w500/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg"
+  },
+  {
+    "id": 1086910,
+    "title": "The Lost Princess",
     "year": "2025",
     "genres": [
       "Action",
-      "Thriller"
+      "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg"
+    "cast": [
+      "Cillian O'Sullivan",
+      "Gary Dourdan",
+      "Robert Knepper"
+    ],
+    "director": "Hicham Hajji",
+    "poster": "https://image.tmdb.org/t/p/w500/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg"
   },
   {
-    "id": 361743,
-    "title": "Top Gun: Maverick",
-    "year": "2022",
+    "id": 155,
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "director": "Christopher Nolan",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "id": 338969,
+    "title": "The Toxic Avenger Unrated",
+    "year": "2025",
     "genres": [
       "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Peter Dinklage",
+      "Jacob Tremblay",
+      "Taylour Paige"
+    ],
+    "director": "Macon Blair",
+    "poster": "https://image.tmdb.org/t/p/w500/sIonGSpGNtH72OzbJllPOEMNjVU.jpg"
+  },
+  {
+    "id": 272,
+    "title": "Batman Begins",
+    "year": "2005",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Action"
+    ],
+    "cast": [
+      "Christian Bale",
+      "Michael Caine",
+      "Liam Neeson"
+    ],
+    "director": "Christopher Nolan",
+    "poster": "https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg"
+  },
+  {
+    "id": 85483,
+    "title": "Something Evil",
+    "year": "1972",
+    "genres": [
+      "TV Movie",
+      "Horror"
+    ],
+    "cast": [
+      "Sandy Dennis",
+      "Darren McGavin",
+      "Ralph Bellamy"
+    ],
+    "director": "Steven Spielberg",
+    "poster": "https://image.tmdb.org/t/p/w500/ztVrElyzawZPKx0gLURx54s3IHK.jpg"
+  },
+  {
+    "id": 986070,
+    "title": "The Wrath of Becky",
+    "year": "2023",
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Lulu Wilson",
+      "Seann William Scott",
+      "Denise Burse"
+    ],
+    "director": "Suzanne Coote",
+    "poster": "https://image.tmdb.org/t/p/w500/uKNCPaxYZgpsLGSHiasA5IisR3e.jpg"
+  },
+  {
+    "id": 245706,
+    "title": "True Story",
+    "year": "2015",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "cast": [
+      "Jonah Hill",
+      "James Franco",
+      "Felicity Jones"
+    ],
+    "director": "Rupert Goold",
+    "poster": "https://image.tmdb.org/t/p/w500/ncP8XQ0bXP0xSpJmMsRt8mUcEXd.jpg"
+  },
+  {
+    "id": 1257009,
+    "title": "Primitive War",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Horror",
+      "War"
+    ],
+    "cast": [
+      "Jeremy Piven",
+      "Tricia Helfer",
+      "Ryan Kwanten"
+    ],
+    "director": "Luke Sparke",
+    "poster": "https://image.tmdb.org/t/p/w500/nWBqU5YXmDVJWWEDJ4u3ZSseNVL.jpg"
+  },
+  {
+    "id": 1294203,
+    "title": "My Fault: London",
+    "year": "2025",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Asha Banks",
+      "Matthew Broome",
+      "Eve Macklin"
+    ],
+    "director": "Dani Girdwood",
+    "poster": "https://image.tmdb.org/t/p/w500/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg"
+  },
+  {
+    "id": 1042834,
+    "title": "Eden",
+    "year": "2025",
+    "genres": [
+      "Thriller",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+    "cast": [
+      "Jude Law",
+      "Ana de Armas",
+      "Vanessa Kirby"
+    ],
+    "director": "Ron Howard",
+    "poster": "https://image.tmdb.org/t/p/w500/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg"
+  },
+  {
+    "id": 408567,
+    "title": "Deadly Pickup",
+    "year": "2016",
+    "genres": [
+      "Thriller"
+    ],
+    "cast": [
+      "Carter Cruise",
+      "Kira Noir",
+      "Billy Snow"
+    ],
+    "director": "Dean McKendrick",
+    "poster": "https://image.tmdb.org/t/p/w500/kq0B2DAXRhauo3MACv8MKlliakW.jpg"
   },
   {
     "id": 24428,
@@ -358,70 +539,893 @@
       "Action",
       "Adventure"
     ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "director": "Joss Whedon",
     "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
   },
   {
-    "id": 948,
-    "title": "Halloween",
-    "year": "1978",
+    "id": 937941,
+    "title": "Shelby Oaks",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "cast": [
+      "Camille Sullivan",
+      "Brendan Sexton III",
+      "Michael Beach"
+    ],
+    "director": "Chris Stuckmann",
+    "poster": "https://image.tmdb.org/t/p/w500/i3omY4P6QUzFQlEeclWY92RuXCH.jpg"
+  },
+  {
+    "id": 24481,
+    "title": "Born Yesterday",
+    "year": "1950",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "cast": [
+      "Judy Holliday",
+      "Broderick Crawford",
+      "William Holden"
+    ],
+    "director": "George Cukor",
+    "poster": "https://image.tmdb.org/t/p/w500/hPiQUhnkgp2O9bQz9KhSyOjLvGl.jpg"
+  },
+  {
+    "id": 845890,
+    "title": "Righteous Thieves",
+    "year": "2023",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "cast": [
+      "Lisa Vidal",
+      "Cam Gigandet",
+      "Jaina Lee Ortiz"
+    ],
+    "director": "Anthony Nardolillo",
+    "poster": "https://image.tmdb.org/t/p/w500/lVDlngnmhQiG8GbnQBnFOAzpXLh.jpg"
+  },
+  {
+    "id": 1012582,
+    "title": "Bury Me When I'm Dead",
+    "year": "2025",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Horror"
+    ],
+    "cast": [
+      "Devon Terrell",
+      "Charlotte Hope",
+      "Makenzie Leigh"
+    ],
+    "director": "Seabold Krebs",
+    "poster": "https://image.tmdb.org/t/p/w500/2nUK1Jovq346cZvgJbF4l5uQKOL.jpg"
+  },
+  {
+    "id": 1242501,
+    "title": "Icefall",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "cast": [
+      "Joel Kinnaman",
+      "Cara Jade Myers",
+      "Danny Huston"
+    ],
+    "director": "Stefan Ruzowitzky",
+    "poster": "https://image.tmdb.org/t/p/w500/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg"
+  },
+  {
+    "id": 755898,
+    "title": "War of the Worlds",
+    "year": "2025",
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "cast": [
+      "Ice Cube",
+      "Eva Longoria",
+      "Clark Gregg"
+    ],
+    "director": "Rich Lee",
+    "poster": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg"
+  },
+  {
+    "id": 1062722,
+    "title": "Frankenstein",
+    "year": "2025",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Fantasy"
+    ],
+    "cast": [
+      "Oscar Isaac",
+      "Jacob Elordi",
+      "Christoph Waltz"
+    ],
+    "director": "Guillermo del Toro",
+    "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
+  },
+  {
+    "id": 550988,
+    "title": "Free Guy",
+    "year": "2021",
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Ryan Reynolds",
+      "Jodie Comer",
+      "Lil Rel Howery"
+    ],
+    "director": "Shawn Levy",
+    "poster": "https://image.tmdb.org/t/p/w500/6PFJrMvoQwBxQITLYHj09VeJ37q.jpg"
+  },
+  {
+    "id": 120,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "director": "Peter Jackson",
+    "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+  },
+  {
+    "id": 76600,
+    "title": "Avatar: The Way of Water",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver"
+    ],
+    "director": "James Cameron",
+    "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+  },
+  {
+    "id": 1374686,
+    "title": "Light of the World",
+    "year": "2025",
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Drama",
+      "Music"
+    ],
+    "cast": [
+      "Ian Hanlin",
+      "Benjamin Jacobson",
+      "Vincent Tong"
+    ],
+    "director": "Tom Bancroft",
+    "poster": "https://image.tmdb.org/t/p/w500/3vUqo90FCIHXPiXnQJEeqzg5EDV.jpg"
+  },
+  {
+    "id": 354912,
+    "title": "Coco",
+    "year": "2017",
+    "genres": [
+      "Family",
+      "Animation",
+      "Music",
+      "Adventure"
+    ],
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt"
+    ],
+    "director": "Lee Unkrich",
+    "poster": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
+  },
+  {
+    "id": 1009640,
+    "title": "Valiant One",
+    "year": "2025",
+    "genres": [
+      "War",
+      "Thriller",
+      "Action"
+    ],
+    "cast": [
+      "Chase Stokes",
+      "Lana Condor",
+      "Desmin Borges"
+    ],
+    "director": "Steve Barnett",
+    "poster": "https://image.tmdb.org/t/p/w500/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg"
+  },
+  {
+    "id": 1029575,
+    "title": "The Family Plan",
+    "year": "2023",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "cast": [
+      "Mark Wahlberg",
+      "Michelle Monaghan",
+      "Maggie Q"
+    ],
+    "director": "Simon Cellan Jones",
+    "poster": "https://image.tmdb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg"
+  },
+  {
+    "id": 50897,
+    "title": "Duck Soup",
+    "year": "1927",
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Madeline Hurlock"
+    ],
+    "director": "Fred Guiol",
+    "poster": "https://image.tmdb.org/t/p/w500/ln7zgsn2yOqlrOy1MbKVAYBWHbp.jpg"
+  },
+  {
+    "id": 286407,
+    "title": "Mission Blue",
+    "year": "2014",
+    "genres": [
+      "Documentary"
+    ],
+    "cast": [
+      "James Cameron",
+      "Michael deGruy",
+      "Sylvia Earle"
+    ],
+    "director": "Robert Nixon",
+    "poster": "https://image.tmdb.org/t/p/w500/34sR023uQt7gNMFWNIWRHaacrVc.jpg"
+  },
+  {
+    "id": 210577,
+    "title": "Gone Girl",
+    "year": "2014",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "cast": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris"
+    ],
+    "director": "David Fincher",
+    "poster": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg"
+  },
+  {
+    "id": 11824,
+    "title": "Teen Wolf",
+    "year": "1985",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "cast": [
+      "Michael J. Fox",
+      "James Hampton",
+      "Susan Ursitti"
+    ],
+    "director": "Rod Daniel",
+    "poster": "https://image.tmdb.org/t/p/w500/bv9rY9eoue2Hat6tcvrKVQ0ow8v.jpg"
+  },
+  {
+    "id": 297802,
+    "title": "Aquaman",
+    "year": "2018",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "cast": [
+      "Jason Momoa",
+      "Amber Heard",
+      "Willem Dafoe"
+    ],
+    "director": "James Wan",
+    "poster": "https://image.tmdb.org/t/p/w500/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg"
+  },
+  {
+    "id": 1053008,
+    "title": "Fight Another Day",
+    "year": "2024",
+    "genres": [
+      "Action"
+    ],
+    "cast": [
+      "Jim Belushi",
+      "Martin Kove",
+      "Eric Johnson"
+    ],
+    "director": "James Mark",
+    "poster": "https://image.tmdb.org/t/p/w500/fKnLt1xQV0RdpN6RViowEiD1dFW.jpg"
+  },
+  {
+    "id": 1061474,
+    "title": "Superman",
+    "year": "2025",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "cast": [
+      "David Corenswet",
+      "Rachel Brosnahan",
+      "Nicholas Hoult"
+    ],
+    "director": "James Gunn",
+    "poster": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg"
+  },
+  {
+    "id": 1138194,
+    "title": "Heretic",
+    "year": "2024",
     "genres": [
       "Horror",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg"
+    "cast": [
+      "Hugh Grant",
+      "Sophie Thatcher",
+      "Chloe East"
+    ],
+    "director": "Scott Beck",
+    "poster": "https://image.tmdb.org/t/p/w500/fr96XzlzsONrQrGfdLMiwtQjott.jpg"
   },
   {
-    "id": 2062,
-    "title": "Ratatouille",
+    "id": 94616,
+    "title": "Lilac Time",
+    "year": "1928",
+    "genres": [
+      "War",
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Colleen Moore",
+      "Gary Cooper",
+      "Eugenie Besserer"
+    ],
+    "director": "George Fitzmaurice",
+    "poster": "https://image.tmdb.org/t/p/w500/qGLLE66wi2zYPZFadPncBIXc4iB.jpg"
+  },
+  {
+    "id": 639609,
+    "title": "Holiday Rush",
+    "year": "2019",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "cast": [
+      "Sonequa Martin-Green",
+      "La La Anthony",
+      "Deon Cole"
+    ],
+    "director": "Leslie Small",
+    "poster": "https://image.tmdb.org/t/p/w500/daQuZ1tC16KmXw9SPpfVqlNxrJi.jpg"
+  },
+  {
+    "id": 1269021,
+    "title": "Wake",
+    "year": "2024",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Fivel Stewart",
+      "Jake Holley",
+      "Sarab Kamoo"
+    ],
+    "director": "Thom Arizmendi",
+    "poster": "https://image.tmdb.org/t/p/w500/nMcBXvnLqoTKXZnyEeYFOIBlwLX.jpg"
+  },
+  {
+    "id": 440,
+    "title": "Aliens vs Predator: Requiem",
     "year": "2007",
     "genres": [
-      "Animation",
-      "Comedy",
-      "Family",
-      "Fantasy"
+      "Action",
+      "Science Fiction",
+      "Thriller",
+      "Horror"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+    "cast": [
+      "David Paetkau",
+      "Sam Trammell",
+      "Steven Pasquale"
+    ],
+    "director": "Colin Strause",
+    "poster": "https://image.tmdb.org/t/p/w500/5iTwPDNtvK6ZZF607BHBbU3HO0B.jpg"
   },
   {
-    "id": 402431,
-    "title": "Wicked",
+    "id": 644090,
+    "title": "Love, Guaranteed",
+    "year": "2020",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "cast": [
+      "Rachael Leigh Cook",
+      "Damon Wayans Jr.",
+      "Heather Graham"
+    ],
+    "director": "Mark Steven Johnson",
+    "poster": "https://image.tmdb.org/t/p/w500/6K22JB6fZZLBuM0knfl8rs9Zoxg.jpg"
+  },
+  {
+    "id": 1124619,
+    "title": "Bride Hard",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "cast": [
+      "Rebel Wilson",
+      "Anna Camp",
+      "Anna Chlumsky"
+    ],
+    "director": "Simon West",
+    "poster": "https://image.tmdb.org/t/p/w500/pVli4kL16OFYPWvn5yTnZusX4l0.jpg"
+  },
+  {
+    "id": 873967,
+    "title": "The Devil’s Trap",
+    "year": "2024",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Bruce Dern",
+      "Sofia Nistratova",
+      "Nick Davi"
+    ],
+    "director": "Mike Mendez",
+    "poster": "https://image.tmdb.org/t/p/w500/deq8OGRj45eX1EFYQayG5T3Prar.jpg"
+  },
+  {
+    "id": 1229910,
+    "title": "Kryptic",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Drama"
+    ],
+    "cast": [
+      "Chloe Pirrie",
+      "Jeff Gladstone",
+      "Jason Deline"
+    ],
+    "director": "Kourtney Roy",
+    "poster": "https://image.tmdb.org/t/p/w500/tO4PLOx2Ey9PZunmwEAsGhc4Ah0.jpg"
+  },
+  {
+    "id": 843527,
+    "title": "The Idea of You",
+    "year": "2024",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "cast": [
+      "Anne Hathaway",
+      "Nicholas Galitzine",
+      "Ella Rubin"
+    ],
+    "director": "Michael Showalter",
+    "poster": "https://image.tmdb.org/t/p/w500/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg"
+  },
+  {
+    "id": 19554,
+    "title": "Elvis & Anabelle",
+    "year": "2007",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Blake Lively",
+      "Max Minghella",
+      "Joe Mantegna"
+    ],
+    "director": "Will Geiger",
+    "poster": "https://image.tmdb.org/t/p/w500/eYucJWWJiTQVDwwbjhHIu1aDp5C.jpg"
+  },
+  {
+    "id": 1038392,
+    "title": "The Conjuring: Last Rites",
+    "year": "2025",
+    "genres": [
+      "Horror"
+    ],
+    "cast": [
+      "Vera Farmiga",
+      "Patrick Wilson",
+      "Mia Tomlinson"
+    ],
+    "director": "Michael Chaves",
+    "poster": "https://image.tmdb.org/t/p/w500/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg"
+  },
+  {
+    "id": 98,
+    "title": "Gladiator",
+    "year": "2000",
+    "genres": [
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "director": "Ridley Scott",
+    "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+  },
+  {
+    "id": 71763,
+    "title": "Stealing Candy",
+    "year": "2003",
+    "genres": [
+      "Thriller"
+    ],
+    "cast": [
+      "Jenya Lano",
+      "Coolio",
+      "Alex McArthur"
+    ],
+    "director": "Mark L. Lester",
+    "poster": "https://image.tmdb.org/t/p/w500/kxSVajcmLUd8yNPrt1YjXI0cpJ1.jpg"
+  },
+  {
+    "id": 933260,
+    "title": "The Substance",
     "year": "2024",
     "genres": [
       "Drama",
-      "Romance",
-      "Fantasy"
+      "Horror",
+      "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+    "cast": [
+      "Demi Moore",
+      "Margaret Qualley",
+      "Dennis Quaid"
+    ],
+    "director": "Coralie Fargeat",
+    "poster": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
   },
   {
-    "id": 1235746,
-    "title": "Dead of Winter",
+    "id": 1078605,
+    "title": "Weapons",
     "year": "2025",
     "genres": [
-      "Thriller"
+      "Horror",
+      "Mystery"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg"
+    "cast": [
+      "Julia Garner",
+      "Josh Brolin",
+      "Alden Ehrenreich"
+    ],
+    "director": "Zach Cregger",
+    "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg"
   },
   {
-    "id": 253,
-    "title": "Live and Let Die",
-    "year": "1973",
+    "id": 870028,
+    "title": "The Accountant²",
+    "year": "2025",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Thriller"
+    ],
+    "cast": [
+      "Ben Affleck",
+      "Jon Bernthal",
+      "Cynthia Addai-Robinson"
+    ],
+    "director": "Gavin O'Connor",
+    "poster": "https://image.tmdb.org/t/p/w500/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg"
+  },
+  {
+    "id": 1195631,
+    "title": "William Tell",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "cast": [
+      "Claes Bang",
+      "Connor Swindells",
+      "Golshifteh Farahani"
+    ],
+    "director": "Nick Hamm",
+    "poster": "https://image.tmdb.org/t/p/w500/8SdaetXSTPyQVDb5pTEPRLBSx15.jpg"
+  },
+  {
+    "id": 39254,
+    "title": "Real Steel",
+    "year": "2011",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Drama"
+    ],
+    "cast": [
+      "Hugh Jackman",
+      "Dakota Goyo",
+      "Evangeline Lilly"
+    ],
+    "director": "Shawn Levy",
+    "poster": "https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg"
+  },
+  {
+    "id": 182560,
+    "title": "Dark Places",
+    "year": "2015",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "cast": [
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Chloë Grace Moretz"
+    ],
+    "director": "Gilles Paquet-Brenner",
+    "poster": "https://image.tmdb.org/t/p/w500/acJXtT4ZX7nWIhOaCfSAGBxFw71.jpg"
+  },
+  {
+    "id": 1368166,
+    "title": "The Housemaid",
+    "year": "2025",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "cast": [
+      "Sydney Sweeney",
+      "Amanda Seyfried",
+      "Brandon Sklenar"
+    ],
+    "director": "Paul Feig",
+    "poster": "https://image.tmdb.org/t/p/w500/pGpqPJPcqG0dJlRkoliLk7LBIQN.jpg"
+  },
+  {
+    "id": 673,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": "2004",
     "genres": [
       "Adventure",
-      "Action",
-      "Thriller"
+      "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/39qkrjqMZs6utwNmihVImC3ghas.jpg"
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "director": "Alfonso Cuarón",
+    "poster": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg"
   },
   {
-    "id": 694,
-    "title": "The Shining",
-    "year": "1980",
+    "id": 8871,
+    "title": "How the Grinch Stole Christmas",
+    "year": "2000",
+    "genres": [
+      "Family",
+      "Comedy"
+    ],
+    "cast": [
+      "Jim Carrey",
+      "Taylor Momsen",
+      "Jeffrey Tambor"
+    ],
+    "director": "Ron Howard",
+    "poster": "https://image.tmdb.org/t/p/w500/1WZbbPApEivA421gCOluuzMMKCk.jpg"
+  },
+  {
+    "id": 1117857,
+    "title": "In Your Dreams",
+    "year": "2025",
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "cast": [
+      "Jolie Hoang-Rappaport",
+      "Elias Janssen",
+      "Simu Liu"
+    ],
+    "director": "Alex Woo",
+    "poster": "https://image.tmdb.org/t/p/w500/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg"
+  },
+  {
+    "id": 1081208,
+    "title": "The Dogs",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "cast": [
+      "Donovan Colan",
+      "Kathleen Munroe",
+      "Kristen Holden-Ried"
+    ],
+    "director": "Valerie Buhagiar",
+    "poster": "https://image.tmdb.org/t/p/w500/kz6oqKyKCjmR8V1JdnF9brp9DSn.jpg"
+  },
+  {
+    "id": 967941,
+    "title": "Wicked: For Good",
+    "year": "2025",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Adventure"
+    ],
+    "cast": [
+      "Cynthia Erivo",
+      "Ariana Grande",
+      "Jeff Goldblum"
+    ],
+    "director": "Jon M. Chu",
+    "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg"
+  },
+  {
+    "id": 1049942,
+    "title": "Bambi: The Reckoning",
+    "year": "2025",
     "genres": [
       "Horror",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/xazWoLealQwEgqZ89MLZklLZD3k.jpg"
+    "cast": [
+      "Roxanne McKee",
+      "Tom Mulheron",
+      "Adrian Relph"
+    ],
+    "director": "Dan Allen",
+    "poster": "https://image.tmdb.org/t/p/w500/8oBbWxWDJrrDtNkmd0OzZpPFFUR.jpg"
+  },
+  {
+    "id": 957119,
+    "title": "Sidelined: The QB and Me",
+    "year": "2025",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "cast": [
+      "Siena Agudong",
+      "Noah Beck",
+      "Drew Ray Tanner"
+    ],
+    "director": "Justin Wu",
+    "poster": "https://image.tmdb.org/t/p/w500/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg"
+  },
+  {
+    "id": 81467,
+    "title": "Laura's Toys",
+    "year": "1975",
+    "genres": [
+      "Drama"
+    ],
+    "cast": [
+      "Mary Mendum",
+      "Eric Edwards",
+      "Cathja Graff"
+    ],
+    "director": "Joseph W. Sarno",
+    "poster": "https://image.tmdb.org/t/p/w500/rqzupBGrChmHG5Wl6wy5vI0V3Vz.jpg"
+  },
+  {
+    "id": 453395,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "year": "2022",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "cast": [
+      "Benedict Cumberbatch",
+      "Xochitl Gomez",
+      "Elizabeth Olsen"
+    ],
+    "director": "Sam Raimi",
+    "poster": "https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg"
+  },
+  {
+    "id": 181812,
+    "title": "Star Wars: The Rise of Skywalker",
+    "year": "2019",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Carrie Fisher",
+      "Mark Hamill",
+      "Daisy Ridley"
+    ],
+    "director": "J.J. Abrams",
+    "poster": "https://image.tmdb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg"
+  },
+  {
+    "id": 120844,
+    "title": "Strangers May Kiss",
+    "year": "1931",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Norma Shearer",
+      "Robert Montgomery",
+      "Neil Hamilton"
+    ],
+    "director": "George Fitzmaurice",
+    "poster": "https://image.tmdb.org/t/p/w500/yQzbsb5ldVq97feSIncfy49vpYk.jpg"
   },
   {
     "id": 558449,
@@ -432,18 +1436,150 @@
       "Adventure",
       "Drama"
     ],
+    "cast": [
+      "Paul Mescal",
+      "Denzel Washington",
+      "Pedro Pascal"
+    ],
+    "director": "Ridley Scott",
     "poster": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg"
   },
   {
-    "id": 1035259,
-    "title": "The Naked Gun",
+    "id": 8587,
+    "title": "The Lion King",
+    "year": "1994",
+    "genres": [
+      "Family",
+      "Animation",
+      "Drama",
+      "Adventure"
+    ],
+    "cast": [
+      "Matthew Broderick",
+      "Moira Kelly",
+      "Nathan Lane"
+    ],
+    "director": "Roger Allers",
+    "poster": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+  },
+  {
+    "id": 1214140,
+    "title": "Monster Island",
     "year": "2025",
     "genres": [
-      "Comedy",
+      "Horror",
+      "Fantasy",
       "Action",
-      "Crime"
+      "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/hF4pG0CMDzC4GCiiUR9iNrzoW2p.jpg"
+    "cast": [
+      "Dean Fujioka",
+      "Callum Woodhouse",
+      "Alan Maxson"
+    ],
+    "director": "Mike Wiluan",
+    "poster": "https://image.tmdb.org/t/p/w500/x1JOs4xWNr1QYjDAXHxWw1NJ7Sq.jpg"
+  },
+  {
+    "id": 760329,
+    "title": "The Smashing Machine",
+    "year": "2025",
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "cast": [
+      "Dwayne Johnson",
+      "Emily Blunt",
+      "Ryan Bader"
+    ],
+    "director": "Benny Safdie",
+    "poster": "https://image.tmdb.org/t/p/w500/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg"
+  },
+  {
+    "id": 1086260,
+    "title": "The Astronaut",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "cast": [
+      "Kate Mara",
+      "Laurence Fishburne",
+      "Gabriel Luna"
+    ],
+    "director": "Jess Varley",
+    "poster": "https://image.tmdb.org/t/p/w500/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg"
+  },
+  {
+    "id": 1328803,
+    "title": "Prisoner of War",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "War",
+      "Thriller",
+      "History"
+    ],
+    "cast": [
+      "Scott Adkins",
+      "Peter Shinkoda",
+      "Michael Copon"
+    ],
+    "director": "Louis Mandylor",
+    "poster": "https://image.tmdb.org/t/p/w500/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg"
+  },
+  {
+    "id": 421313,
+    "title": "Eliminators",
+    "year": "2017",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Scott Adkins",
+      "Stuart Bennett",
+      "Daniel Caltagirone"
+    ],
+    "director": "James Nunn",
+    "poster": "https://image.tmdb.org/t/p/w500/pUB91wOMQrmkforP7ntIMy2zkdn.jpg"
+  },
+  {
+    "id": 49950,
+    "title": "The Roommate",
+    "year": "2011",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Horror"
+    ],
+    "cast": [
+      "Leighton Meester",
+      "Minka Kelly",
+      "Cam Gigandet"
+    ],
+    "director": "Christian E. Christiansen",
+    "poster": "https://image.tmdb.org/t/p/w500/kQZcOn5rDuwpbQTluC4Wm0amYmR.jpg"
+  },
+  {
+    "id": 58,
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": "2006",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley"
+    ],
+    "director": "Gore Verbinski",
+    "poster": "https://image.tmdb.org/t/p/w500/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg"
   },
   {
     "id": 870360,
@@ -456,694 +1592,146 @@
       "Animation",
       "Science Fiction"
     ],
+    "cast": [
+      "Eric Bauza",
+      "Candi Milo",
+      "Peter MacNicol"
+    ],
+    "director": "Peter Browngardt",
     "poster": "https://image.tmdb.org/t/p/w500/s2lB1kaYCdGSnZX5meQCiOR6HfX.jpg"
   },
   {
-    "id": 180894,
-    "title": "Ninja: Shadow of a Tear",
-    "year": "2013",
+    "id": 13723,
+    "title": "Missionary Man",
+    "year": "2007",
     "genres": [
       "Action",
-      "Crime",
+      "Adventure",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/f4i1wzuyFXv6NHREAy4fPPGSH7E.jpg"
-  },
-  {
-    "id": 1081196,
-    "title": "Four Mothers",
-    "year": "2025",
-    "genres": [
-      "Comedy",
-      "Drama"
+    "cast": [
+      "Dolph Lundgren",
+      "Sophia Ali",
+      "Chelsea Ricketts"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/bvpXFlOuSYN0AOo9KAd0XOEs8mX.jpg"
+    "director": "Dolph Lundgren",
+    "poster": "https://image.tmdb.org/t/p/w500/73uGeN1RJaKycOo5QHaRXhpcXeO.jpg"
   },
   {
-    "id": 533533,
-    "title": "TRON: Ares",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Adventure",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg"
-  },
-  {
-    "id": 854,
-    "title": "The Mask",
+    "id": 680,
+    "title": "Pulp Fiction",
     "year": "1994",
     "genres": [
-      "Romance",
-      "Comedy",
+      "Thriller",
       "Crime",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg"
-  },
-  {
-    "id": 845781,
-    "title": "Red One",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg"
-  },
-  {
-    "id": 438631,
-    "title": "Dune",
-    "year": "2021",
-    "genres": [
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
-  },
-  {
-    "id": 30484,
-    "title": "Warrior Queen",
-    "year": "1987",
-    "genres": [
-      "Action",
-      "History",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/P0j17mJRpSIZOglbtPkakHSD1S.jpg"
-  },
-  {
-    "id": 986056,
-    "title": "Thunderbolts*",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
-  },
-  {
-    "id": 1051486,
-    "title": "Stockholm Bloodbath",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "History",
-      "Drama",
-      "Adventure",
-      "War"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/tzXOB8nxO70SfSbOhrYcY94x6MI.jpg"
-  },
-  {
-    "id": 10092,
-    "title": "Cry_Wolf",
-    "year": "2005",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7OQ2McKYgnyfIHHkm0jBxQnu7ou.jpg"
-  },
-  {
-    "id": 1202479,
-    "title": "Opus",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg"
-  },
-  {
-    "id": 1352755,
-    "title": "Maintenance Required",
-    "year": "2025",
-    "genres": [
-      "Romance",
       "Comedy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg"
-  },
-  {
-    "id": 10545,
-    "title": "The Hunchback of Notre Dame",
-    "year": "1996",
-    "genres": [
-      "Drama",
-      "Animation",
-      "Family"
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/hImMgT9B27evYSRmfztqdDtX6qi.jpg"
+    "director": "Quentin Tarantino",
+    "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
   },
   {
-    "id": 238,
-    "title": "The Godfather",
-    "year": "1972",
+    "id": 348,
+    "title": "Alien",
+    "year": "1979",
     "genres": [
-      "Drama",
-      "Crime"
+      "Horror",
+      "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+    "cast": [
+      "Tom Skerritt",
+      "Sigourney Weaver",
+      "Veronica Cartwright"
+    ],
+    "director": "Ridley Scott",
+    "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
   },
   {
-    "id": 338953,
-    "title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "id": 573435,
+    "title": "Bad Boys: Ride or Die",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Thriller",
+      "Adventure"
+    ],
+    "cast": [
+      "Will Smith",
+      "Martin Lawrence",
+      "Vanessa Hudgens"
+    ],
+    "director": "Adil El Arbi",
+    "poster": "https://image.tmdb.org/t/p/w500/oGythE98MYleE6mZlGs5oBGkux1.jpg"
+  },
+  {
+    "id": 1362315,
+    "title": "The Hand That Rocks the Cradle",
+    "year": "2025",
+    "genres": [
+      "Thriller"
+    ],
+    "cast": [
+      "Maika Monroe",
+      "Mary Elizabeth Winstead",
+      "Raúl Castillo"
+    ],
+    "director": "Michelle Garza Cervera",
+    "poster": "https://image.tmdb.org/t/p/w500/6Z4rtNUA51AegNjhJ2dKFcfsHE2.jpg"
+  },
+  {
+    "id": 766507,
+    "title": "Prey",
     "year": "2022",
     "genres": [
-      "Fantasy",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg"
-  },
-  {
-    "id": 1049942,
-    "title": "Bambi: The Reckoning",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cy76B7VCiIvqUibGLTgdYlK8kx8.jpg"
-  },
-  {
-    "id": 1184918,
-    "title": "The Wild Robot",
-    "year": "2024",
-    "genres": [
-      "Animation",
-      "Science Fiction",
-      "Family",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
-  },
-  {
-    "id": 1280282,
-    "title": "Gabby's Dollhouse: The Movie",
-    "year": "2025",
-    "genres": [
-      "Family",
-      "Comedy",
-      "Adventure",
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg"
-  },
-  {
-    "id": 862,
-    "title": "Toy Story",
-    "year": "1995",
-    "genres": [
-      "Family",
-      "Comedy",
-      "Animation",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
-  },
-  {
-    "id": 299536,
-    "title": "Avengers: Infinity War",
-    "year": "2018",
-    "genres": [
-      "Adventure",
+      "Thriller",
       "Action",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
-  },
-  {
-    "id": 1119878,
-    "title": "Ice Road: Vengeance",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Drama"
+    "cast": [
+      "Amber Midthunder",
+      "Dakota Beavers",
+      "Michelle Thrush"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg"
+    "director": "Dan Trachtenberg",
+    "poster": "https://image.tmdb.org/t/p/w500/2FKjLRt7oK1bRRIrxgWmthbBdFh.jpg"
   },
   {
-    "id": 1062722,
-    "title": "Frankenstein",
-    "year": "2025",
-    "genres": [
-      "Drama",
-      "Horror",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/5fqmZYw3o22VoJpXx9bjQuc7ZPV.jpg"
-  },
-  {
-    "id": 700,
-    "title": "Octopussy",
-    "year": "1983",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/yoosZitM9igSk3Sd0sBXIhKlAh1.jpg"
-  },
-  {
-    "id": 767,
-    "title": "Harry Potter and the Half-Blood Prince",
-    "year": "2009",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg"
-  },
-  {
-    "id": 1064213,
-    "title": "Anora",
+    "id": 1084222,
+    "title": "Operation Blood Hunt",
     "year": "2024",
     "genres": [
-      "Drama",
-      "Comedy",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
-  },
-  {
-    "id": 1549292,
-    "title": "LEGO Frozen: Operation Puffins",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cmW3OY1W1wwjpYEWZu1jJlOcZ56.jpg"
-  },
-  {
-    "id": 411,
-    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-    "year": "2005",
-    "genres": [
-      "Adventure",
-      "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg"
-  },
-  {
-    "id": 1233413,
-    "title": "Sinners",
-    "year": "2025",
-    "genres": [
-      "Horror",
       "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg"
-  },
-  {
-    "id": 14160,
-    "title": "Up",
-    "year": "2009",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
-  },
-  {
-    "id": 1078605,
-    "title": "Weapons",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg"
-  },
-  {
-    "id": 1086260,
-    "title": "The Astronaut",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg"
-  },
-  {
-    "id": 738652,
-    "title": "Copshop",
-    "year": "2021",
-    "genres": [
-      "Thriller",
-      "Crime",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9LEWWWEhS7SZXFDuH1YYhs0VFct.jpg"
-  },
-  {
-    "id": 273477,
-    "title": "Scouts Guide to the Zombie Apocalypse",
-    "year": "2015",
-    "genres": [
-      "Comedy",
+      "Adventure",
       "Horror"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/lUKvvSnjFlazrdh6wyHxHrdMknD.jpg"
-  },
-  {
-    "id": 121,
-    "title": "The Lord of the Rings: The Two Towers",
-    "year": "2002",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Action"
+    "cast": [
+      "Jonathan Rhys Meyers",
+      "Louis Mandylor",
+      "Peter Dobson"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
+    "director": "Louis Mandylor",
+    "poster": "https://image.tmdb.org/t/p/w500/wYf4Eq3c4iOa856tEwh3GHruHZW.jpg"
   },
   {
-    "id": 1241436,
-    "title": "Warfare",
-    "year": "2025",
-    "genres": [
-      "War",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg"
-  },
-  {
-    "id": 1290159,
-    "title": "A House of Dynamite",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "War"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg"
-  },
-  {
-    "id": 934201,
-    "title": "The Prank",
-    "year": "2024",
-    "genres": [
-      "Comedy",
-      "Thriller",
-      "Crime",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/kLDglJRVvImOzZ3VdtxrcOnqEF9.jpg"
-  },
-  {
-    "id": 297608,
-    "title": "The Taking of Deborah Logan",
-    "year": "2014",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg"
-  },
-  {
-    "id": 1242898,
-    "title": "Predator: Badlands",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/zxhavGoVhMW08rtOyJ0W5GmYtGG.jpg"
-  },
-  {
-    "id": 338969,
-    "title": "The Toxic Avenger Unrated",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/sIonGSpGNtH72OzbJllPOEMNjVU.jpg"
-  },
-  {
-    "id": 1009640,
-    "title": "Valiant One",
-    "year": "2025",
-    "genres": [
-      "War",
-      "Thriller",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg"
-  },
-  {
-    "id": 843527,
-    "title": "The Idea of You",
-    "year": "2024",
-    "genres": [
-      "Romance",
-      "Drama",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg"
-  },
-  {
-    "id": 668,
-    "title": "On Her Majesty's Secret Service",
-    "year": "1969",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg"
-  },
-  {
-    "id": 1330421,
-    "title": "Bone Lake",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/sGo5ti82LlydAZrvcsaj31iPuEI.jpg"
-  },
-  {
-    "id": 1087891,
-    "title": "The Amateur",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg"
-  },
-  {
-    "id": 425274,
-    "title": "Now You See Me: Now You Don't",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Crime",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
-  },
-  {
-    "id": 673,
-    "title": "Harry Potter and the Prisoner of Azkaban",
-    "year": "2004",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg"
-  },
-  {
-    "id": 162,
-    "title": "Edward Scissorhands",
-    "year": "1990",
-    "genres": [
-      "Fantasy",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg"
-  },
-  {
-    "id": 1022787,
-    "title": "Elio",
-    "year": "2025",
-    "genres": [
-      "Family",
-      "Comedy",
-      "Adventure",
-      "Animation",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7z8jDiTZZco9moIKpTUImFtTy7o.jpg"
-  },
-  {
-    "id": 81467,
-    "title": "Laura's Toys",
-    "year": "1975",
+    "id": 50014,
+    "title": "The Help",
+    "year": "2011",
     "genres": [
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/rqzupBGrChmHG5Wl6wy5vI0V3Vz.jpg"
-  },
-  {
-    "id": 1151031,
-    "title": "Bring Her Back",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Drama"
+    "cast": [
+      "Emma Stone",
+      "Viola Davis",
+      "Bryce Dallas Howard"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg"
-  },
-  {
-    "id": 210577,
-    "title": "Gone Girl",
-    "year": "2014",
-    "genres": [
-      "Mystery",
-      "Thriller",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg"
-  },
-  {
-    "id": 1422096,
-    "title": "Good Boy",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg"
-  },
-  {
-    "id": 99861,
-    "title": "Avengers: Age of Ultron",
-    "year": "2015",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"
-  },
-  {
-    "id": 8467,
-    "title": "Dumb and Dumber",
-    "year": "1994",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg"
-  },
-  {
-    "id": 1267905,
-    "title": "The Roses",
-    "year": "2025",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg"
-  },
-  {
-    "id": 937941,
-    "title": "Shelby Oaks",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/i3omY4P6QUzFQlEeclWY92RuXCH.jpg"
-  },
-  {
-    "id": 196259,
-    "title": "Beyond the Curtain",
-    "year": "1960",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/o8Z0NGFxSmvXKuXYAQbvikC51M.jpg"
-  },
-  {
-    "id": 967941,
-    "title": "Wicked: For Good",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Fantasy",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg"
-  },
-  {
-    "id": 1151334,
-    "title": "Eenie Meanie",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Action",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/12Va3oO3oYUdOd75zM57Nx1976a.jpg"
-  },
-  {
-    "id": 950396,
-    "title": "The Gorge",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg"
-  },
-  {
-    "id": 1227003,
-    "title": "Shadow of God",
-    "year": "2025",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vi6LF8rTdU4DeYrXTtUBqG9gFnX.jpg"
-  },
-  {
-    "id": 155,
-    "title": "The Dark Knight",
-    "year": "2008",
-    "genres": [
-      "Drama",
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
-  },
-  {
-    "id": 1124620,
-    "title": "The Monkey",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg"
+    "director": "Tate Taylor",
+    "poster": "https://image.tmdb.org/t/p/w500/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg"
   },
   {
     "id": 106646,
@@ -1154,170 +1742,242 @@
       "Drama",
       "Comedy"
     ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie"
+    ],
+    "director": "Martin Scorsese",
     "poster": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
   },
   {
-    "id": 14836,
-    "title": "Coraline",
-    "year": "2009",
+    "id": 130953,
+    "title": "Kath & Kimderella",
+    "year": "2012",
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Jane Turner",
+      "Gina Riley",
+      "Glenn Robbins"
+    ],
+    "director": "Ted Emery",
+    "poster": "https://image.tmdb.org/t/p/w500/64aAV5Iit9LTsivV37f6nbTCwrW.jpg"
+  },
+  {
+    "id": 30471,
+    "title": "Spiderbabe",
+    "year": "2003",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Erin Brown",
+      "Julian Wells",
+      "Darian Caine"
+    ],
+    "director": "Johnny Crash",
+    "poster": "https://image.tmdb.org/t/p/w500/mh7oL7A43NvNy1o5O2CouyoQTKl.jpg"
+  },
+  {
+    "id": 218,
+    "title": "The Terminator",
+    "year": "1984",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Michael Biehn",
+      "Linda Hamilton"
+    ],
+    "director": "James Cameron",
+    "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg"
+  },
+  {
+    "id": 512200,
+    "title": "Jumanji: The Next Level",
+    "year": "2019",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "cast": [
+      "Dwayne Johnson",
+      "Kevin Hart",
+      "Jack Black"
+    ],
+    "director": "Jake Kasdan",
+    "poster": "https://image.tmdb.org/t/p/w500/4kh9dxAiClS2GMUpkRyzGwpNWWX.jpg"
+  },
+  {
+    "id": 264760,
+    "title": "Deadly Revenge",
+    "year": "2013",
+    "genres": [
+      "Thriller",
+      "TV Movie"
+    ],
+    "cast": [
+      "Alicia Ziegler",
+      "Mark Hapka",
+      "Donna Mills"
+    ],
+    "director": "Michael Feifer",
+    "poster": "https://image.tmdb.org/t/p/w500/x8AXM8BsfCW9rUwhMJkOXNbdON8.jpg"
+  },
+  {
+    "id": 845781,
+    "title": "Red One",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "cast": [
+      "Dwayne Johnson",
+      "Chris Evans",
+      "Lucy Liu"
+    ],
+    "director": "Jake Kasdan",
+    "poster": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg"
+  },
+  {
+    "id": 550,
+    "title": "Fight Club",
+    "year": "1999",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Helena Bonham Carter"
+    ],
+    "director": "David Fincher",
+    "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+  },
+  {
+    "id": 549509,
+    "title": "The Brutalist",
+    "year": "2024",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "cast": [
+      "Adrien Brody",
+      "Felicity Jones",
+      "Guy Pearce"
+    ],
+    "director": "Brady Corbet",
+    "poster": "https://image.tmdb.org/t/p/w500/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+  },
+  {
+    "id": 205587,
+    "title": "The Judge",
+    "year": "2014",
+    "genres": [
+      "Drama"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Robert Duvall",
+      "Vera Farmiga"
+    ],
+    "director": "David Dobkin",
+    "poster": "https://image.tmdb.org/t/p/w500/3K93GWotLXe4FqpErri0xkpLaD5.jpg"
+  },
+  {
+    "id": 1064213,
+    "title": "Anora",
+    "year": "2024",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "cast": [
+      "Mikey Madison",
+      "Mark Eydelshteyn",
+      "Yura Borisov"
+    ],
+    "director": "Sean Baker",
+    "poster": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+  },
+  {
+    "id": 286599,
+    "title": "Casanova Variations",
+    "year": "2014",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "cast": [
+      "John Malkovich",
+      "Fanny Ardant",
+      "Veronica Ferres"
+    ],
+    "director": "Michael Sturminger",
+    "poster": "https://image.tmdb.org/t/p/w500/1AFrasIIMblDKwNkXxDZ5jMWEsa.jpg"
+  },
+  {
+    "id": 557,
+    "title": "Spider-Man",
+    "year": "2002",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Tobey Maguire",
+      "Willem Dafoe",
+      "Kirsten Dunst"
+    ],
+    "director": "Sam Raimi",
+    "poster": "https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg"
+  },
+  {
+    "id": 1549292,
+    "title": "LEGO Frozen: Operation Puffins",
+    "year": "2025",
     "genres": [
       "Animation",
       "Family",
       "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg"
-  },
-  {
-    "id": 8845,
-    "title": "Under Siege",
-    "year": "1992",
-    "genres": [
-      "Action",
-      "Thriller"
+    "cast": [
+      "Abby Trott",
+      "Danielle Bisutti",
+      "Alan Tudyk"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/myHxm9p8fhEsXyaLO6DawYJKolg.jpg"
+    "director": "Alexandru Nagy",
+    "poster": "https://image.tmdb.org/t/p/w500/cmW3OY1W1wwjpYEWZu1jJlOcZ56.jpg"
   },
   {
-    "id": 11360,
-    "title": "Dumbo",
-    "year": "1941",
-    "genres": [
-      "Animation",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg"
-  },
-  {
-    "id": 3933,
-    "title": "Corpse Bride",
-    "year": "2005",
-    "genres": [
-      "Romance",
-      "Fantasy",
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/isb2Qow76GpqYmsSyfdMfsYAjts.jpg"
-  },
-  {
-    "id": 1511789,
-    "title": "Captain Hook - The Cursed Tides",
+    "id": 1253000,
+    "title": "Deathstalker",
     "year": "2025",
     "genres": [
-      "Adventure",
       "Action",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg"
-  },
-  {
-    "id": 9806,
-    "title": "The Incredibles",
-    "year": "2004",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Animation",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
-  },
-  {
-    "id": 674,
-    "title": "Harry Potter and the Goblet of Fire",
-    "year": "2005",
-    "genres": [
       "Adventure",
       "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg"
-  },
-  {
-    "id": 385687,
-    "title": "Fast X",
-    "year": "2023",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller",
-      "Adventure",
-      "Mystery"
+    "cast": [
+      "Daniel Bernhardt",
+      "Christina Orjalo",
+      "Paul Lazenby"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg"
-  },
-  {
-    "id": 870028,
-    "title": "The Accountant²",
-    "year": "2025",
-    "genres": [
-      "Mystery",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg"
-  },
-  {
-    "id": 4232,
-    "title": "Scream",
-    "year": "1996",
-    "genres": [
-      "Crime",
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg"
-  },
-  {
-    "id": 749170,
-    "title": "Heads of State",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg"
-  },
-  {
-    "id": 658,
-    "title": "Goldfinger",
-    "year": "1964",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4CD9eftOlBcutoXak5C7L24X1Y2.jpg"
-  },
-  {
-    "id": 240,
-    "title": "The Godfather Part II",
-    "year": "1974",
-    "genres": [
-      "Drama",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg"
-  },
-  {
-    "id": 790462,
-    "title": "I.S.S.",
-    "year": "2024",
-    "genres": [
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg"
-  },
-  {
-    "id": 1011477,
-    "title": "Karate Kid: Legends",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/AEgggzRr1vZCLY86MAp93li43z.jpg"
+    "director": "Steven Kostanski",
+    "poster": "https://image.tmdb.org/t/p/w500/AiZKIqqbpbYIZxo1Rt4CgPzHUGv.jpg"
   },
   {
     "id": 569094,
@@ -1329,59 +1989,2740 @@
       "Adventure",
       "Science Fiction"
     ],
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry"
+    ],
+    "director": "Justin K. Thompson",
     "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
   },
   {
-    "id": 1061474,
-    "title": "Superman",
+    "id": 106,
+    "title": "Predator",
+    "year": "1987",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Carl Weathers",
+      "Kevin Peter Hall"
+    ],
+    "director": "John McTiernan",
+    "poster": "https://image.tmdb.org/t/p/w500/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg"
+  },
+  {
+    "id": 445869,
+    "title": "Bloody Ballet",
+    "year": "2018",
+    "genres": [
+      "Horror"
+    ],
+    "cast": [
+      "Kendra Carelli",
+      "Caroline Williams",
+      "Debbie Rochon"
+    ],
+    "director": "Brett Mullen",
+    "poster": "https://image.tmdb.org/t/p/w500/x6zHyJzwRp8FRMt1WQM4AANNIpw.jpg"
+  },
+  {
+    "id": 64690,
+    "title": "Drive",
+    "year": "2011",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "cast": [
+      "Ryan Gosling",
+      "Carey Mulligan",
+      "Bryan Cranston"
+    ],
+    "director": "Nicolas Winding Refn",
+    "poster": "https://image.tmdb.org/t/p/w500/602vevIURmpDfzbnv5Ubi6wIkQm.jpg"
+  },
+  {
+    "id": 14452,
+    "title": "Kill Switch",
+    "year": "2008",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime",
+      "Adventure"
+    ],
+    "cast": [
+      "Steven Seagal",
+      "Holly Dignard",
+      "Chris Thomas King"
+    ],
+    "director": "Jeff F. King",
+    "poster": "https://image.tmdb.org/t/p/w500/rlM1reI1eqbB4T5goQKijXurAJu.jpg"
+  },
+  {
+    "id": 122917,
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "year": "2014",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "cast": [
+      "Ian McKellen",
+      "Martin Freeman",
+      "Richard Armitage"
+    ],
+    "director": "Peter Jackson",
+    "poster": "https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg"
+  },
+  {
+    "id": 370729,
+    "title": "Yellow Day",
+    "year": "2015",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Family"
+    ],
+    "cast": [
+      "Rose Abdoo",
+      "Lindsey Shaw",
+      "Ashley Boettcher"
+    ],
+    "director": "Carl Lauten",
+    "poster": "https://image.tmdb.org/t/p/w500/agHOJLkuWKXPio3cWOJMG4hR2eN.jpg"
+  },
+  {
+    "id": 500321,
+    "title": "Dead Men",
+    "year": "2018",
+    "genres": [
+      "Western",
+      "Drama",
+      "Action"
+    ],
+    "cast": [
+      "Ric Maddox",
+      "Aaron Marciniak",
+      "Sasha Higgins"
+    ],
+    "director": "Royston Innes",
+    "poster": "https://image.tmdb.org/t/p/w500/u1lXnVFMAX1XBfINN9BFVAXK5V9.jpg"
+  },
+  {
+    "id": 575405,
+    "title": "Deadly Switch",
+    "year": "2019",
+    "genres": [
+      "Thriller",
+      "TV Movie",
+      "Drama"
+    ],
+    "cast": [
+      "Hayley McLaughlin",
+      "Danika Yarosh",
+      "Dylan Walsh"
+    ],
+    "director": "Svetlana Cvetko",
+    "poster": "https://image.tmdb.org/t/p/w500/fbXSwl0bJ7Wh5FLUUJWDnlJqH3m.jpg"
+  },
+  {
+    "id": 23168,
+    "title": "The Town",
+    "year": "2010",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Ben Affleck",
+      "Jeremy Renner",
+      "Rebecca Hall"
+    ],
+    "director": "Ben Affleck",
+    "poster": "https://image.tmdb.org/t/p/w500/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg"
+  },
+  {
+    "id": 65036,
+    "title": "Deadly Honeymoon",
+    "year": "2010",
+    "genres": [
+      "Crime",
+      "TV Movie",
+      "Mystery"
+    ],
+    "cast": [
+      "Summer Glau",
+      "Chris Carmack",
+      "Zoe McLellan"
+    ],
+    "director": "Paul Shapiro",
+    "poster": "https://image.tmdb.org/t/p/w500/95jnsboZ0kKFC09q60uz7SIo7Df.jpg"
+  },
+  {
+    "id": 1310568,
+    "title": "Murder at the Embassy",
     "year": "2025",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Action"
+    ],
+    "cast": [
+      "Mischa Barton",
+      "Richard Dillane",
+      "Mido Hamada"
+    ],
+    "director": "Stephen Shimek",
+    "poster": "https://image.tmdb.org/t/p/w500/3DBmBItPdy0A2ol59jgHhS54Lua.jpg"
+  },
+  {
+    "id": 1571470,
+    "title": "The Rats: A Witcher Tale",
+    "year": "2025",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Adventure"
+    ],
+    "cast": [
+      "Christelle Elwin",
+      "Ben Radcliffe",
+      "Fabian McCallum"
+    ],
+    "director": "Mairzee Almas",
+    "poster": "https://image.tmdb.org/t/p/w500/1T0kO1cgR430AC9I6jurMOezKwg.jpg"
+  },
+  {
+    "id": 835459,
+    "title": "Sight: Extended",
+    "year": "2023",
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "cast": [
+      "Andrew Riddell",
+      "Nova Gaver",
+      "Phillip Andre Botello"
+    ],
+    "director": "Eran May-Raz",
+    "poster": "https://image.tmdb.org/t/p/w500/wUhQ65yyp0akwuAg21PD7UHMAKb.jpg"
+  },
+  {
+    "id": 477036,
+    "title": "The Sonata",
+    "year": "2018",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "cast": [
+      "Freya Tingley",
+      "Simon Abkarian",
+      "James Faulkner"
+    ],
+    "director": "Andrew Desmond",
+    "poster": "https://image.tmdb.org/t/p/w500/iiL3AWKPx6GIZN6AmmSq7pbtyc.jpg"
+  },
+  {
+    "id": 439079,
+    "title": "The Nun",
+    "year": "2018",
+    "genres": [
+      "Horror"
+    ],
+    "cast": [
+      "Taissa Farmiga",
+      "Demián Bichir",
+      "Bonnie Aarons"
+    ],
+    "director": "Corin Hardy",
+    "poster": "https://image.tmdb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg"
+  },
+  {
+    "id": 1285965,
+    "title": "Dangerous Animals",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Hassie Harrison",
+      "Jai Courtney",
+      "Josh Heuston"
+    ],
+    "director": "Sean Byrne",
+    "poster": "https://image.tmdb.org/t/p/w500/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg"
+  },
+  {
+    "id": 945961,
+    "title": "Alien: Romulus",
+    "year": "2024",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Cailee Spaeny",
+      "David Jonsson",
+      "Archie Renaux"
+    ],
+    "director": "Fede Álvarez",
+    "poster": "https://image.tmdb.org/t/p/w500/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg"
+  },
+  {
+    "id": 646683,
+    "title": "The Exorcism",
+    "year": "2024",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Russell Crowe",
+      "Ryan Simpkins",
+      "Sam Worthington"
+    ],
+    "director": "Joshua John Miller",
+    "poster": "https://image.tmdb.org/t/p/w500/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg"
+  },
+  {
+    "id": 823464,
+    "title": "Godzilla x Kong: The New Empire",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Rebecca Hall",
+      "Brian Tyree Henry",
+      "Dan Stevens"
+    ],
+    "director": "Adam Wingard",
+    "poster": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
+  },
+  {
+    "id": 68610,
+    "title": "ReGOREgitated Sacrifice",
+    "year": "2008",
+    "genres": [
+      "Horror"
+    ],
+    "cast": [
+      "Ameara Lavey",
+      "Jen Soska",
+      "Sylvia Soska"
+    ],
+    "director": "Lucifer Valentine",
+    "poster": "https://image.tmdb.org/t/p/w500/oqPYxloF89EYvCBaS5YnxczZJkM.jpg"
+  },
+  {
+    "id": 542224,
+    "title": "Gretel & Hansel",
+    "year": "2020",
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "cast": [
+      "Sophia Lillis",
+      "Samuel Leakey",
+      "Alice Krige"
+    ],
+    "director": "Osgood Perkins",
+    "poster": "https://image.tmdb.org/t/p/w500/mBBBXseq4k4dI63k06XIrsc02j8.jpg"
+  },
+  {
+    "id": 75656,
+    "title": "Now You See Me",
+    "year": "2013",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "cast": [
+      "Jesse Eisenberg",
+      "Woody Harrelson",
+      "Isla Fisher"
+    ],
+    "director": "Louis Leterrier",
+    "poster": "https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg"
+  },
+  {
+    "id": 893723,
+    "title": "PAW Patrol: The Mighty Movie",
+    "year": "2023",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "cast": [
+      "Mckenna Grace",
+      "Taraji P. Henson",
+      "Marsai Martin"
+    ],
+    "director": "Cal Brunker",
+    "poster": "https://image.tmdb.org/t/p/w500/aTvePCU7exLepwg5hWySjwxojQK.jpg"
+  },
+  {
+    "id": 430474,
+    "title": "Deep",
+    "year": "2017",
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "cast": [
+      "Justin Felbinger",
+      "Jess Harnell",
+      "Phil LaMarr"
+    ],
+    "director": "Julio Soto Gurpide",
+    "poster": "https://image.tmdb.org/t/p/w500/mShTMzDNfHgTgA3N81TEefL0EMv.jpg"
+  },
+  {
+    "id": 10771,
+    "title": "The Tuxedo",
+    "year": "2002",
+    "genres": [
+      "Thriller",
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Jackie Chan",
+      "Jennifer Love Hewitt",
+      "Jason Isaacs"
+    ],
+    "director": "Kevin Donovan",
+    "poster": "https://image.tmdb.org/t/p/w500/2agrcNQRtgTsN5SbffC4H2BwYW2.jpg"
+  },
+  {
+    "id": 150689,
+    "title": "Cinderella",
+    "year": "2015",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Family",
+      "Drama"
+    ],
+    "cast": [
+      "Lily James",
+      "Cate Blanchett",
+      "Richard Madden"
+    ],
+    "director": "Kenneth Branagh",
+    "poster": "https://image.tmdb.org/t/p/w500/j91LJmcWo16CArFOoapsz84bwxb.jpg"
+  },
+  {
+    "id": 489,
+    "title": "Good Will Hunting",
+    "year": "1997",
+    "genres": [
+      "Drama"
+    ],
+    "cast": [
+      "Matt Damon",
+      "Robin Williams",
+      "Ben Affleck"
+    ],
+    "director": "Gus Van Sant",
+    "poster": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
+  },
+  {
+    "id": 361743,
+    "title": "Top Gun: Maverick",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Val Kilmer",
+      "Miles Teller"
+    ],
+    "director": "Joseph Kosinski",
+    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+  },
+  {
+    "id": 1422096,
+    "title": "Good Boy",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Indy",
+      "Shane Jensen",
+      "Larry Fessenden"
+    ],
+    "director": "Ben Leonberg",
+    "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg"
+  },
+  {
+    "id": 62214,
+    "title": "Frankenweenie",
+    "year": "2012",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "cast": [
+      "Catherine O'Hara",
+      "Martin Short",
+      "Martin Landau"
+    ],
+    "director": "Tim Burton",
+    "poster": "https://image.tmdb.org/t/p/w500/yGjVbLVdZRBlZTTQVBsj2KUjL1s.jpg"
+  },
+  {
+    "id": 324544,
+    "title": "In the Lost Lands",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Western"
+    ],
+    "cast": [
+      "Milla Jovovich",
+      "Dave Bautista",
+      "Arly Jover"
+    ],
+    "director": "Paul W. S. Anderson",
+    "poster": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg"
+  },
+  {
+    "id": 109445,
+    "title": "Frozen",
+    "year": "2013",
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "cast": [
+      "Idina Menzel",
+      "Kristen Bell",
+      "Jonathan Groff"
+    ],
+    "director": "Jennifer Lee",
+    "poster": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg"
+  },
+  {
+    "id": 254,
+    "title": "King Kong",
+    "year": "2005",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action"
+    ],
+    "cast": [
+      "Naomi Watts",
+      "Adrien Brody",
+      "Jack Black"
+    ],
+    "director": "Peter Jackson",
+    "poster": "https://image.tmdb.org/t/p/w500/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg"
+  },
+  {
+    "id": 85430,
+    "title": "Girl Play",
+    "year": "2004",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "cast": [
+      "Lacie Harmon",
+      "Robin Greenspan",
+      "Mink Stole"
+    ],
+    "director": "Lee Friedlander",
+    "poster": "https://image.tmdb.org/t/p/w500/2ZS0H8ysSzD0d0k8zdO2jeM3kge.jpg"
+  },
+  {
+    "id": 1267905,
+    "title": "The Roses",
+    "year": "2025",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Olivia Colman",
+      "Benedict Cumberbatch",
+      "Andy Samberg"
+    ],
+    "director": "Jay Roach",
+    "poster": "https://image.tmdb.org/t/p/w500/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg"
+  },
+  {
+    "id": 1200320,
+    "title": "Killing Faith",
+    "year": "2025",
+    "genres": [
+      "Thriller",
+      "Western"
+    ],
+    "cast": [
+      "Guy Pearce",
+      "DeWanda Wise",
+      "Bill Pullman"
+    ],
+    "director": "Ned Crowley",
+    "poster": "https://image.tmdb.org/t/p/w500/bNHlTTdpdDv8xxrXF3krVghyCcj.jpg"
+  },
+  {
+    "id": 1241436,
+    "title": "Warfare",
+    "year": "2025",
+    "genres": [
+      "War",
+      "Action"
+    ],
+    "cast": [
+      "D'Pharaoh Woon-A-Tai",
+      "Will Poulter",
+      "Cosmo Jarvis"
+    ],
+    "director": "Ray Mendoza",
+    "poster": "https://image.tmdb.org/t/p/w500/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg"
+  },
+  {
+    "id": 850990,
+    "title": "Citizen Ashe",
+    "year": "2021",
+    "genres": [
+      "Documentary"
+    ],
+    "cast": [
+      "Billie Jean King",
+      "Jeanne Moutoussamy-Ashe",
+      "Johnnie Ashe"
+    ],
+    "director": "Rex Miller",
+    "poster": "https://image.tmdb.org/t/p/w500/fcQZTWnCcQ2mokWNt9lITpNKO09.jpg"
+  },
+  {
+    "id": 8413,
+    "title": "Event Horizon",
+    "year": "1997",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Mystery"
+    ],
+    "cast": [
+      "Laurence Fishburne",
+      "Sam Neill",
+      "Kathleen Quinlan"
+    ],
+    "director": "Paul W. S. Anderson",
+    "poster": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg"
+  },
+  {
+    "id": 1305717,
+    "title": "Hunting Grounds",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Emily Alatalo",
+      "Tim Rozon",
+      "Patrick Garrow"
+    ],
+    "director": "Derek Barnes",
+    "poster": "https://image.tmdb.org/t/p/w500/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg"
+  },
+  {
+    "id": 1054867,
+    "title": "One Battle After Another",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Sean Penn",
+      "Chase Infiniti"
+    ],
+    "director": "Paul Thomas Anderson",
+    "poster": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg"
+  },
+  {
+    "id": 1096563,
+    "title": "End of Loyalty",
+    "year": "2023",
+    "genres": [
+      "Crime",
+      "Action"
+    ],
+    "cast": [
+      "Braxton Angle",
+      "Justice Joslin",
+      "Simon Phillips"
+    ],
+    "director": "Hiroshi Katagiri",
+    "poster": "https://image.tmdb.org/t/p/w500/c4QA1rFQcyBZKaOOdUrDeL1G9Er.jpg"
+  },
+  {
+    "id": 89008,
+    "title": "The Oranges",
+    "year": "2011",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "cast": [
+      "Leighton Meester",
+      "Hugh Laurie",
+      "Alia Shawkat"
+    ],
+    "director": "Julian Farino",
+    "poster": "https://image.tmdb.org/t/p/w500/3HDjhip7qzvEAb5A0AiJfcUBo22.jpg"
+  },
+  {
+    "id": 575265,
+    "title": "Mission: Impossible - The Final Reckoning",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Hayley Atwell",
+      "Ving Rhames"
+    ],
+    "director": "Christopher McQuarrie",
+    "poster": "https://image.tmdb.org/t/p/w500/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg"
+  },
+  {
+    "id": 914215,
+    "title": "Humane",
+    "year": "2024",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "cast": [
+      "Jay Baruchel",
+      "Emily Hampshire",
+      "Sebastian Chacon"
+    ],
+    "director": "Caitlin Cronenberg",
+    "poster": "https://image.tmdb.org/t/p/w500/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg"
+  },
+  {
+    "id": 6038,
+    "title": "Shanghai Knights",
+    "year": "2003",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Western"
+    ],
+    "cast": [
+      "Jackie Chan",
+      "Owen Wilson",
+      "Fann Wong"
+    ],
+    "director": "David Dobkin",
+    "poster": "https://image.tmdb.org/t/p/w500/vVNQStMlZS9mn2AKBEpadRunHgt.jpg"
+  },
+  {
+    "id": 810,
+    "title": "Shrek the Third",
+    "year": "2007",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ],
+    "director": "Chris Miller",
+    "poster": "https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg"
+  },
+  {
+    "id": 1280282,
+    "title": "Gabby's Dollhouse: The Movie",
+    "year": "2025",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "cast": [
+      "Laila Lockhart Kraner",
+      "Gloria Estefan",
+      "Kristen Wiig"
+    ],
+    "director": "Ryan Crego",
+    "poster": "https://image.tmdb.org/t/p/w500/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg"
+  },
+  {
+    "id": 17436,
+    "title": "The Informers",
+    "year": "2008",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "cast": [
+      "Billy Bob Thornton",
+      "Kim Basinger",
+      "Jon Foster"
+    ],
+    "director": "Gregor Jordan",
+    "poster": "https://image.tmdb.org/t/p/w500/yiXkvghbkYMQ3iMyhiI08GgtonC.jpg"
+  },
+  {
+    "id": 648043,
+    "title": "Dead Driver",
+    "year": "2019",
+    "genres": [
+      "Horror",
+      "Action"
+    ],
+    "cast": [
+      "Mark Dacascos",
+      "Julie Condra",
+      "Noelani Dacascos"
+    ],
+    "director": "Wych Kaosayananda",
+    "poster": "https://image.tmdb.org/t/p/w500/cCO26pPZDnZ4SRuqV2cwyuDKBfs.jpg"
+  },
+  {
+    "id": 862,
+    "title": "Toy Story",
+    "year": "1995",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "director": "John Lasseter",
+    "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+  },
+  {
+    "id": 475557,
+    "title": "Joker",
+    "year": "2019",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "director": "Todd Phillips",
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+  },
+  {
+    "id": 976573,
+    "title": "Elemental",
+    "year": "2023",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Romance",
+      "Animation"
+    ],
+    "cast": [
+      "Leah Lewis",
+      "Mamoudou Athie",
+      "Ronnie del Carmen"
+    ],
+    "director": "Peter Sohn",
+    "poster": "https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
+  },
+  {
+    "id": 16614,
+    "title": "Adventureland",
+    "year": "2009",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Jesse Eisenberg",
+      "Kristen Stewart",
+      "Martin Starr"
+    ],
+    "director": "Greg Mottola",
+    "poster": "https://image.tmdb.org/t/p/w500/eeSJNAR1aWcgANq26KWIHm3cbyB.jpg"
+  },
+  {
+    "id": 87936,
+    "title": "Beautiful Stranger",
+    "year": "1954",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "cast": [
+      "Ginger Rogers",
+      "Herbert Lom",
+      "Stanley Baker"
+    ],
+    "director": "David Miller",
+    "poster": "https://image.tmdb.org/t/p/w500/3w9holTLfhiCqmPBDNo2vBrebxT.jpg"
+  },
+  {
+    "id": 14001,
+    "title": "Dead Silence",
+    "year": "2007",
+    "genres": [
+      "Horror"
+    ],
+    "cast": [
+      "Ryan Kwanten",
+      "Amber Valletta",
+      "Donnie Wahlberg"
+    ],
+    "director": "James Wan",
+    "poster": "https://image.tmdb.org/t/p/w500/rvcUVdATIHKZt7BSSttUkKbeBXN.jpg"
+  },
+  {
+    "id": 182756,
+    "title": "Perfect Strangers",
+    "year": "1945",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Robert Donat",
+      "Deborah Kerr",
+      "Glynis Johns"
+    ],
+    "director": "Alexander Korda",
+    "poster": "https://image.tmdb.org/t/p/w500/sI1jTzZRkGv7HhIrPwPftgruzTc.jpg"
+  },
+  {
+    "id": 1865,
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "year": "2011",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Penélope Cruz",
+      "Geoffrey Rush"
+    ],
+    "director": "Rob Marshall",
+    "poster": "https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg"
+  },
+  {
+    "id": 639720,
+    "title": "IF",
+    "year": "2024",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Family"
+    ],
+    "cast": [
+      "Cailey Fleming",
+      "Ryan Reynolds",
+      "John Krasinski"
+    ],
+    "director": "John Krasinski",
+    "poster": "https://image.tmdb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg"
+  },
+  {
+    "id": 26675,
+    "title": "The Outing",
+    "year": "1987",
+    "genres": [
+      "Horror"
+    ],
+    "cast": [
+      "Deborah Winters",
+      "James Huston",
+      "Andra St. Ivanyi"
+    ],
+    "director": "Tom Daley",
+    "poster": "https://image.tmdb.org/t/p/w500/jPVanJPUGHjBuXScbpbopZvMKKv.jpg"
+  },
+  {
+    "id": 667538,
+    "title": "Transformers: Rise of the Beasts",
+    "year": "2023",
     "genres": [
       "Science Fiction",
       "Adventure",
       "Action"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/wPLysNDLffQLOVebZQCbXJEv6E6.jpg"
+    "cast": [
+      "Anthony Ramos",
+      "Dominique Fishback",
+      "Peter Cullen"
+    ],
+    "director": "Steven Caple Jr.",
+    "poster": "https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg"
   },
   {
-    "id": 603,
-    "title": "The Matrix",
-    "year": "1999",
+    "id": 71552,
+    "title": "American Reunion",
+    "year": "2012",
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Jason Biggs",
+      "Alyson Hannigan",
+      "Seann William Scott"
+    ],
+    "director": "Jon Hurwitz",
+    "poster": "https://image.tmdb.org/t/p/w500/de5QBIdVR4dnkBZ4a0zjkS4lTg.jpg"
+  },
+  {
+    "id": 51052,
+    "title": "Arthur Christmas",
+    "year": "2011",
+    "genres": [
+      "Drama",
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "cast": [
+      "James McAvoy",
+      "Hugh Laurie",
+      "Bill Nighy"
+    ],
+    "director": "Sarah Smith",
+    "poster": "https://image.tmdb.org/t/p/w500/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"
+  },
+  {
+    "id": 105,
+    "title": "Back to the Future",
+    "year": "1985",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Crispin Glover"
+    ],
+    "director": "Robert Zemeckis",
+    "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
+  },
+  {
+    "id": 1235746,
+    "title": "Dead of Winter",
+    "year": "2025",
+    "genres": [
+      "Thriller"
+    ],
+    "cast": [
+      "Emma Thompson",
+      "Judy Greer",
+      "Marc Menchaca"
+    ],
+    "director": "Brian Kirk",
+    "poster": "https://image.tmdb.org/t/p/w500/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg"
+  },
+  {
+    "id": 1319895,
+    "title": "Hostile Takeover",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "cast": [
+      "Michael Jai White",
+      "Aimee Stolte",
+      "Dawn Olivieri"
+    ],
+    "director": "Michael Hamilton-Wright",
+    "poster": "https://image.tmdb.org/t/p/w500/vntwlS3CAKfoLTs90GaoK6lymBC.jpg"
+  },
+  {
+    "id": 762509,
+    "title": "Mufasa: The Lion King",
+    "year": "2024",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Animation"
+    ],
+    "cast": [
+      "Aaron Pierre",
+      "Kelvin Harrison, Jr.",
+      "Tiffany Boone"
+    ],
+    "director": "Barry Jenkins",
+    "poster": "https://image.tmdb.org/t/p/w500/lurEK87kukWNaHd0zYnsi3yzJrs.jpg"
+  },
+  {
+    "id": 986056,
+    "title": "Thunderbolts*",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "cast": [
+      "Florence Pugh",
+      "Sebastian Stan",
+      "Julia Louis-Dreyfus"
+    ],
+    "director": "Jake Schreier",
+    "poster": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
+  },
+  {
+    "id": 89656,
+    "title": "Cool Breeze",
+    "year": "1972",
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "cast": [
+      "Thalmus Rasulala",
+      "Judy Pace",
+      "Lincoln Kilpatrick"
+    ],
+    "director": "Barry Pollack",
+    "poster": "https://image.tmdb.org/t/p/w500/wxS6IIneJD2I6uXuKqx3nJTQKKZ.jpg"
+  },
+  {
+    "id": 1169789,
+    "title": "Bob Trevino Likes It",
+    "year": "2025",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "cast": [
+      "Barbie Ferreira",
+      "John Leguizamo",
+      "French Stewart"
+    ],
+    "director": "Tracie Laymon",
+    "poster": "https://image.tmdb.org/t/p/w500/kMIiBztK0PgwIQ0FMItv4dd8wIL.jpg"
+  },
+  {
+    "id": 673247,
+    "title": "The Neighbor in the Window",
+    "year": "2020",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "TV Movie"
+    ],
+    "cast": [
+      "Jamie-Lynn Sigler",
+      "Jenn Lyon",
+      "Geoff Gustafson"
+    ],
+    "director": "Menhaj Huda",
+    "poster": "https://image.tmdb.org/t/p/w500/mRCTWh1xd7BPorZmETnjzQVaj8W.jpg"
+  },
+  {
+    "id": 253837,
+    "title": "Utah Blaine",
+    "year": "1957",
+    "genres": [
+      "Western"
+    ],
+    "cast": [
+      "Rory Calhoun",
+      "Susan Cummings",
+      "Angela Stevens"
+    ],
+    "director": "Fred F. Sears",
+    "poster": "https://image.tmdb.org/t/p/w500/rVmloeVVqhroLXRMrT3NpuLtAJM.jpg"
+  },
+  {
+    "id": 216791,
+    "title": "Deadly Heroes",
+    "year": "1993",
+    "genres": [
+      "Drama",
+      "Action"
+    ],
+    "cast": [
+      "Michael Paré",
+      "Jan-Michael Vincent",
+      "Billy Drago"
+    ],
+    "director": "Menahem Golan",
+    "poster": "https://image.tmdb.org/t/p/w500/4h0oAgEGtLTITfx7b279xAQ8w5V.jpg"
+  },
+  {
+    "id": 936108,
+    "title": "Smurfs",
+    "year": "2025",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "cast": [
+      "Rihanna",
+      "James Corden",
+      "Nick Offerman"
+    ],
+    "director": "Chris Miller",
+    "poster": "https://image.tmdb.org/t/p/w500/8o6lkhL32xQJeB52IIG1us5BVey.jpg"
+  },
+  {
+    "id": 27205,
+    "title": "Inception",
+    "year": "2010",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ken Watanabe"
+    ],
+    "director": "Christopher Nolan",
+    "poster": "https://image.tmdb.org/t/p/w500/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg"
+  },
+  {
+    "id": 1151334,
+    "title": "Eenie Meanie",
+    "year": "2025",
+    "genres": [
+      "Thriller",
+      "Action",
+      "Comedy"
+    ],
+    "cast": [
+      "Samara Weaving",
+      "Karl Glusman",
+      "Andy Garcia"
+    ],
+    "director": "Shawn Simmons",
+    "poster": "https://image.tmdb.org/t/p/w500/12Va3oO3oYUdOd75zM57Nx1976a.jpg"
+  },
+  {
+    "id": 644092,
+    "title": "Finding ʻOhana",
+    "year": "2021",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "cast": [
+      "X Mayo",
+      "Kyndra Sanchez",
+      "Alex Aiono"
+    ],
+    "director": "Jude Weng",
+    "poster": "https://image.tmdb.org/t/p/w500/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg"
+  },
+  {
+    "id": 1114967,
+    "title": "Good Fortune",
+    "year": "2025",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Aziz Ansari",
+      "Seth Rogen"
+    ],
+    "director": "Aziz Ansari",
+    "poster": "https://image.tmdb.org/t/p/w500/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg"
+  },
+  {
+    "id": 299534,
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Action"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "director": "Anthony Russo",
+    "poster": "https://image.tmdb.org/t/p/w500/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg"
+  },
+  {
+    "id": 1726,
+    "title": "Iron Man",
+    "year": "2008",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Terrence Howard",
+      "Jeff Bridges"
+    ],
+    "director": "Jon Favreau",
+    "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
+  },
+  {
+    "id": 95140,
+    "title": "Detention",
+    "year": "2003",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Dolph Lundgren",
+      "Alex Karzis",
+      "Kata Dobó"
+    ],
+    "director": "Sidney J. Furie",
+    "poster": "https://image.tmdb.org/t/p/w500/75lub4L2d052VgLZVoB5AJ4jMYl.jpg"
+  },
+  {
+    "id": 34851,
+    "title": "Predators",
+    "year": "2010",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Adrien Brody",
+      "Topher Grace",
+      "Alice Braga"
+    ],
+    "director": "Nimród Antal",
+    "poster": "https://image.tmdb.org/t/p/w500/sx5EuckP7SBQrlMlxg0PLt282WS.jpg"
+  },
+  {
+    "id": 1033148,
+    "title": "Die My Love",
+    "year": "2025",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Jennifer Lawrence",
+      "Robert Pattinson",
+      "Sissy Spacek"
+    ],
+    "director": "Lynne Ramsay",
+    "poster": "https://image.tmdb.org/t/p/w500/uDMehIQIgqSCSkTINIfmKeqEt06.jpg"
+  },
+  {
+    "id": 950396,
+    "title": "The Gorge",
+    "year": "2025",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "cast": [
+      "Miles Teller",
+      "Anya Taylor-Joy",
+      "Sigourney Weaver"
+    ],
+    "director": "Scott Derrickson",
+    "poster": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg"
+  },
+  {
+    "id": 1119878,
+    "title": "Ice Road: Vengeance",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Drama"
+    ],
+    "cast": [
+      "Liam Neeson",
+      "Fan Bingbing",
+      "Marcus Thomas"
+    ],
+    "director": "Jonathan Hensleigh",
+    "poster": "https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg"
+  },
+  {
+    "id": 922848,
+    "title": "Deadly Doula",
+    "year": "2022",
+    "genres": [
+      "Thriller",
+      "TV Movie",
+      "Drama",
+      "Horror"
+    ],
+    "cast": [
+      "Brooke Burfitt",
+      "Jason Burkey",
+      "Lauren Buglioli"
+    ],
+    "director": "Ryan Dewar",
+    "poster": "https://image.tmdb.org/t/p/w500/saZ1NgVXiPveHFiMQmpTCFCoD1M.jpg"
+  },
+  {
+    "id": 674,
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": "2005",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "director": "Mike Newell",
+    "poster": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg"
+  },
+  {
+    "id": 12155,
+    "title": "Alice in Wonderland",
+    "year": "2010",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ],
+    "cast": [
+      "Mia Wasikowska",
+      "Johnny Depp",
+      "Anne Hathaway"
+    ],
+    "director": "Tim Burton",
+    "poster": "https://image.tmdb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg"
+  },
+  {
+    "id": 831946,
+    "title": "Interceptor",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "cast": [
+      "Elsa Pataky",
+      "Luke Bracey",
+      "Aaron Glenane"
+    ],
+    "director": "Matthew Reilly",
+    "poster": "https://image.tmdb.org/t/p/w500/jBKNAfANo4e3rzJtb7aHfYNd7b3.jpg"
+  },
+  {
+    "id": 32449,
+    "title": "Natural Enemy",
+    "year": "1996",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "cast": [
+      "Donald Sutherland",
+      "William McNamara",
+      "Lesley Ann Warren"
+    ],
+    "director": "Douglas Jackson",
+    "poster": "https://image.tmdb.org/t/p/w500/h4n2MqhQ0WakX4QyCBNgRxEA0rS.jpg"
+  },
+  {
+    "id": 1160360,
+    "title": "If I Had Legs I'd Kick You",
+    "year": "2025",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "cast": [
+      "Rose Byrne",
+      "Conan O'Brien",
+      "A$AP Rocky"
+    ],
+    "director": "Mary Bronstein",
+    "poster": "https://image.tmdb.org/t/p/w500/gkIFK1HzqfgQg4v4ifeNKogHtPG.jpg"
+  },
+  {
+    "id": 10195,
+    "title": "Thor",
+    "year": "2011",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "cast": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston"
+    ],
+    "director": "Kenneth Branagh",
+    "poster": "https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg"
+  },
+  {
+    "id": 315162,
+    "title": "Puss in Boots: The Last Wish",
+    "year": "2022",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "cast": [
+      "Antonio Banderas",
+      "Salma Hayek Pinault",
+      "Harvey Guillén"
+    ],
+    "director": "Joel Crawford",
+    "poster": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg"
+  },
+  {
+    "id": 271039,
+    "title": "Something, Anything",
+    "year": "2015",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "cast": [
+      "Ashley Shelton",
+      "Bryce Johnson",
+      "Linds Edwards"
+    ],
+    "director": "Paul Harrill",
+    "poster": "https://image.tmdb.org/t/p/w500/xmqqgTz5ceMjoFMe831WXtEDKsc.jpg"
+  },
+  {
+    "id": 25087,
+    "title": "Bloodsport II",
+    "year": "1996",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Daniel Bernhardt",
+      "Pat Morita",
+      "Donald Gibb"
+    ],
+    "director": "Alan Mehrez",
+    "poster": "https://image.tmdb.org/t/p/w500/4yHbsdHLHapmWaOcOcRShqWbr4s.jpg"
+  },
+  {
+    "id": 240,
+    "title": "The Godfather Part II",
+    "year": "1974",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "cast": [
+      "Al Pacino",
+      "Robert Duvall",
+      "Diane Keaton"
+    ],
+    "director": "Francis Ford Coppola",
+    "poster": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg"
+  },
+  {
+    "id": 1126166,
+    "title": "Flight Risk",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Mark Wahlberg",
+      "Michelle Dockery",
+      "Topher Grace"
+    ],
+    "director": "Mel Gibson",
+    "poster": "https://image.tmdb.org/t/p/w500/q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg"
+  },
+  {
+    "id": 1330421,
+    "title": "Bone Lake",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "cast": [
+      "Alex Roe",
+      "Maddie Hasson",
+      "Marco Pigossi"
+    ],
+    "director": "Mercedes Bryce Morgan",
+    "poster": "https://image.tmdb.org/t/p/w500/bV9sEJiznCmZu5Gf35N8m7D7OpX.jpg"
+  },
+  {
+    "id": 718930,
+    "title": "Bullet Train",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "cast": [
+      "Brad Pitt",
+      "Joey King",
+      "Aaron Taylor-Johnson"
+    ],
+    "director": "David Leitch",
+    "poster": "https://image.tmdb.org/t/p/w500/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg"
+  },
+  {
+    "id": 934201,
+    "title": "The Prank",
+    "year": "2024",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Crime",
+      "Horror"
+    ],
+    "cast": [
+      "Rita Moreno",
+      "Connor Kalopsis",
+      "Ramona Young"
+    ],
+    "director": "Maureen Bharoocha",
+    "poster": "https://image.tmdb.org/t/p/w500/kLDglJRVvImOzZ3VdtxrcOnqEF9.jpg"
+  },
+  {
+    "id": 1184918,
+    "title": "The Wild Robot",
+    "year": "2024",
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Family",
+      "Adventure",
+      "Drama"
+    ],
+    "cast": [
+      "Lupita Nyong'o",
+      "Pedro Pascal",
+      "Kit Connor"
+    ],
+    "director": "Chris Sanders",
+    "poster": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+  },
+  {
+    "id": 1028248,
+    "title": "As Good as Dead",
+    "year": "2022",
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "cast": [
+      "Tom Berenger",
+      "Michael Jai White",
+      "Louis Mandylor"
+    ],
+    "director": "R. Ellis Frazier",
+    "poster": "https://image.tmdb.org/t/p/w500/qqQPxxRQqfLrq0ubfDQCwhJHZ91.jpg"
+  },
+  {
+    "id": 507244,
+    "title": "Afterburn",
+    "year": "2025",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Comedy"
+    ],
+    "cast": [
+      "Dave Bautista",
+      "Olga Kurylenko",
+      "Kristofer Hivju"
+    ],
+    "director": "J.J. Perry",
+    "poster": "https://image.tmdb.org/t/p/w500/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg"
+  },
+  {
+    "id": 137113,
+    "title": "Edge of Tomorrow",
+    "year": "2014",
     "genres": [
       "Action",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg"
-  },
-  {
-    "id": 1242011,
-    "title": "Together",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Romance"
+    "cast": [
+      "Tom Cruise",
+      "Emily Blunt",
+      "Brendan Gleeson"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/m52XidzKx94bKlToZfEXUnL3pdy.jpg"
+    "director": "Doug Liman",
+    "poster": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg"
   },
   {
-    "id": 1230368,
-    "title": "Springsteen: Deliver Me from Nowhere",
-    "year": "2025",
+    "id": 70196,
+    "title": "The Veteran",
+    "year": "2011",
     "genres": [
-      "Drama",
-      "Music"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg"
-  },
-  {
-    "id": 1083433,
-    "title": "I Know What You Did Last Summer",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery",
+      "Action",
+      "Crime",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/6BfZLQYj97NO1yD5JkSAf5vWzGj.jpg"
+    "cast": [
+      "Toby Kebbell",
+      "Adi Bielski",
+      "Brian Cox"
+    ],
+    "director": "Matthew Hope",
+    "poster": "https://image.tmdb.org/t/p/w500/i1gSsXTWtCmNQArmIeUpAysHEmi.jpg"
+  },
+  {
+    "id": 238,
+    "title": "The Godfather",
+    "year": "1972",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "director": "Francis Ford Coppola",
+    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+  },
+  {
+    "id": 9753,
+    "title": "Three",
+    "year": "2005",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Billy Zane",
+      "Kelly Brook",
+      "Juan Pablo Di Pace"
+    ],
+    "director": "Stewart Raffill",
+    "poster": "https://image.tmdb.org/t/p/w500/v45dAZ1vI4NUqcYcLUmGVXHGYFj.jpg"
+  },
+  {
+    "id": 205596,
+    "title": "The Imitation Game",
+    "year": "2014",
+    "genres": [
+      "History",
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "cast": [
+      "Benedict Cumberbatch",
+      "Keira Knightley",
+      "Matthew Goode"
+    ],
+    "director": "Morten Tyldum",
+    "poster": "https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg"
+  },
+  {
+    "id": 474350,
+    "title": "It Chapter Two",
+    "year": "2019",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Bill Skarsgård",
+      "James McAvoy",
+      "Jessica Chastain"
+    ],
+    "director": "Andy Muschietti",
+    "poster": "https://image.tmdb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg"
+  },
+  {
+    "id": 150540,
+    "title": "Inside Out",
+    "year": "2015",
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Drama",
+      "Comedy"
+    ],
+    "cast": [
+      "Amy Poehler",
+      "Phyllis Smith",
+      "Richard Kind"
+    ],
+    "director": "Pete Docter",
+    "poster": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
+  },
+  {
+    "id": 198663,
+    "title": "The Maze Runner",
+    "year": "2014",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "cast": [
+      "Dylan O'Brien",
+      "Kaya Scodelario",
+      "Aml Ameen"
+    ],
+    "director": "Wes Ball",
+    "poster": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg"
+  },
+  {
+    "id": 73723,
+    "title": "The Lorax",
+    "year": "2012",
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "cast": [
+      "Danny DeVito",
+      "Ed Helms",
+      "Zac Efron"
+    ],
+    "director": "Chris Renaud",
+    "poster": "https://image.tmdb.org/t/p/w500/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg"
+  },
+  {
+    "id": 10625,
+    "title": "Mean Girls",
+    "year": "2004",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "cast": [
+      "Lindsay Lohan",
+      "Rachel McAdams",
+      "Lizzy Caplan"
+    ],
+    "director": "Mark Waters",
+    "poster": "https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg"
+  },
+  {
+    "id": 82690,
+    "title": "Wreck-It Ralph",
+    "year": "2012",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Adventure"
+    ],
+    "cast": [
+      "John C. Reilly",
+      "Sarah Silverman",
+      "Jack McBrayer"
+    ],
+    "director": "Rich Moore",
+    "poster": "https://image.tmdb.org/t/p/w500/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg"
+  },
+  {
+    "id": 14836,
+    "title": "Coraline",
+    "year": "2009",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "cast": [
+      "Dakota Fanning",
+      "Teri Hatcher",
+      "Jennifer Saunders"
+    ],
+    "director": "Henry Selick",
+    "poster": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg"
+  },
+  {
+    "id": 693134,
+    "title": "Dune: Part Two",
+    "year": "2024",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson"
+    ],
+    "director": "Denis Villeneuve",
+    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+  },
+  {
+    "id": 451915,
+    "title": "Beautiful Boy",
+    "year": "2018",
+    "genres": [
+      "Drama"
+    ],
+    "cast": [
+      "Steve Carell",
+      "Timothée Chalamet",
+      "Maura Tierney"
+    ],
+    "director": "Felix van Groeningen",
+    "poster": "https://image.tmdb.org/t/p/w500/u2Gfv0mz3xePsgyCPHovrnFL1sB.jpg"
+  },
+  {
+    "id": 1327862,
+    "title": "Regretting You",
+    "year": "2025",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "cast": [
+      "Mckenna Grace",
+      "Allison Williams",
+      "Dave Franco"
+    ],
+    "director": "Josh Boone",
+    "poster": "https://image.tmdb.org/t/p/w500/z4gVnxTaks3anTycwKjDmvQSuWt.jpg"
+  },
+  {
+    "id": 1136867,
+    "title": "Materialists",
+    "year": "2025",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "cast": [
+      "Dakota Johnson",
+      "Chris Evans",
+      "Pedro Pascal"
+    ],
+    "director": "Celine Song",
+    "poster": "https://image.tmdb.org/t/p/w500/zh4kaa2dGhVjojHulCWt3AR4b2l.jpg"
+  },
+  {
+    "id": 533535,
+    "title": "Deadpool & Wolverine",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Ryan Reynolds",
+      "Hugh Jackman",
+      "Emma Corrin"
+    ],
+    "director": "Shawn Levy",
+    "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
+  },
+  {
+    "id": 158852,
+    "title": "Tomorrowland",
+    "year": "2015",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Britt Robertson",
+      "George Clooney",
+      "Raffey Cassidy"
+    ],
+    "director": "Brad Bird",
+    "poster": "https://image.tmdb.org/t/p/w500/kziYpr5Nfw60P0My8aj1sgCEqed.jpg"
+  },
+  {
+    "id": 1108427,
+    "title": "Moana",
+    "year": "2026",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "cast": [
+      "Catherine Laga‘aia",
+      "Dwayne Johnson",
+      "Rena Owen"
+    ],
+    "director": "Thomas Kail",
+    "poster": "https://image.tmdb.org/t/p/w500/2B2XvBZFSOrGt7nptyNoBSFPhfb.jpg"
+  },
+  {
+    "id": 1452176,
+    "title": "Abraham's Boys: A Dracula Story",
+    "year": "2025",
+    "genres": [
+      "Horror"
+    ],
+    "cast": [
+      "Titus Welliver",
+      "Jocelin Donahue",
+      "Brady Hepner"
+    ],
+    "director": "Natasha Kermani",
+    "poster": "https://image.tmdb.org/t/p/w500/owUZI7rRIN85TnXJY8gD9LdMiGU.jpg"
+  },
+  {
+    "id": 42484,
+    "title": "Lennon Naked",
+    "year": "2010",
+    "genres": [
+      "Drama",
+      "TV Movie"
+    ],
+    "cast": [
+      "Christopher Eccleston",
+      "Christopher Fairbank",
+      "Andrew Scott"
+    ],
+    "director": "Edmund Coulthard",
+    "poster": "https://image.tmdb.org/t/p/w500/4807dYOvJSq3dppLJe21Ga3XlLE.jpg"
+  },
+  {
+    "id": 640,
+    "title": "Catch Me If You Can",
+    "year": "2002",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken"
+    ],
+    "director": "Steven Spielberg",
+    "poster": "https://image.tmdb.org/t/p/w500/sdYgEkKCDPWNU6KnoL4qd8xZ4w7.jpg"
+  },
+  {
+    "id": 39916,
+    "title": "Contamination",
+    "year": "1980",
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "cast": [
+      "Ian McCulloch",
+      "Louise Marleau",
+      "Marino Masé"
+    ],
+    "director": "Luigi Cozzi",
+    "poster": "https://image.tmdb.org/t/p/w500/eCUSieEikP6vt0dBbIKnEGpyEK2.jpg"
+  },
+  {
+    "id": 1373445,
+    "title": "V/H/S/Halloween",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Samantha Cochran",
+      "Natalia Montgomery Fernandez",
+      "Elena Musser"
+    ],
+    "director": "Bryan M. Ferguson",
+    "poster": "https://image.tmdb.org/t/p/w500/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg"
+  },
+  {
+    "id": 98360,
+    "title": "Cleavagefield",
+    "year": "2009",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "cast": [
+      "Rebecca Love",
+      "Amy Ried",
+      "Lucia Santos"
+    ],
+    "director": "Jim Wynorski",
+    "poster": "https://image.tmdb.org/t/p/w500/32YYPWUUM8BQB984CpPZLKbVako.jpg"
+  },
+  {
+    "id": 1106289,
+    "title": "The Pickup",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "cast": [
+      "Eddie Murphy",
+      "Pete Davidson",
+      "Keke Palmer"
+    ],
+    "director": "Tim Story",
+    "poster": "https://image.tmdb.org/t/p/w500/vFWvWhfAvij8UIngg2Vf6JV95Cr.jpg"
+  },
+  {
+    "id": 1169210,
+    "title": "The Mannequin",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Crime",
+      "Mystery"
+    ],
+    "cast": [
+      "Isabella Gómez",
+      "Lindsay LaVanchy",
+      "Shireen Lai"
+    ],
+    "director": "John Berardo",
+    "poster": "https://image.tmdb.org/t/p/w500/oFTpB1gzS02LtrsenTWxOKbsMpM.jpg"
+  },
+  {
+    "id": 588228,
+    "title": "The Tomorrow War",
+    "year": "2021",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "cast": [
+      "Chris Pratt",
+      "Yvonne Strahovski",
+      "J.K. Simmons"
+    ],
+    "director": "Chris McKay",
+    "poster": "https://image.tmdb.org/t/p/w500/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg"
+  },
+  {
+    "id": 57158,
+    "title": "The Hobbit: The Desolation of Smaug",
+    "year": "2013",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Action"
+    ],
+    "cast": [
+      "Ian McKellen",
+      "Martin Freeman",
+      "Richard Armitage"
+    ],
+    "director": "Peter Jackson",
+    "poster": "https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg"
+  },
+  {
+    "id": 38055,
+    "title": "Megamind",
+    "year": "2010",
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Will Ferrell",
+      "Brad Pitt",
+      "Tina Fey"
+    ],
+    "director": "Tom McGrath",
+    "poster": "https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg"
+  },
+  {
+    "id": 1087891,
+    "title": "The Amateur",
+    "year": "2025",
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "cast": [
+      "Rami Malek",
+      "Holt McCallany",
+      "Danny Sapani"
+    ],
+    "director": "James Hawes",
+    "poster": "https://image.tmdb.org/t/p/w500/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg"
+  },
+  {
+    "id": 912649,
+    "title": "Venom: The Last Dance",
+    "year": "2024",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "cast": [
+      "Tom Hardy",
+      "Chiwetel Ejiofor",
+      "Juno Temple"
+    ],
+    "director": "Kelly Marcel",
+    "poster": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg"
+  },
+  {
+    "id": 67203,
+    "title": "Frost Giant",
+    "year": "2010",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "cast": [
+      "Erbi Ago",
+      "Velizar Binev",
+      "Lucy Brown"
+    ],
+    "director": "Víctor García",
+    "poster": "https://image.tmdb.org/t/p/w500/eqPbH6EM9BfXXL4SQUG5N31S8xp.jpg"
+  },
+  {
+    "id": 22029,
+    "title": "Black Caesar",
+    "year": "1973",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Fred Williamson",
+      "Gloria Hendry",
+      "Art Lund"
+    ],
+    "director": "Larry Cohen",
+    "poster": "https://image.tmdb.org/t/p/w500/yq07GtsZiN1Ot2QkTWsKQypq65m.jpg"
+  },
+  {
+    "id": 698508,
+    "title": "Redeeming Love",
+    "year": "2022",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Western"
+    ],
+    "cast": [
+      "Abigail Cowen",
+      "Tom Lewis",
+      "Eric Dane"
+    ],
+    "director": "D.J. Caruso",
+    "poster": "https://image.tmdb.org/t/p/w500/pDc2HxQtC0MlKD4QfRvmKREEyhc.jpg"
+  },
+  {
+    "id": 44326,
+    "title": "Extremities",
+    "year": "1986",
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "cast": [
+      "Farrah Fawcett-Majors",
+      "James Russo",
+      "Alfre Woodard"
+    ],
+    "director": "Robert M. Young",
+    "poster": "https://image.tmdb.org/t/p/w500/AnzuqWIL840oE2vgtW81q1p1CAL.jpg"
+  },
+  {
+    "id": 954388,
+    "title": "Quicksand",
+    "year": "2023",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Mystery",
+      "Drama"
+    ],
+    "cast": [
+      "Carolina Gaitán",
+      "Allan Hawco",
+      "Sebastián Eslava"
+    ],
+    "director": "Andres Beltran",
+    "poster": "https://image.tmdb.org/t/p/w500/cVLfO3CbVg8p5Qcaifq6AidOe2w.jpg"
+  },
+  {
+    "id": 7451,
+    "title": "xXx",
+    "year": "2002",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "cast": [
+      "Vin Diesel",
+      "Asia Argento",
+      "Marton Csokas"
+    ],
+    "director": "Rob Cohen",
+    "poster": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg"
+  },
+  {
+    "id": 1242898,
+    "title": "Predator: Badlands",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "cast": [
+      "Elle Fanning",
+      "Dimitrius Schuster-Koloamatangi",
+      "Rohinal Nayaran"
+    ],
+    "director": "Dan Trachtenberg",
+    "poster": "https://image.tmdb.org/t/p/w500/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg"
+  },
+  {
+    "id": 402431,
+    "title": "Wicked",
+    "year": "2024",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Fantasy"
+    ],
+    "cast": [
+      "Cynthia Erivo",
+      "Ariana Grande",
+      "Michelle Yeoh"
+    ],
+    "director": "Jon M. Chu",
+    "poster": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+  },
+  {
+    "id": 6529,
+    "title": "Hondo",
+    "year": "1953",
+    "genres": [
+      "Western"
+    ],
+    "cast": [
+      "John Wayne",
+      "Geraldine Page",
+      "Ward Bond"
+    ],
+    "director": "John Farrow",
+    "poster": "https://image.tmdb.org/t/p/w500/ziHGGNGd9SEcrPgd1sdxJ9JPHWO.jpg"
+  },
+  {
+    "id": 49872,
+    "title": "Hansel & Gretel",
+    "year": "2002",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "cast": [
+      "Howie Mandel",
+      "Taylor Momsen",
+      "Jacob Smith"
+    ],
+    "director": "Gary J. Tunnicliffe",
+    "poster": "https://image.tmdb.org/t/p/w500/eNY4aIyVuYnQWu1dGWds0nGeCBO.jpg"
+  },
+  {
+    "id": 704673,
+    "title": "Trigger Warning",
+    "year": "2024",
+    "genres": [
+      "Action"
+    ],
+    "cast": [
+      "Jessica Alba",
+      "Anthony Michael Hall",
+      "Tone Bell"
+    ],
+    "director": "Mouly Surya",
+    "poster": "https://image.tmdb.org/t/p/w500/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg"
+  },
+  {
+    "id": 1526215,
+    "title": "Love+War",
+    "year": "2025",
+    "genres": [
+      "Documentary",
+      "War"
+    ],
+    "cast": [
+      "Lynsey Addario",
+      "Andriy Dubchak",
+      "Yulia Bondarenko"
+    ],
+    "director": "Jimmy Chin",
+    "poster": "https://image.tmdb.org/t/p/w500/7sr2GJyTZpdv8HvSneDCwRbhmFt.jpg"
+  },
+  {
+    "id": 42299,
+    "title": "Busy Bodies",
+    "year": "1933",
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Dick Gilbert"
+    ],
+    "director": "Lloyd French",
+    "poster": "https://image.tmdb.org/t/p/w500/mbMflFt5S2ZJFJXgJCmXYXAziIz.jpg"
+  },
+  {
+    "id": 974576,
+    "title": "Conclave",
+    "year": "2024",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Ralph Fiennes",
+      "Stanley Tucci",
+      "John Lithgow"
+    ],
+    "director": "Edward Berger",
+    "poster": "https://image.tmdb.org/t/p/w500/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
+  },
+  {
+    "id": 11358,
+    "title": "Walking Tall",
+    "year": "2004",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Dwayne Johnson",
+      "Johnny Knoxville",
+      "Neal McDonough"
+    ],
+    "director": "Kevin Bray",
+    "poster": "https://image.tmdb.org/t/p/w500/2sdmKtRz2SlGSLxxZDePKm5zxus.jpg"
+  },
+  {
+    "id": 520720,
+    "title": "Kim Possible",
+    "year": "2019",
+    "genres": [
+      "Family",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "TV Movie"
+    ],
+    "cast": [
+      "Sadie Stanley",
+      "Sean Giambrone",
+      "Ciara Riley Wilson"
+    ],
+    "director": "Adam B. Stein",
+    "poster": "https://image.tmdb.org/t/p/w500/t37Xa74GFO1R3kebocqSV4hFrPO.jpg"
+  },
+  {
+    "id": 11459,
+    "title": "Sky High",
+    "year": "2005",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "cast": [
+      "Michael Angarano",
+      "Mary Elizabeth Winstead",
+      "Kurt Russell"
+    ],
+    "director": "Mike Mitchell",
+    "poster": "https://image.tmdb.org/t/p/w500/nBB0XNMwvYvWpo67EcxQqKMoMKf.jpg"
+  },
+  {
+    "id": 10665,
+    "title": "The Strangers",
+    "year": "2008",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Liv Tyler",
+      "Scott Speedman",
+      "Gemma Ward"
+    ],
+    "director": "Bryan Bertino",
+    "poster": "https://image.tmdb.org/t/p/w500/gwsg4qFmLOvlhwXj4OZuxfFUdP0.jpg"
+  },
+  {
+    "id": 591,
+    "title": "The Da Vinci Code",
+    "year": "2006",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Audrey Tautou",
+      "Ian McKellen"
+    ],
+    "director": "Ron Howard",
+    "poster": "https://image.tmdb.org/t/p/w500/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg"
+  },
+  {
+    "id": 4628,
+    "title": "Enigma",
+    "year": "1982",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Martin Sheen",
+      "Brigitte Fossey",
+      "Sam Neill"
+    ],
+    "director": "Jeannot Szwarc",
+    "poster": "https://image.tmdb.org/t/p/w500/ecHQt4UVRsFMzVKFEutAXJ1C1Zu.jpg"
+  },
+  {
+    "id": 36691,
+    "title": "Solitary Man",
+    "year": "2009",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Michael Douglas",
+      "Susan Sarandon",
+      "Danny DeVito"
+    ],
+    "director": "David Levien",
+    "poster": "https://image.tmdb.org/t/p/w500/5Dpm8QDoL3w3ZOwVl6rgvjRWxrj.jpg"
+  },
+  {
+    "id": 12153,
+    "title": "White Chicks",
+    "year": "2004",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "cast": [
+      "Shawn Wayans",
+      "Marlon Wayans",
+      "Frankie Faison"
+    ],
+    "director": "Keenen Ivory Wayans",
+    "poster": "https://image.tmdb.org/t/p/w500/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg"
+  },
+  {
+    "id": 8681,
+    "title": "Taken",
+    "year": "2008",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Liam Neeson",
+      "Maggie Grace",
+      "Famke Janssen"
+    ],
+    "director": "Pierre Morel",
+    "poster": "https://image.tmdb.org/t/p/w500/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg"
+  },
+  {
+    "id": 11688,
+    "title": "The Emperor's New Groove",
+    "year": "2000",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "cast": [
+      "David Spade",
+      "John Goodman",
+      "Eartha Kitt"
+    ],
+    "director": "Mark Dindal",
+    "poster": "https://image.tmdb.org/t/p/w500/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg"
+  },
+  {
+    "id": 230645,
+    "title": "Deadliest Prey",
+    "year": "2013",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "cast": [
+      "Ted Prior",
+      "David James Campbell",
+      "Fritz Matthews"
+    ],
+    "director": "David A. Prior",
+    "poster": "https://image.tmdb.org/t/p/w500/gZJxYwlWedCYZwGeUodVyrHCI7Y.jpg"
+  },
+  {
+    "id": 1268552,
+    "title": "Fran the Man",
+    "year": "2025",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "cast": [
+      "Ardal O'Hanlon",
+      "Amy Huberman",
+      "Darragh Humphreys"
+    ],
+    "director": "Stephen Bradley",
+    "poster": "https://image.tmdb.org/t/p/w500/fxST2MqYdafW5zucXX85qddvnjm.jpg"
+  },
+  {
+    "id": 346698,
+    "title": "Barbie",
+    "year": "2023",
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "cast": [
+      "Margot Robbie",
+      "Ryan Gosling",
+      "America Ferrera"
+    ],
+    "director": "Greta Gerwig",
+    "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+  },
+  {
+    "id": 323692,
+    "title": "Quitters",
+    "year": "2015",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "cast": [
+      "Ben Konigsberg",
+      "Mira Sorvino",
+      "Greg Germann"
+    ],
+    "director": "Noah Pritzker",
+    "poster": "https://image.tmdb.org/t/p/w500/oTnlhihOXqYs0cAwBxRdFV4adRM.jpg"
   },
   {
     "id": 808,
@@ -1394,18 +4735,13 @@
       "Adventure",
       "Family"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/o04jZs5SXhbvhqO4981W7KJXOWZ.jpg"
-  },
-  {
-    "id": 1280450,
-    "title": "Stolen Girl",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Action",
-      "Adventure"
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/fZlNXEHZsBp7unqw009MeBbMv87.jpg"
+    "director": "Andrew Adamson",
+    "poster": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg"
   },
   {
     "id": 22,
@@ -1416,174 +4752,78 @@
       "Fantasy",
       "Action"
     ],
+    "cast": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom"
+    ],
+    "director": "Gore Verbinski",
     "poster": "https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg"
   },
   {
-    "id": 215,
-    "title": "Saw II",
-    "year": "2005",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg"
-  },
-  {
-    "id": 550,
-    "title": "Fight Club",
-    "year": "1999",
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
-  },
-  {
-    "id": 1029575,
-    "title": "The Family Plan",
-    "year": "2023",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg"
-  },
-  {
-    "id": 12208,
-    "title": "Casino Royale",
-    "year": "1967",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9wdw5H018bgIM8bK2HuDvh8BwOh.jpg"
-  },
-  {
-    "id": 541671,
-    "title": "Ballerina",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4sbqReLivBN4e7OOwG6PkSGcKHt.jpg"
-  },
-  {
-    "id": 246741,
-    "title": "What We Do in the Shadows",
-    "year": "2014",
-    "genres": [
-      "Comedy",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg"
-  },
-  {
-    "id": 315635,
-    "title": "Spider-Man: Homecoming",
-    "year": "2017",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg"
-  },
-  {
-    "id": 866398,
-    "title": "The Beekeeper",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg"
-  },
-  {
-    "id": 671,
-    "title": "Harry Potter and the Philosopher's Stone",
-    "year": "2001",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
-  },
-  {
-    "id": 652,
-    "title": "Troy",
-    "year": "2004",
-    "genres": [
-      "War",
-      "Action",
-      "History"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg"
-  },
-  {
-    "id": 359410,
-    "title": "Road House",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg"
-  },
-  {
-    "id": 4247,
-    "title": "Scary Movie",
-    "year": "2000",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg"
-  },
-  {
-    "id": 864,
-    "title": "Cool Runnings",
-    "year": "1993",
-    "genres": [
-      "Comedy",
-      "Adventure",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg"
-  },
-  {
-    "id": 109445,
-    "title": "Frozen",
-    "year": "2013",
+    "id": 11544,
+    "title": "Lilo & Stitch",
+    "year": "2002",
     "genres": [
       "Animation",
       "Family",
-      "Adventure",
+      "Comedy"
+    ],
+    "cast": [
+      "Daveigh Chase",
+      "Chris Sanders",
+      "Tia Carrere"
+    ],
+    "director": "Chris Sanders",
+    "poster": "https://image.tmdb.org/t/p/w500/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg"
+  },
+  {
+    "id": 1251717,
+    "title": "Vicious",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Dakota Fanning",
+      "Kathryn Hunter",
+      "Mary McCormack"
+    ],
+    "director": "Bryan Bertino",
+    "poster": "https://image.tmdb.org/t/p/w500/dYxrsyUEdFOOq7xzIuvEb1858Sg.jpg"
+  },
+  {
+    "id": 697064,
+    "title": "Beckman",
+    "year": "2020",
+    "genres": [
+      "Action"
+    ],
+    "cast": [
+      "David A.R. White",
+      "Brighton Sharbino",
+      "Jeff Fahey"
+    ],
+    "director": "Gabriel Sabloff",
+    "poster": "https://image.tmdb.org/t/p/w500/z0r3YjyJSLqf6Hz0rbBAnEhNXQ7.jpg"
+  },
+  {
+    "id": 1250,
+    "title": "Ghost Rider",
+    "year": "2007",
+    "genres": [
+      "Thriller",
+      "Action",
       "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg"
-  },
-  {
-    "id": 228150,
-    "title": "Fury",
-    "year": "2014",
-    "genres": [
-      "War",
-      "Drama",
-      "Action"
+    "cast": [
+      "Nicolas Cage",
+      "Eva Mendes",
+      "Sam Elliott"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg"
-  },
-  {
-    "id": 1053008,
-    "title": "Fight Another Day",
-    "year": "2024",
-    "genres": [
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fKnLt1xQV0RdpN6RViowEiD1dFW.jpg"
+    "director": "Mark Steven Johnson",
+    "poster": "https://image.tmdb.org/t/p/w500/1pyU94dAY7npDQCKuxCSyX9KthN.jpg"
   },
   {
     "id": 1087192,
@@ -1595,50 +4835,30 @@
       "Action",
       "Adventure"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg"
+    "cast": [
+      "Mason Thames",
+      "Nico Parker",
+      "Gerard Butler"
+    ],
+    "director": "Dean DeBlois",
+    "poster": "https://image.tmdb.org/t/p/w500/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg"
   },
   {
-    "id": 957119,
-    "title": "Sidelined: The QB and Me",
-    "year": "2025",
+    "id": 29106,
+    "title": "Whirlpool",
+    "year": "1950",
     "genres": [
-      "Comedy",
-      "Romance"
+      "Thriller",
+      "Crime",
+      "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg"
-  },
-  {
-    "id": 634649,
-    "title": "Spider-Man: No Way Home",
-    "year": "2021",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
+    "cast": [
+      "Gene Tierney",
+      "José Ferrer",
+      "Richard Conte"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
-  },
-  {
-    "id": 20526,
-    "title": "TRON: Legacy",
-    "year": "2010",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg"
-  },
-  {
-    "id": 1125257,
-    "title": "Freakier Friday",
-    "year": "2025",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg"
+    "director": "Otto Preminger",
+    "poster": "https://image.tmdb.org/t/p/w500/swwFPsZxjYMyQPkcqDrQs6yQ7Aq.jpg"
   },
   {
     "id": 138843,
@@ -1648,154 +4868,315 @@
       "Horror",
       "Thriller"
     ],
+    "cast": [
+      "Vera Farmiga",
+      "Patrick Wilson",
+      "Ron Livingston"
+    ],
+    "director": "James Wan",
     "poster": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg"
   },
   {
-    "id": 1377413,
-    "title": "St. Patrick's Day Massacre",
-    "year": "2025",
+    "id": 351671,
+    "title": "Win, Place and Showboat",
+    "year": "1950",
+    "genres": [
+      "Animation"
+    ],
+    "cast": [],
+    "director": "Izzy Sparber",
+    "poster": ""
+  },
+  {
+    "id": 213555,
+    "title": "Carnal Crimes",
+    "year": "1991",
+    "genres": [
+      "Thriller"
+    ],
+    "cast": [
+      "Martin Hewitt",
+      "Linda Carol",
+      "Rich Crater"
+    ],
+    "director": "Gregory Dark",
+    "poster": "https://image.tmdb.org/t/p/w500/jKNOVIXT8c1yp3pry23qvazMTIE.jpg"
+  },
+  {
+    "id": 533658,
+    "title": "Friedkin Uncut",
+    "year": "2018",
+    "genres": [
+      "Documentary"
+    ],
+    "cast": [
+      "William Friedkin",
+      "Quentin Tarantino",
+      "Juno Temple"
+    ],
+    "director": "Francesco Zippel",
+    "poster": "https://image.tmdb.org/t/p/w500/5YOAC5MveLmEi2w3uL7qVsBUzjT.jpg"
+  },
+  {
+    "id": 111983,
+    "title": "Live Wire: Human Timebomb",
+    "year": "1996",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Bryan Genesse",
+      "Joe Lara",
+      "J. Cynthia Brooks"
+    ],
+    "director": "Mark Roper",
+    "poster": "https://image.tmdb.org/t/p/w500/uCtJUy9C6RqKUxzDzNImi2OWgWY.jpg"
+  },
+  {
+    "id": 660001,
+    "title": "Dead & Beautiful",
+    "year": "2021",
     "genres": [
       "Horror"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/mc83CBPbeHQceWwrb8wlvxCaL3k.jpg"
+    "cast": [
+      "Aviis Zhong",
+      "Gijs Blom",
+      "Yen Tsao"
+    ],
+    "director": "David Verbeek",
+    "poster": "https://image.tmdb.org/t/p/w500/gGg8xjyK7w58kZsmfIQAN4keQ4n.jpg"
   },
   {
-    "id": 1383557,
-    "title": "Revival",
-    "year": "2024",
+    "id": 47822,
+    "title": "Eliminators",
+    "year": "1986",
     "genres": [
-      "Horror",
-      "Thriller",
+      "Action",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/1XiRapIjZwJBOVj2ZH3kx74jyVb.jpg"
+    "cast": [
+      "Andrew Prine",
+      "Denise Crosby",
+      "Patrick Reynolds"
+    ],
+    "director": "Peter Manoogian",
+    "poster": "https://image.tmdb.org/t/p/w500/9RBzZcSKmBhVbJWtLwELyvU7V4G.jpg"
   },
   {
-    "id": 278,
-    "title": "The Shawshank Redemption",
-    "year": "1994",
+    "id": 423988,
+    "title": "Kill Switch",
+    "year": "2017",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Dan Stevens",
+      "Bérénice Marlohe",
+      "Charity Wakefield"
+    ],
+    "director": "Tim Smit",
+    "poster": "https://image.tmdb.org/t/p/w500/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg"
+  },
+  {
+    "id": 411,
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": "2005",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "cast": [
+      "William Moseley",
+      "Anna Popplewell",
+      "Skandar Keynes"
+    ],
+    "director": "Andrew Adamson",
+    "poster": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg"
+  },
+  {
+    "id": 72160,
+    "title": "Yellowstone Kelly",
+    "year": "1959",
+    "genres": [
+      "Adventure",
+      "Western"
+    ],
+    "cast": [
+      "Clint Walker",
+      "Edd Byrnes",
+      "John Russell"
+    ],
+    "director": "Gordon Douglas",
+    "poster": "https://image.tmdb.org/t/p/w500/hrjzLXi1VpwUx3kvJ0sgQzlYUxE.jpg"
+  },
+  {
+    "id": 792307,
+    "title": "Poor Things",
+    "year": "2023",
+    "genres": [
+      "Science Fiction",
+      "Romance",
+      "Comedy"
+    ],
+    "cast": [
+      "Emma Stone",
+      "Mark Ruffalo",
+      "Willem Dafoe"
+    ],
+    "director": "Yorgos Lanthimos",
+    "poster": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+  },
+  {
+    "id": 81478,
+    "title": "Killing Spree",
+    "year": "1987",
+    "genres": [
+      "Horror"
+    ],
+    "cast": [
+      "Asbestos Felt",
+      "Courtney Lercara",
+      "Raymond Carbone"
+    ],
+    "director": "Tim Ritter",
+    "poster": "https://image.tmdb.org/t/p/w500/91JfaHy6A8qjtXGYs6wkifcFyEE.jpg"
+  },
+  {
+    "id": 1248226,
+    "title": "Playdate",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "cast": [
+      "Kevin James",
+      "Alan Ritchson",
+      "Sarah Chalke"
+    ],
+    "director": "Luke Greenfield",
+    "poster": "https://image.tmdb.org/t/p/w500/fGodXWqJkkkbSebPIlxLSygV8GY.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Finding Nemo",
+    "year": "2003",
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould"
+    ],
+    "director": "Andrew Stanton",
+    "poster": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg"
+  },
+  {
+    "id": 351211,
+    "title": "Blair Witch",
+    "year": "2016",
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "cast": [
+      "James Allen McCune",
+      "Callie Hernandez",
+      "Brandon Scott"
+    ],
+    "director": "Adam Wingard",
+    "poster": "https://image.tmdb.org/t/p/w500/Ai73frMEz68bibFGRlPKdWBaIaq.jpg"
+  },
+  {
+    "id": 49172,
+    "title": "Public Enemies",
+    "year": "1996",
     "genres": [
       "Drama",
       "Crime"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
-  },
-  {
-    "id": 150689,
-    "title": "Cinderella",
-    "year": "2015",
-    "genres": [
-      "Romance",
-      "Fantasy",
-      "Family",
-      "Drama"
+    "cast": [
+      "Theresa Russell",
+      "Eric Roberts",
+      "Alyssa Milano"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/j91LJmcWo16CArFOoapsz84bwxb.jpg"
+    "director": "Mark L. Lester",
+    "poster": "https://image.tmdb.org/t/p/w500/cRvXYxnbUvQlphZBYOf1bJ7lQiD.jpg"
   },
   {
-    "id": 8966,
-    "title": "Twilight",
-    "year": "2008",
-    "genres": [
-      "Fantasy",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg"
-  },
-  {
-    "id": 574475,
-    "title": "Final Destination Bloodlines",
+    "id": 604079,
+    "title": "The Long Walk",
     "year": "2025",
     "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg"
-  },
-  {
-    "id": 1241921,
-    "title": "A Big Bold Beautiful Journey",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Fantasy",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg"
-  },
-  {
-    "id": 216015,
-    "title": "Fifty Shades of Grey",
-    "year": "2015",
-    "genres": [
-      "Drama",
-      "Romance",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg"
-  },
-  {
-    "id": 10761,
-    "title": "Made of Honor",
-    "year": "2008",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/pDg8D0jNqmz7RbCBgblWvmPswHE.jpg"
-  },
-  {
-    "id": 933260,
-    "title": "The Substance",
-    "year": "2024",
-    "genres": [
-      "Drama",
+      "Thriller",
       "Horror",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
+    "cast": [
+      "Cooper Hoffman",
+      "David Jonsson",
+      "Garrett Wareing"
+    ],
+    "director": "Francis Lawrence",
+    "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg"
   },
   {
-    "id": 1136867,
-    "title": "Materialists",
+    "id": 675,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "year": "2007",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "director": "David Yates",
+    "poster": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg"
+  },
+  {
+    "id": 346910,
+    "title": "The Predator",
+    "year": "2018",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Boyd Holbrook",
+      "Trevante Rhodes",
+      "Sterling K. Brown"
+    ],
+    "director": "Shane Black",
+    "poster": "https://image.tmdb.org/t/p/w500/a3eWGF6YPF7No5Rbtjc8QpDvz7l.jpg"
+  },
+  {
+    "id": 1468417,
+    "title": "First Moon",
     "year": "2025",
     "genres": [
-      "Romance",
-      "Drama"
+      "Horror",
+      "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg"
-  },
-  {
-    "id": 974453,
-    "title": "Absolution",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller",
-      "Mystery"
+    "cast": [
+      "Lauren Esposito",
+      "Julian Curtis",
+      "Shannon Ryan"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg"
-  },
-  {
-    "id": 100042,
-    "title": "Dumb and Dumber To",
-    "year": "2014",
-    "genres": [
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/cvEi0xV7TUkabJGuzulhvbMjrHi.jpg"
-  },
-  {
-    "id": 872585,
-    "title": "Oppenheimer",
-    "year": "2023",
-    "genres": [
-      "Drama",
-      "History"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+    "director": "Peter McLeod",
+    "poster": "https://image.tmdb.org/t/p/w500/hcjYvv4k9qs0lDG1Q3GIglT30IW.jpg"
   },
   {
     "id": 1084199,
@@ -1806,686 +5187,114 @@
       "Science Fiction",
       "Thriller"
     ],
+    "cast": [
+      "Sophie Thatcher",
+      "Jack Quaid",
+      "Lukas Gage"
+    ],
+    "director": "Drew Hancock",
     "poster": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg"
   },
   {
-    "id": 1054867,
-    "title": "One Battle After Another",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg"
-  },
-  {
-    "id": 354912,
-    "title": "Coco",
-    "year": "2017",
-    "genres": [
-      "Family",
-      "Animation",
-      "Music",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
-  },
-  {
-    "id": 206647,
-    "title": "Spectre",
-    "year": "2015",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg"
-  },
-  {
-    "id": 1364608,
-    "title": "Anemone",
-    "year": "2025",
-    "genres": [
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/kXFHVJqZkWtkSRlLpv2clN8KP6E.jpg"
-  },
-  {
-    "id": 912649,
-    "title": "Venom: The Last Dance",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg"
-  },
-  {
-    "id": 949855,
-    "title": "Black Mold",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Drama",
-      "TV Movie"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/tEN12WSxepFqZmWEknBnrXoHDvL.jpg"
-  },
-  {
-    "id": 1400782,
-    "title": "The Perfect Neighbor",
-    "year": "2025",
-    "genres": [
-      "Documentary",
-      "Thriller",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg"
-  },
-  {
-    "id": 474350,
-    "title": "It Chapter Two",
-    "year": "2019",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg"
-  },
-  {
-    "id": 337167,
-    "title": "Fifty Shades Freed",
-    "year": "2018",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg"
-  },
-  {
-    "id": 11,
-    "title": "Star Wars",
-    "year": "1977",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
-  },
-  {
-    "id": 507244,
-    "title": "Afterburn",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xR0IhVBjbNU34b8erhJCgRbjXo3.jpg"
-  },
-  {
-    "id": 672,
-    "title": "Harry Potter and the Chamber of Secrets",
-    "year": "2002",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg"
-  },
-  {
-    "id": 1028248,
-    "title": "As Good as Dead",
+    "id": 508947,
+    "title": "Turning Red",
     "year": "2022",
     "genres": [
-      "Action",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qqQPxxRQqfLrq0ubfDQCwhJHZ91.jpg"
-  },
-  {
-    "id": 675,
-    "title": "Harry Potter and the Order of the Phoenix",
-    "year": "2007",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg"
-  },
-  {
-    "id": 381284,
-    "title": "Hidden Figures",
-    "year": "2016",
-    "genres": [
-      "Drama",
-      "History"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg"
-  },
-  {
-    "id": 348,
-    "title": "Alien",
-    "year": "1979",
-    "genres": [
-      "Horror",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
-  },
-  {
-    "id": 1241470,
-    "title": "Osiris",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/3YtZHtXPNG5AleisgEatEfZOT2w.jpg"
-  },
-  {
-    "id": 693134,
-    "title": "Dune: Part Two",
-    "year": "2024",
-    "genres": [
-      "Science Fiction",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
-  },
-  {
-    "id": 166428,
-    "title": "How to Train Your Dragon: The Hidden World",
-    "year": "2019",
-    "genres": [
       "Animation",
       "Family",
-      "Adventure"
+      "Comedy",
+      "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+    "cast": [
+      "Rosalie Chiang",
+      "Sandra Oh",
+      "Ava Morse"
+    ],
+    "director": "Domee Shi",
+    "poster": "https://image.tmdb.org/t/p/w500/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
   },
   {
-    "id": 16869,
-    "title": "Inglourious Basterds",
-    "year": "2009",
-    "genres": [
-      "Drama",
-      "Thriller",
-      "War"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg"
-  },
-  {
-    "id": 1502943,
-    "title": "Night of the Reaper",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/HVR8cNWzBVoqbEIIqVtLpDvVKn.jpg"
-  },
-  {
-    "id": 1327862,
-    "title": "Regretting You",
-    "year": "2025",
+    "id": 4478,
+    "title": "Indecent Proposal",
+    "year": "1993",
     "genres": [
       "Romance",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/z4gVnxTaks3anTycwKjDmvQSuWt.jpg"
-  },
-  {
-    "id": 680,
-    "title": "Pulp Fiction",
-    "year": "1994",
-    "genres": [
-      "Thriller",
-      "Crime",
-      "Comedy"
+    "cast": [
+      "Robert Redford",
+      "Demi Moore",
+      "Woody Harrelson"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+    "director": "Adrian Lyne",
+    "poster": "https://image.tmdb.org/t/p/w500/a39WoiTJEG5kNLIrr3kOMwg3LFg.jpg"
   },
   {
-    "id": 1376434,
-    "title": "Predator: Killer of Killers",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Action",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg"
-  },
-  {
-    "id": 10555,
-    "title": "Shark Tale",
-    "year": "2004",
-    "genres": [
-      "Animation",
-      "Action",
-      "Comedy",
-      "Family"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg"
-  },
-  {
-    "id": 1369679,
-    "title": "Get Fast",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/tDpTR7xhHu9cz1X4JAIRFwXyf6U.jpg"
-  },
-  {
-    "id": 539972,
-    "title": "Kraven the Hunter",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/i47IUSsN126K11JUzqQIOi1Mg1M.jpg"
-  },
-  {
-    "id": 19995,
-    "title": "Avatar",
-    "year": "2009",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg"
-  },
-  {
-    "id": 105,
-    "title": "Back to the Future",
-    "year": "1985",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
-  },
-  {
-    "id": 37724,
-    "title": "Skyfall",
-    "year": "2012",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg"
-  },
-  {
-    "id": 757725,
-    "title": "Shadow Force",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg"
-  },
-  {
-    "id": 370172,
-    "title": "No Time to Die",
-    "year": "2021",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
-  },
-  {
-    "id": 157336,
-    "title": "Interstellar",
-    "year": "2014",
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
-  },
-  {
-    "id": 1169210,
-    "title": "The Mannequin",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Crime",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/oFTpB1gzS02LtrsenTWxOKbsMpM.jpg"
-  },
-  {
-    "id": 1251717,
-    "title": "Vicious",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/dYxrsyUEdFOOq7xzIuvEb1858Sg.jpg"
-  },
-  {
-    "id": 945961,
-    "title": "Alien: Romulus",
-    "year": "2024",
-    "genres": [
-      "Horror",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg"
-  },
-  {
-    "id": 1244039,
-    "title": "Butchers Book Two: Raghorn",
-    "year": "2024",
-    "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/uSLYBuDTHpTAJI9vcm2brMu4J9H.jpg"
-  },
-  {
-    "id": 575265,
-    "title": "Mission: Impossible - The Final Reckoning",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg"
-  },
-  {
-    "id": 346698,
-    "title": "Barbie",
-    "year": "2023",
-    "genres": [
-      "Comedy",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
-  },
-  {
-    "id": 62213,
-    "title": "Dark Shadows",
-    "year": "2012",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fd9Ck4cxVlmtXsbeGtQW7WFuUFI.jpg"
-  },
-  {
-    "id": 1585,
-    "title": "It's a Wonderful Life",
-    "year": "1946",
-    "genres": [
-      "Drama",
-      "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg"
-  },
-  {
-    "id": 83533,
-    "title": "Avatar: Fire and Ash",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Adventure",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg"
-  },
-  {
-    "id": 329996,
-    "title": "Dumbo",
-    "year": "2019",
-    "genres": [
-      "Family",
-      "Fantasy",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qgibOIN9RDHiPdimw7Gc7YcY960.jpg"
-  },
-  {
-    "id": 997113,
-    "title": "Hedda",
-    "year": "2025",
-    "genres": [
-      "Drama",
-      "Thriller",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ecflk7AZf0ij205yDswjlvdxlCO.jpg"
-  },
-  {
-    "id": 414906,
-    "title": "The Batman",
+    "id": 507086,
+    "title": "Jurassic World Dominion",
     "year": "2022",
     "genres": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
-  },
-  {
-    "id": 1294203,
-    "title": "My Fault: London",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg"
-  },
-  {
-    "id": 36669,
-    "title": "Die Another Day",
-    "year": "2002",
-    "genres": [
       "Adventure",
       "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/bZmGqOhMhaLn8AoFMvFDct4tbrL.jpg"
-  },
-  {
-    "id": 1234821,
-    "title": "Jurassic World Rebirth",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Adventure",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg"
-  },
-  {
-    "id": 156022,
-    "title": "The Equalizer",
-    "year": "2014",
-    "genres": [
-      "Thriller",
-      "Action",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg"
-  },
-  {
-    "id": 597,
-    "title": "Titanic",
-    "year": "1997",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
-  },
-  {
-    "id": 269149,
-    "title": "Zootopia",
-    "year": "2016",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Family",
-      "Comedy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg"
-  },
-  {
-    "id": 533535,
-    "title": "Deadpool & Wolverine",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Comedy",
       "Science Fiction"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
-  },
-  {
-    "id": 936108,
-    "title": "Smurfs",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Family",
-      "Fantasy"
+    "cast": [
+      "Chris Pratt",
+      "Bryce Dallas Howard",
+      "Laura Dern"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/8o6lkhL32xQJeB52IIG1us5BVey.jpg"
+    "director": "Colin Trevorrow",
+    "poster": "https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg"
   },
   {
-    "id": 120,
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "year": "2001",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
-  },
-  {
-    "id": 193756,
-    "title": "Lone Survivor",
-    "year": "2013",
-    "genres": [
-      "War",
-      "Action",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg"
-  },
-  {
-    "id": 76600,
-    "title": "Avatar: The Way of Water",
-    "year": "2022",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
-  },
-  {
-    "id": 13,
-    "title": "Forrest Gump",
-    "year": "1994",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
-  },
-  {
-    "id": 1865,
-    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "id": 52688,
+    "title": "November Christmas",
     "year": "2011",
     "genres": [
-      "Adventure",
-      "Action",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg"
-  },
-  {
-    "id": 667,
-    "title": "You Only Live Twice",
-    "year": "1967",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/fdRbvRcEXcf2rC4ghLFZzCWPSmB.jpg"
-  },
-  {
-    "id": 1373445,
-    "title": "V/H/S/Halloween",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg"
-  },
-  {
-    "id": 1029281,
-    "title": "Strange Darling",
-    "year": "2024",
-    "genres": [
-      "Crime",
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg"
-  },
-  {
-    "id": 950387,
-    "title": "A Minecraft Movie",
-    "year": "2025",
-    "genres": [
-      "Family",
-      "Fantasy",
-      "Comedy",
-      "Adventure",
-      "Action"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg"
-  },
-  {
-    "id": 103,
-    "title": "Taxi Driver",
-    "year": "1976",
-    "genres": [
-      "Crime",
+      "TV Movie",
       "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
+    "cast": [
+      "Sam Elliott",
+      "John Corbett",
+      "Sarah Paulson"
+    ],
+    "director": "Robert Harmon",
+    "poster": "https://image.tmdb.org/t/p/w500/5pyVraJsoQpSVFHSDYI3ners0qI.jpg"
+  },
+  {
+    "id": 1425122,
+    "title": "A Very Jonas Christmas Movie",
+    "year": "2025",
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "cast": [
+      "Kevin Jonas",
+      "Joe Jonas",
+      "Nick Jonas"
+    ],
+    "director": "Jessica Yu",
+    "poster": "https://image.tmdb.org/t/p/w500/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg"
+  },
+  {
+    "id": 10530,
+    "title": "Pocahontas",
+    "year": "1995",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Romance"
+    ],
+    "cast": [
+      "Irene Bedard",
+      "Mel Gibson",
+      "David Ogden Stiers"
+    ],
+    "director": "Mike Gabriel",
+    "poster": "https://image.tmdb.org/t/p/w500/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg"
   },
   {
     "id": 1236470,
@@ -2496,68 +5305,65 @@
       "Mystery",
       "Thriller"
     ],
+    "cast": [
+      "Matthew McConaughey",
+      "America Ferrera",
+      "Yul Vazquez"
+    ],
+    "director": "Paul Greengrass",
     "poster": "https://image.tmdb.org/t/p/w500/zpygCOYY1DPBkeUsrrznLRN5js5.jpg"
   },
   {
-    "id": 1042834,
-    "title": "Eden",
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg"
-  },
-  {
-    "id": 447273,
-    "title": "Snow White",
-    "year": "2025",
-    "genres": [
-      "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xWWg47tTfparvjK0WJNX4xL8lW2.jpg"
-  },
-  {
-    "id": 1073079,
-    "title": "Kill Her Goats",
+    "id": 502356,
+    "title": "The Super Mario Bros. Movie",
     "year": "2023",
     "genres": [
-      "Horror"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/mFzyMEQvKwf2rXxB1GsSocJfL11.jpg"
-  },
-  {
-    "id": 98,
-    "title": "Gladiator",
-    "year": "2000",
-    "genres": [
-      "Action",
-      "Drama",
-      "Adventure"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
-  },
-  {
-    "id": 122,
-    "title": "The Lord of the Rings: The Return of the King",
-    "year": "2003",
-    "genres": [
+      "Family",
+      "Comedy",
       "Adventure",
-      "Fantasy",
-      "Action"
+      "Animation",
+      "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
+    "cast": [
+      "Chris Pratt",
+      "Anya Taylor-Joy",
+      "Charlie Day"
+    ],
+    "director": "Aaron Horvath",
+    "poster": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
   },
   {
-    "id": 701387,
-    "title": "Bugonia",
+    "id": 495398,
+    "title": "Deadly Exchange",
+    "year": "2017",
+    "genres": [
+      "Drama",
+      "Crime",
+      "TV Movie"
+    ],
+    "cast": [
+      "Lindsay Hartley",
+      "Jason-Shane Scott",
+      "Victoria Konefal"
+    ],
+    "director": "Tom Shell",
+    "poster": "https://image.tmdb.org/t/p/w500/8lmxueK2DghZiVaJ9RK8yW435lQ.jpg"
+  },
+  {
+    "id": 574475,
+    "title": "Final Destination Bloodlines",
     "year": "2025",
     "genres": [
-      "Science Fiction",
-      "Thriller"
+      "Horror",
+      "Mystery"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg"
+    "cast": [
+      "Kaitlyn Santa Juana",
+      "Teo Briones",
+      "Rya Kihlstedt"
+    ],
+    "director": "Adam B. Stein",
+    "poster": "https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg"
   },
   {
     "id": 1244953,
@@ -2566,171 +5372,13 @@
     "genres": [
       "Thriller"
     ],
+    "cast": [
+      "Sophie Turner",
+      "Rhys Coiro",
+      "Billy Campbell"
+    ],
+    "director": "Carlson Young",
     "poster": "https://image.tmdb.org/t/p/w500/n9GS1mUAVMiC3gBn9rb8jrDoK4D.jpg"
-  },
-  {
-    "id": 72976,
-    "title": "Lincoln",
-    "year": "2012",
-    "genres": [
-      "History",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/5KeUqW6DpVtf8G9VMuI2l0XIPCo.jpg"
-  },
-  {
-    "id": 756999,
-    "title": "The Black Phone",
-    "year": "2022",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg"
-  },
-  {
-    "id": 426063,
-    "title": "Nosferatu",
-    "year": "2024",
-    "genres": [
-      "Horror",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
-  },
-  {
-    "id": 660,
-    "title": "Thunderball",
-    "year": "1965",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg"
-  },
-  {
-    "id": 927254,
-    "title": "The Twits",
-    "year": "2025",
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg"
-  },
-  {
-    "id": 1106289,
-    "title": "The Pickup",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vFWvWhfAvij8UIngg2Vf6JV95Cr.jpg"
-  },
-  {
-    "id": 648878,
-    "title": "Eddington",
-    "year": "2025",
-    "genres": [
-      "Western",
-      "Comedy",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg"
-  },
-  {
-    "id": 7451,
-    "title": "xXx",
-    "year": "2002",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg"
-  },
-  {
-    "id": 1319895,
-    "title": "Hostile Takeover",
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/vntwlS3CAKfoLTs90GaoK6lymBC.jpg"
-  },
-  {
-    "id": 755898,
-    "title": "War of the Worlds",
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg"
-  },
-  {
-    "id": 986097,
-    "title": "HIM",
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg"
-  },
-  {
-    "id": 497,
-    "title": "The Green Mile",
-    "year": "1999",
-    "genres": [
-      "Fantasy",
-      "Drama",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/o0lO84GI7qrG6XFvtsPOSV7CTNa.jpg"
-  },
-  {
-    "id": 823464,
-    "title": "Godzilla x Kong: The New Empire",
-    "year": "2024",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
-  },
-  {
-    "id": 4169,
-    "title": "Breach",
-    "year": "2007",
-    "genres": [
-      "Drama",
-      "Thriller",
-      "Crime",
-      "History"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/m2iVkJPxDrrink7NiE412nFBMQj.jpg"
-  },
-  {
-    "id": 1272166,
-    "title": "Ballad of a Small Player",
-    "year": "2025",
-    "genres": [
-      "Mystery",
-      "Thriller",
-      "Crime",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg"
   },
   {
     "id": 941109,
@@ -2739,101 +5387,81 @@
     "genres": [
       "Crime"
     ],
+    "cast": [
+      "Mark Wahlberg",
+      "LaKeith Stanfield",
+      "Rosa Salazar"
+    ],
+    "director": "Shane Black",
     "poster": "https://image.tmdb.org/t/p/w500/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg"
   },
   {
-    "id": 10764,
-    "title": "Quantum of Solace",
-    "year": "2008",
+    "id": 11879,
+    "title": "Near Dark",
+    "year": "1987",
     "genres": [
-      "Adventure",
-      "Action",
-      "Thriller",
-      "Crime"
+      "Horror"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg"
+    "cast": [
+      "Adrian Pasdar",
+      "Jenny Wright",
+      "Lance Henriksen"
+    ],
+    "director": "Kathryn Bigelow",
+    "poster": "https://image.tmdb.org/t/p/w500/hVhFNn3IQxxARvnpLIKMx8ZfTtG.jpg"
   },
   {
-    "id": 154400,
-    "title": "The Drop",
-    "year": "2014",
-    "genres": [
-      "Drama",
-      "Crime"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/olQInYvVCW2wycMSU1ogo9Jshml.jpg"
-  },
-  {
-    "id": 9902,
-    "title": "Wrong Turn",
-    "year": "2003",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/7lyxwOg7SdGff79yKCQmJ3AKWSf.jpg"
-  },
-  {
-    "id": 9836,
-    "title": "Happy Feet",
-    "year": "2006",
+    "id": 2062,
+    "title": "Ratatouille",
+    "year": "2007",
     "genres": [
       "Animation",
       "Comedy",
-      "Family"
+      "Family",
+      "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/za41IHkj6LnkilfTzv5B2qmthKD.jpg"
+    "cast": [
+      "Patton Oswalt",
+      "Ian Holm",
+      "Lou Romano"
+    ],
+    "director": "Brad Bird",
+    "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
   },
   {
-    "id": 604079,
-    "title": "The Long Walk",
+    "id": 425274,
+    "title": "Now You See Me: Now You Don't",
     "year": "2025",
-    "genres": [
-      "Thriller"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg"
-  },
-  {
-    "id": 441694,
-    "title": "West Side Stories: The Making of a Classic",
-    "year": "2016",
-    "genres": [
-      "Documentary"
-    ],
-    "poster": ""
-  },
-  {
-    "id": 1312946,
-    "title": "The Map That Leads to You",
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg"
-  },
-  {
-    "id": 803796,
-    "title": "KPop Demon Hunters",
-    "year": "2025",
-    "genres": [
-      "Fantasy",
-      "Music",
-      "Comedy",
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/AjlRXTpRLAIiuofNqKcqrpUfPCZ.jpg"
-  },
-  {
-    "id": 8271,
-    "title": "Disturbia",
-    "year": "2007",
     "genres": [
       "Thriller",
-      "Drama",
+      "Crime",
       "Mystery"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/je3sZZpcfPeiR4eIqBKbxomOw6d.jpg"
+    "cast": [
+      "Jesse Eisenberg",
+      "Isla Fisher",
+      "Woody Harrelson"
+    ],
+    "director": "Ruben Fleischer",
+    "poster": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+  },
+  {
+    "id": 1229915,
+    "title": "Dead Mail",
+    "year": "2024",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Music",
+      "Mystery"
+    ],
+    "cast": [
+      "Sterling Macer Jr.",
+      "John Fleck",
+      "Tomas Boykin"
+    ],
+    "director": "Kyle McConaghy",
+    "poster": "https://image.tmdb.org/t/p/w500/mZultpdnzuCDAouwDs5ZYdkGGgT.jpg"
   },
   {
     "id": 423108,
@@ -2844,126 +5472,604 @@
       "Mystery",
       "Thriller"
     ],
+    "cast": [
+      "Patrick Wilson",
+      "Vera Farmiga",
+      "Ruairí O'Connor"
+    ],
+    "director": "Michael Chaves",
     "poster": "https://image.tmdb.org/t/p/w500/rQfX2xx8TUoNvyk892yKWNikJaM.jpg"
   },
   {
-    "id": 8337,
-    "title": "They Live",
-    "year": "1988",
+    "id": 8966,
+    "title": "Twilight",
+    "year": "2008",
     "genres": [
-      "Science Fiction",
-      "Action",
-      "Thriller"
+      "Fantasy",
+      "Drama",
+      "Romance"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg"
+    "cast": [
+      "Kristen Stewart",
+      "Robert Pattinson",
+      "Billy Burke"
+    ],
+    "director": "Catherine Hardwicke",
+    "poster": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg"
   },
   {
-    "id": 557,
-    "title": "Spider-Man",
-    "year": "2002",
-    "genres": [
-      "Action",
-      "Science Fiction"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg"
-  },
-  {
-    "id": 762509,
-    "title": "Mufasa: The Lion King",
-    "year": "2024",
-    "genres": [
-      "Adventure",
-      "Family",
-      "Animation"
-    ],
-    "poster": "https://image.tmdb.org/t/p/w500/lurEK87kukWNaHd0zYnsi3yzJrs.jpg"
-  },
-  {
-    "id": 1328803,
-    "title": "Prisoner of War",
+    "id": 668489,
+    "title": "Havoc",
     "year": "2025",
     "genres": [
       "Action",
-      "War",
-      "Thriller",
-      "History"
+      "Crime",
+      "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg"
+    "cast": [
+      "Tom Hardy",
+      "Jessie Mei Li",
+      "Timothy Olyphant"
+    ],
+    "director": "Gareth Evans",
+    "poster": "https://image.tmdb.org/t/p/w500/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg"
   },
   {
-    "id": 713364,
-    "title": "Clown in a Cornfield",
+    "id": 1083433,
+    "title": "I Know What You Did Last Summer",
     "year": "2025",
     "genres": [
       "Horror",
       "Mystery",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/6ep6gw90TJ8bYvJC6hEDo8SxjoJ.jpg"
+    "cast": [
+      "Madelyn Cline",
+      "Chase Sui Wonders",
+      "Jonah Hauer-King"
+    ],
+    "director": "Jennifer Kaytin Robinson",
+    "poster": "https://image.tmdb.org/t/p/w500/6BfZLQYj97NO1yD5JkSAf5vWzGj.jpg"
   },
   {
-    "id": 324857,
-    "title": "Spider-Man: Into the Spider-Verse",
-    "year": "2018",
+    "id": 244786,
+    "title": "Whiplash",
+    "year": "2014",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser"
+    ],
+    "director": "Damien Chazelle",
+    "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
+  },
+  {
+    "id": 76492,
+    "title": "Hotel Transylvania",
+    "year": "2012",
     "genres": [
       "Animation",
-      "Action",
-      "Adventure",
-      "Science Fiction"
+      "Comedy",
+      "Family",
+      "Fantasy"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+    "cast": [
+      "Adam Sandler",
+      "Andy Samberg",
+      "Selena Gomez"
+    ],
+    "director": "Genndy Tartakovsky",
+    "poster": "https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg"
   },
   {
-    "id": 1426776,
-    "title": "STRAW",
-    "year": "2025",
+    "id": 547116,
+    "title": "Deadman Standing",
+    "year": "2018",
     "genres": [
       "Thriller",
-      "Drama",
-      "Crime"
+      "Western"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg"
+    "cast": [
+      "Luke Arnold",
+      "Quinn Lord",
+      "Viva Bianca"
+    ],
+    "director": "Nicholas Barton",
+    "poster": "https://image.tmdb.org/t/p/w500/qHrXTNc4pzJ79VZ2JSw46HzAmwJ.jpg"
   },
   {
-    "id": 1038392,
-    "title": "The Conjuring: Last Rites",
-    "year": "2025",
+    "id": 510,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": "1975",
     "genres": [
-      "Horror"
+      "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg"
+    "cast": [
+      "Jack Nicholson",
+      "Brad Dourif",
+      "Louise Fletcher"
+    ],
+    "director": "Miloš Forman",
+    "poster": "https://image.tmdb.org/t/p/w500/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg"
   },
   {
-    "id": 106,
-    "title": "Predator",
-    "year": "1987",
+    "id": 1241470,
+    "title": "Osiris",
+    "year": "2025",
     "genres": [
       "Science Fiction",
       "Action",
-      "Adventure",
-      "Thriller"
+      "Horror"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg"
+    "cast": [
+      "Max Martini",
+      "Brianna Hildebrand",
+      "LaMonica Garrett"
+    ],
+    "director": "William Kaufman",
+    "poster": "https://image.tmdb.org/t/p/w500/3YtZHtXPNG5AleisgEatEfZOT2w.jpg"
   },
   {
-    "id": 10439,
-    "title": "Hocus Pocus",
-    "year": "1993",
+    "id": 47646,
+    "title": "The Grasshopper",
+    "year": "1970",
     "genres": [
-      "Fantasy",
-      "Comedy",
-      "Family"
+      "Romance",
+      "Drama"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg"
+    "cast": [
+      "Jacqueline Bisset",
+      "Jim Brown",
+      "Joseph Cotten"
+    ],
+    "director": "Jerry Paris",
+    "poster": "https://image.tmdb.org/t/p/w500/kvTEuUDnR7cWeSlh3oQzsYLtyNv.jpg"
   },
   {
-    "id": 615457,
-    "title": "Nobody",
-    "year": "2021",
+    "id": 866,
+    "title": "Finding Neverland",
+    "year": "2004",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Kate Winslet",
+      "Julie Christie"
+    ],
+    "director": "Marc Forster",
+    "poster": "https://image.tmdb.org/t/p/w500/5JyDPH4qdr0I6pF7Bjh1Qrf1Jhh.jpg"
+  },
+  {
+    "id": 36040,
+    "title": "Walkabout",
+    "year": "1971",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "cast": [
+      "Jenny Agutter",
+      "Luc Roeg",
+      "David Gulpilil"
+    ],
+    "director": "Nicolas Roeg",
+    "poster": "https://image.tmdb.org/t/p/w500/24vooYt5StgtgcQObVr1GHuM5gy.jpg"
+  },
+  {
+    "id": 77663,
+    "title": "Killing Season",
+    "year": "2013",
     "genres": [
       "Action",
       "Thriller"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg"
+    "cast": [
+      "Robert De Niro",
+      "John Travolta",
+      "Milo Ventimiglia"
+    ],
+    "director": "Mark Steven Johnson",
+    "poster": "https://image.tmdb.org/t/p/w500/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg"
+  },
+  {
+    "id": 125490,
+    "title": "Antiviral",
+    "year": "2012",
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "cast": [
+      "Caleb Landry Jones",
+      "Sarah Gadon",
+      "Malcolm McDowell"
+    ],
+    "director": "Brandon Cronenberg",
+    "poster": "https://image.tmdb.org/t/p/w500/rIn0ruFDU8psnCGkPgA9fbKJJUy.jpg"
+  },
+  {
+    "id": 279721,
+    "title": "Pancho Barnes",
+    "year": "1988",
+    "genres": [
+      "Drama",
+      "Adventure"
+    ],
+    "cast": [
+      "Valerie Bertinelli",
+      "Ted Wass",
+      "Sam Robards"
+    ],
+    "director": "Richard T. Heffron",
+    "poster": "https://image.tmdb.org/t/p/w500/iHoECgv6ek5b7MkBQQBOj0zgJKB.jpg"
+  },
+  {
+    "id": 297604,
+    "title": "Carnal Cravings",
+    "year": "2006",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "cast": [
+      "Monique Parent",
+      "Monique Alexander",
+      "Tyler Faith"
+    ],
+    "director": "J.W. McHausen",
+    "poster": "https://image.tmdb.org/t/p/w500/r4YP4ebskn2ZvFPsqqNuwnrkg0C.jpg"
+  },
+  {
+    "id": 760104,
+    "title": "X",
+    "year": "2022",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Mia Goth",
+      "Jenna Ortega",
+      "Brittany Snow"
+    ],
+    "director": "Ti West",
+    "poster": "https://image.tmdb.org/t/p/w500/lopZSVtXzhFY603E9OqF7O1YKsh.jpg"
+  },
+  {
+    "id": 479366,
+    "title": "Deadly Exposé",
+    "year": "2017",
+    "genres": [
+      "Thriller"
+    ],
+    "cast": [
+      "Melissa Archer",
+      "Brandon Beemer",
+      "Alyshia Ochse"
+    ],
+    "director": "Chris Jaymes",
+    "poster": "https://image.tmdb.org/t/p/w500/2eDIw25dRxUf77CtiUvPIcAPMlh.jpg"
+  },
+  {
+    "id": 648878,
+    "title": "Eddington",
+    "year": "2025",
+    "genres": [
+      "Western",
+      "Comedy",
+      "Crime"
+    ],
+    "cast": [
+      "Joaquin Phoenix",
+      "Deirdre O'Connell",
+      "Emma Stone"
+    ],
+    "director": "Ari Aster",
+    "poster": "https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg"
+  },
+  {
+    "id": 216015,
+    "title": "Fifty Shades of Grey",
+    "year": "2015",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "cast": [
+      "Dakota Johnson",
+      "Jamie Dornan",
+      "Jennifer Ehle"
+    ],
+    "director": "Sam Taylor-Johnson",
+    "poster": "https://image.tmdb.org/t/p/w500/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg"
+  },
+  {
+    "id": 672,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": "2002",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "director": "Chris Columbus",
+    "poster": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg"
+  },
+  {
+    "id": 1041613,
+    "title": "Immaculate",
+    "year": "2024",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "cast": [
+      "Sydney Sweeney",
+      "Álvaro Morte",
+      "Simona Tabasco"
+    ],
+    "director": "Michael Mohan",
+    "poster": "https://image.tmdb.org/t/p/w500/zyopv7D5j7cfswG0NYiA14qAdPC.jpg"
+  },
+  {
+    "id": 639838,
+    "title": "Cruel Fixation",
+    "year": "2019",
+    "genres": [
+      "Thriller"
+    ],
+    "cast": [
+      "Kristina Klebe",
+      "Tanner Buchanan",
+      "Sebastian Cabanas"
+    ],
+    "director": "Damián Romay",
+    "poster": "https://image.tmdb.org/t/p/w500/1d7A66mMtoJ5TQ3UWJn26qUZEhQ.jpg"
+  },
+  {
+    "id": 9479,
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Family"
+    ],
+    "cast": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O'Hara"
+    ],
+    "director": "Henry Selick",
+    "poster": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+  },
+  {
+    "id": 940551,
+    "title": "Migration",
+    "year": "2023",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "cast": [
+      "Kumail Nanjiani",
+      "Elizabeth Banks",
+      "Caspar Jennings"
+    ],
+    "director": "Benjamin Renner",
+    "poster": "https://image.tmdb.org/t/p/w500/dpXxBDi0ut5svjh5fbAqLoaJSq8.jpg"
+  },
+  {
+    "id": 1522923,
+    "title": "Safe House",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Lucien Laviscount",
+      "Hannah John-Kamen",
+      "Lewis Tan"
+    ],
+    "director": "Jamie Marshall",
+    "poster": "https://image.tmdb.org/t/p/w500/peUlWeJaqTi0YnsM4L6gnWzz0Ko.jpg"
+  },
+  {
+    "id": 1242419,
+    "title": "Roofman",
+    "year": "2025",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Crime"
+    ],
+    "cast": [
+      "Channing Tatum",
+      "Kirsten Dunst",
+      "Ben Mendelsohn"
+    ],
+    "director": "Derek Cianfrance",
+    "poster": "https://image.tmdb.org/t/p/w500/uhXxW7EmzZIWFVpbF42r6L2g7Oh.jpg"
+  },
+  {
+    "id": 1380983,
+    "title": "Renovation Romance",
+    "year": "2024",
+    "genres": [
+      "TV Movie",
+      "Romance",
+      "Comedy"
+    ],
+    "cast": [
+      "Jessica Lowndes",
+      "Daniel Lissing",
+      "Adam Hurtig"
+    ],
+    "director": "Robin Dunne",
+    "poster": "https://image.tmdb.org/t/p/w500/37018RONS3c5qusxIJV5BHrFF97.jpg"
+  },
+  {
+    "id": 1316147,
+    "title": "Grand Prix of Europe",
+    "year": "2025",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "cast": [
+      "Gemma Arterton",
+      "Thomas Brodie-Sangster",
+      "Hayley Atwell"
+    ],
+    "director": "Waldemar Fast",
+    "poster": "https://image.tmdb.org/t/p/w500/jGGEqRaHAJ1pKJBj35WVxDyQBNw.jpg"
+  },
+  {
+    "id": 541099,
+    "title": "DeadTectives",
+    "year": "2019",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "cast": [
+      "Chris Geere",
+      "Tina Ivlev",
+      "David Newman"
+    ],
+    "director": "Tony West",
+    "poster": "https://image.tmdb.org/t/p/w500/o3Fo0GFHYzNVK5b1KjhyGYE05vy.jpg"
+  },
+  {
+    "id": 1140535,
+    "title": "Presence",
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Drama"
+    ],
+    "cast": [
+      "Callina Liang",
+      "Lucy Liu",
+      "Chris Sullivan"
+    ],
+    "director": "Steven Soderbergh",
+    "poster": "https://image.tmdb.org/t/p/w500/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg"
+  },
+  {
+    "id": 73796,
+    "title": "Carnal Sins",
+    "year": "2001",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Brandy Davis",
+      "Danny Pape",
+      "Anthony Skordi"
+    ],
+    "director": "Madison Monroe",
+    "poster": "https://image.tmdb.org/t/p/w500/px9kRZYmcz8I8O2JwIw1hoSCYXv.jpg"
+  },
+  {
+    "id": 1645,
+    "title": "A Time to Kill",
+    "year": "1996",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Matthew McConaughey",
+      "Sandra Bullock",
+      "Samuel L. Jackson"
+    ],
+    "director": "Joel Schumacher",
+    "poster": "https://image.tmdb.org/t/p/w500/w8UCke112E9jrhjKcwG32kyhTx5.jpg"
+  },
+  {
+    "id": 953,
+    "title": "Madagascar",
+    "year": "2005",
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "cast": [
+      "Ben Stiller",
+      "Chris Rock",
+      "David Schwimmer"
+    ],
+    "director": "Eric Darnell",
+    "poster": "https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg"
+  },
+  {
+    "id": 1205177,
+    "title": "Cottonmouth",
+    "year": "2025",
+    "genres": [
+      "Western",
+      "Thriller",
+      "Action"
+    ],
+    "cast": [
+      "Martin Sensmeier",
+      "Esai Morales",
+      "Ron Perlman"
+    ],
+    "director": "Brock Harris",
+    "poster": "https://image.tmdb.org/t/p/w500/dEnE2xYn3jZuqFEG8JU1TRIzjea.jpg"
+  },
+  {
+    "id": 426063,
+    "title": "Nosferatu",
+    "year": "2024",
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "cast": [
+      "Lily-Rose Depp",
+      "Nicholas Hoult",
+      "Bill Skarsgård"
+    ],
+    "director": "Robert Eggers",
+    "poster": "https://image.tmdb.org/t/p/w500/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg"
+  },
+  {
+    "id": 645710,
+    "title": "The Voyeurs",
+    "year": "2021",
+    "genres": [
+      "Thriller"
+    ],
+    "cast": [
+      "Sydney Sweeney",
+      "Justice Smith",
+      "Ben Hardy"
+    ],
+    "director": "Michael Mohan",
+    "poster": "https://image.tmdb.org/t/p/w500/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg"
   }
 ]
