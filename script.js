@@ -15,6 +15,7 @@ statsPage.style.display = 'none';
 
 
 // DOM refs
+const loginBtn = document.getElementById('loginBtn')
 const wordContainer = document.getElementById('word-container');
 const keyboardEl = document.getElementById('keyboard');
 const msg = document.getElementById('message');
@@ -54,6 +55,8 @@ const posterName = document.getElementById('poster-name');
 const posterMessage = document.getElementById('poster-message')
 
 const trailerBtn = document.getElementById('trailer-btn');
+
+const loginModal = document.getElementById('login-modal')
 
 
 
@@ -501,6 +504,19 @@ function showHintModal() {
 closeHint.onclick = () => {
   hintModal.classList.add('hidden');
 };
+
+// ---------------- Login Logic ----------------
+
+
+
+function showLoginModal() {
+  loginModal.classList.remove('hidden');
+
+}
+
+function closeLogin() {
+  loginModal.classList.add('hidden');
+}
 
 
 // ---------------- Poster Modal Logic ----------------

@@ -18,7 +18,7 @@
 <body>
 
   <section id="menu-bar" class="menu-bar">
-  <button id="loginBtn" class="login-button"><i class="fa-solid fa-user"></i></button>
+  <button id="loginBtn" class="login-button" onclick="showLoginModal()"><i class="fa-solid fa-user"></i></button>
   </section>
 
   <section id="landing-page">
@@ -140,14 +140,16 @@
 
    <!-- Login Modal -->
     <div id="login-modal" class="modal hidden">
-      <div class="modal-content">
-        <button id="sign-in">Sign In</button>
-        <button id="sign-up">Sign Up</button>
+      <div class="modal-content modal-login">
+        <button id="sign-in" class="sign-btn">Sign In</button>
+        <button id="sign-up" class="sign-btn">Sign Up</button>
         <div id="window-content">
           <input type="text" id="usernameInput" placeholder="Username">
+          <br>
           <input type="password" id="passwordInput" placeholder="Password">
-          <button id="submitBtn">Submit</button>
-          <button id="close-signin">Close</button>
+          <br>
+          <button id="submitBtn" class="login-btn">Submit</button>
+          <button id="close-signin" class="login-btn" onclick="closeLogin()">Cancel</button>
         </div>
       </div>
     </div>

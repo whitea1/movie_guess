@@ -34,13 +34,59 @@
     color: #bfbfbf76;
     border: none;
     padding: 8px 16px;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     border-radius: 2px;
     cursor: pointer;
   }
 
   .login-button:hover {
     color: white;
+  }
+
+  .sign-btn {
+    display: flex;
+    flex-direction: row;
+    background: none;
+    color: white;
+    border: 1px solid white;
+    border-radius: 2px;
+    padding: 0.8rem 0.5rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin:0.2rem 0.1rem;
+    cursor: pointer;
+  }
+
+  .sign-btn:hover {
+    background: #bfbfbf76;
+  }
+
+
+  .login-btn {
+    background: linear-gradient(180deg, #742bb8, #8b58ba);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 0.8rem 5rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin:0.5rem 0.3rem;
+    cursor: pointer;
+  }
+
+  .login-btn:hover {
+    background: #8c58bc;
+  }
+
+  input {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 1rem;
+    margin: 6px;
+    width: 60%;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+
   }
 
   #landing-page {
@@ -94,7 +140,6 @@
 
   .landing-btn:hover {
     background: #8c58bc;
-    cursor: pointer;
   }
 
   .secondary {
